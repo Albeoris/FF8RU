@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“{Char Squall}?{Line} О чём задумался?”" Original="Quistis{Line}“{Char Squall}.{Line} Is there something on your mind?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Да так...”" Original="{Char Squall}{Line}“...Not really.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Quistis}{Line}“Да так!..”" Original="Quistis{Line}“...Not really.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Хахахаха!”" Original="Quistis{Line}“Hahaha!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Squall}{Line}“Я сказал что-то смешное?”" Original="{Char Squall}{Line}“What’s so funny?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Quistis}{Line}“Нет-нет, я просто рада!”" Original="Quistis{Line}“Funny?  No, no, it’s not that!{Line} I’m just happy.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Quistis}{Line}“Кажется, я всё лучше понимаю{Line} своего студента.”" Original="Quistis{Line}“I feel like I’m beginning to understand my{Line} student a little.  That’s all.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Squall}{Line}“Я сложнее, чем вы думаете.”" Original="{Char Squall}{Line}“I’m more complex{Line} than you think.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Quistis}{Line}“Тогда расскажи!..”" Original="Quistis{Line}“Then tell me.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Quistis}{Line}“Расскажи больше о себе.”" Original="Quistis{Line}“Tell me more{Line} about yourself.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Squall}{Line}“Это не...”" Original="{Char Squall}{Line}“It’s none of your...”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Quistis}{Line}“...ваше дело!”" Original="Quistis{Line}“...Business!”" />
+</Monologues>
