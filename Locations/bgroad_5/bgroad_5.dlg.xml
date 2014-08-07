@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="Zell{Line}“Finally!{Line} There you are.”" Original="Zell{Line}“Finally!{Line} There you are.”" />
+  <Monologue Order="2" IsIndent="False" Current="Zell{Line}“Where the hell were you?{Line} I was lookin’ all over the place.”" Original="Zell{Line}“Where the hell were you?{Line} I was lookin’ all over the place.”" />
+  <Monologue Order="3" IsIndent="False" Current="Zell{Line}“We’re SeeDs now, right?{Line} So guess what!?{Line} We got our own rooms, baby!”" Original="Zell{Line}“We’re SeeDs now, right?{Line} So guess what!?{Line} We got our own rooms, baby!”" />
+  <Monologue Order="4" IsIndent="False" Current="Zell{Line}“Your new room is right across{Line} from your old one.”" Original="Zell{Line}“Your new room is right across{Line} from your old one.”" />
+  <Monologue Order="5" IsIndent="False" Current="Zell{Line}“That’s what I was asked to tell you.{Line} Man, it took me forever!”" Original="Zell{Line}“That’s what I was asked to tell you.{Line} Man, it took me forever!”" />
+  <Monologue Order="0" IsIndent="False" Current="Garden Faculty{Line}“This area has been completely{Line} secured.  Report to another area.”" Original="Garden Faculty{Line}“This area has been completely{Line} secured.  Report to another area.”" />
+  <Monologue Order="1" IsIndent="False" Current="Yes, sir{Line}Enough of this pretending" Original="Yes, sir{Line}Enough of this pretending" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Squall}{Line}“Yes, sir.”" Original="{Char Squall}{Line}“Yes, sir.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Get out of our way.{Line} We’re with the headmaster.”" Original="{Char Squall}{Line}“Get out of our way.{Line} We’re with the headmaster.”" />
+  <Monologue Order="4" IsIndent="False" Current="Garden Faculty{Line}“What...!?  Another one of{Line} Cid’s followers!?  Prepare to die!”" Original="Garden Faculty{Line}“What...!?  Another one of{Line} Cid’s followers!?  Prepare to die!”" />
+  <Monologue Order="5" IsIndent="True" Current="“Интересно, сколько человек{Line} сегодня собирается сдавать экзамен?”" Original="“I wonder how many are going{Line} to pass the SeeD exam today?”" />
+  <Monologue Order="6" IsIndent="False" Current="“Какая разница, всё равно тесты завалили...”" Original="“But that written test{Line} sure was hard...”" />
+  <Monologue Order="7" IsIndent="False" Current="“Ну, ты хотя бы с письменной{Line} частью справилась.”" Original="“Oh, at least you made it{Line} to the written part.”" />
+  <Monologue Order="8" IsIndent="False" Current="“А я ещё с хвостами не разобралась.”" Original="“I still haven’t finished{Line} all my credits yet.”" />
+  <Monologue Order="9" IsIndent="False" Current="“Мне тоже ещё много сдавать!”" Original="“I know.{Line} I have a lot left, too!”" />
+  <Monologue Order="10" IsIndent="False" Current="“Давайте вместе пойдём на пересдачу!”" Original="“It’d be nice if we could{Line} all take it together.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Ага. Будет круто, если мы{Line} ещё и всё сдадим!”" Original="“Yeah.  Even cooler if{Line} the 3 of us pass.”" />
+  <Monologue Order="12" IsIndent="True" Current="“Слушайте, а ведь скоро фестиваль...”" Original="“Oh yeah... The Garden Festival’s{Line} coming up soon, isn’t it?”" />
+  <Monologue Order="13" IsIndent="False" Current="“Ага. На площади уже сцену соорудили.”" Original="“Uh huh.{Line} They’re setting stuff up by the quad.”" />
+  <Monologue Order="14" IsIndent="False" Current="“Помойму, сделали уже больше,{Line} чем за весь предыдущий год.”" Original="“Probably a lot more work than last year.”" />
+  <Monologue Order="15" IsIndent="False" Current="“А кто сейчас возглавляет комитет?”" Original="“So like, who’s on the committee{Line} this year, anyway?”" />
+  <Monologue Order="16" IsIndent="False" Current="“Помойму, новенькая,{Line} которую недавно перевели.”" Original="“I think it’s that new girl{Line} who just transferred here.”" />
+  <Monologue Order="17" IsIndent="False" Current="“Вау... Внезапно...”" Original="“Wow... Really...”" />
+  <Monologue Order="18" IsIndent="True" Current="“Девчонки... мы ведь...{Line} Останемся подругами после выпуска?”" Original="“Umm... We’ll all still be friends{Line} even after we graduate, right...?”" />
+  <Monologue Order="19" IsIndent="False" Current="“А чего это тебя вдруг заинтересовало?”" Original="“What’s this all of a sudden?”" />
+  <Monologue Order="20" IsIndent="False" Current="“Ну... Не знаю...{Line} Просто...”" Original="“Oh, ummm...{Line} Nothing really...{Line} Just wondering, I guess...”" />
+  <Monologue Order="21" IsIndent="False" Current="“Хехехе. Ты как считаешь?”" Original="“Hehe.{Line} What do you think?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Ну, если подумать...{Line} МЫ точно останемся, а вот...”" Original="“Let’s see... I know WE will, but...”" />
+  <Monologue Order="23" IsIndent="False" Current="“Эй!..”" Original="“H-Hey......”" />
+  <Monologue Order="24" IsIndent="False" Current="“Да расслабься!{Line} Я просто шучу.”" Original="“Take it easy!{Line} I’m just kidding!”" />
+  <Monologue Order="25" IsIndent="False" Current="“Конечно мы будем вместе!”" Original="“Yeah, it would be really cool{Line} if the 3 of us are still together.”" />
+  <Monologue Order="26" IsIndent="False" Current="“УРА!!!”" Original="“YEAH!!!”" />
+  <Monologue Order="27" IsIndent="True" Current="“Что?{Line} Вы поцапались?”" Original="“Huh?{Line} You guys fightin’?”" />
+  <Monologue Order="28" IsIndent="False" Current="“Это всё из-за...”" Original="“It’s his fault.”" />
+  <Monologue Order="29" IsIndent="False" Current="“ОПЯТЬ?!{Line} Я скажу из-за чего это!..”" Original="“WHAT!?{Line} You’ve gotta be KIDDING!”" />
+  <Monologue Order="30" IsIndent="False" Current="“Тьфу, иди ты...”" Original="“Pshaw, whatever...!”" />
+  <Monologue Order="31" IsIndent="False" Current="“Эй! Эй! Спокойно! Полегче...”" Original="“Hey, hey, calm down... Easy...”" />
+  <Monologue Order="32" IsIndent="False" Current="“Так с чего всё началось?”" Original="“So what started all this?”" />
+  <Monologue Order="33" IsIndent="False" Current="“Из-за чего произошёл инцидент?”" Original="“So, how’s it going{Line} since that incident?”" />
+  <Monologue Order="34" IsIndent="False" Current="“Какой ещё инцидент?”" Original="“Huh?  What incident?”" />
+  <Monologue Order="35" IsIndent="False" Current="“Ррррр... вы поцапались, помнишь?”" Original="“You were fighting, remember?”" />
+  <Monologue Order="36" IsIndent="False" Current="“Мы?!.. Да мы друг друга пальцем не тронули!”" Original="“Fighting...?{Line} We were never fighting, were we?”" />
+  <Monologue Order="37" IsIndent="False" Current="“Ага!”" Original="“Nope!”" />
+  <Monologue Order="38" IsIndent="False" Current="“Ай, ну вас...”" Original="“Haa... Whatever...{Line} I wasn’t really worried anyway...”" />
+  <Monologue Order="39" IsIndent="True" Current="“Хочешь с нами сыграть?”{Line}Да{Line}Нет" Original="“You wanna play cards with us?”{Line}Yes{Line}No" />
+  <Monologue Order="40" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="41" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Balamb}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Balamb}’s rules and ours.”" />
+  <Monologue Order="42" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Galbadia}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Galbadia}’s rules and ours.”" />
+  <Monologue Order="43" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Trabia}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Trabia}’s rules and ours.”" />
+  <Monologue Order="44" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Centra}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Centra}’s rules and ours.”" />
+  <Monologue Order="45" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Dollet}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Dollet}’s rules and ours.”" />
+  <Monologue Order="46" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} FH’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="47" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} Lunar’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="48" IsIndent="False" Current="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Esthar}’s rules and ours.”" Original="“Hmm... Looks like you know rules{Line} unfamiliar to this place.”{Next}“Let’s play a game with{Line} {Term Esthar}’s rules and ours.”" />
+  <Monologue Order="49" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="50" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="51" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="52" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="53" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="54" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="55" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="56" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="57" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="58" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="59" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="60" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="61" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="68" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="62" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="63" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="71" IsIndent="False" Current="“{Term Balamb}”" Original="“{Term Balamb}”" />
+  <Monologue Order="72" IsIndent="False" Current="“{Term Galbadia}”" Original="“{Term Galbadia}”" />
+  <Monologue Order="73" IsIndent="False" Current="“{Term Trabia}”" Original="“{Term Trabia}”" />
+  <Monologue Order="74" IsIndent="False" Current="“{Term Centra}”" Original="“{Term Centra}”" />
+  <Monologue Order="75" IsIndent="False" Current="“{Term Dollet}”" Original="“{Term Dollet}”" />
+  <Monologue Order="76" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="77" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="78" IsIndent="False" Current="“{Term Esthar}”" Original="“{Term Esthar}”" />
+  <Monologue Order="79" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

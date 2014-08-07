@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Battle{Line}Battle" Original="Battle{Line}Battle" />
+  <Monologue Order="0" IsIndent="False" Current="Garden Faculty{Line}“What’s the problem!?  You{Line} haven’t taken this area yet!?”" Original="Garden Faculty{Line}“What’s the problem!?  You{Line} haven’t taken this area yet!?”" />
+  <Monologue Order="2" IsIndent="False" Current="Garden Faculty{Line}“Looks like Cid has{Line} some decent pawns.”" Original="Garden Faculty{Line}“Looks like Cid has{Line} some decent pawns.”" />
+  <Monologue Order="1" IsIndent="False" Current="(Go somewhere else){Line}Enough of this pretending" Original="(Go somewhere else){Line}Enough of this pretending" />
+  <Monologue Order="2" IsIndent="False" Current="(Better see what’s going on elsewhere.)" Original="(Better see what’s going on elsewhere.)" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Get out of our way.{Line} We’re with the headmaster.”" Original="{Char Squall}{Line}“Get out of our way.{Line} We’re with the headmaster.”" />
+  <Monologue Order="4" IsIndent="False" Current="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" Original="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" />
+  <Monologue Order="5" IsIndent="True" Current="“Хм... Может, я должен был...{Line} Что я сделал не так?..”" Original="“Hmmm... Maybe I should’ve...{Line} Is that where I went wrong...?”" />
+  <Monologue Order="6" IsIndent="False" Current="“Если бы я тогда...{Line} Эх... Теперь уже поздно...”" Original="“If only I had...{Line} Well, too late now...”" />
+  <Monologue Order="7" IsIndent="False" Current="“Почему?..{Line} Как это случилось?..”" Original="“Why...?{Line} How did it happen like that...?”" />
+  <Monologue Order="8" IsIndent="True" Current="“Поели, теперь можно и поспа... за учёбу!”" Original="“Back to my studies{Line} after I eat!”" />
+  <Monologue Order="9" IsIndent="False" Current="“Кое-что с годами теряет смысл.{Line} Нужно пользоваться моментом,{Line} пока ещё молодой! Вот, например, учёба...{Line} Нужно изучить своё сердце...”" Original="“There are some things you can only do when{Line} you’re young.  Like studying!{Line} I’m gonna study my heart out now!”" />
+  <Monologue Order="10" IsIndent="False" Current="“Я не очень силён, приходится{Line} компенсировать это учёбой.”" Original="“I’m gonna make up for my lack of{Line} strength by studyin’ hard!”" />
+  <Monologue Order="11" IsIndent="True" Current="“Эх... Может, повременить с диетой...”" Original="“Hmmm...{Line} Maybe I should put off my diet...”" />
+  <Monologue Order="12" IsIndent="False" Current="“Вот скажи, почему у них нет{Line} диетических плюшек?!”" Original="“They should really come up with a{Line} diet menu.  Don’t you think?”" />
+  <Monologue Order="13" IsIndent="True" Current="“Столько увлеченных людей вокруг...{Line} Это лучший мотиватор!”" Original="“There are so many motivated{Line} people at this academy.{Line} Kinda makes you wanna work harder.”" />
+  <Monologue Order="14" IsIndent="True" Current="“Есть, есть, ЕСТЬ ХОЧУ!”" Original="“I’m starvin’!{Line} Gotta eat, eat, EAT!”" />
+  <Monologue Order="15" IsIndent="False" Current="“Я должен хорошо питаться, чтобы{Line} вырасти большим и сильным сидом!”" Original="“I’m gonna eat a lot{Line} and become a big, strong SeeD!”" />
+  <Monologue Order="16" IsIndent="True" Current="“Вначале едят, потом сидят и бездельничают...{Line} Нет уж, как-нибудь без меня!..”" Original="“Sit back and relax after a good meal...{Line} Nah, that’s not for me...”" />
+</Monologues>

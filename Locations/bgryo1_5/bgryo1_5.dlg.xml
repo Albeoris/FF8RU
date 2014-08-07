@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Униформа...{Line}Не трогать{Line}Переодеться" Original="Uniform...{Line}Forget it{Line}Get changed" />
+  <Monologue Order="1" IsIndent="False" Current="Форма сида...{Line}Не трогать{Line}Переодеться" Original="SeeD uniform...{Line}Not just yet{Line}Get changed" />
+  <Monologue Order="2" IsIndent="False" Current="Моя любимая одежда...{Line}Не трогать{Line}Переодеться" Original="My clothes...{Line}Don’t change{Line}Get changed" />
+  <Monologue Order="4" IsIndent="False" Current="" Original="" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Meet at the main hall after you change...”" Original="{Char Squall}{Line}“Meet at the main hall after you change...”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Прилечь?..”{Line}Отдохнуть{Line}Не сейчас" Original="{Char Squall}{Line}“Rest...”{Line}Rest up{Line}Forget it" />
+</Monologues>
