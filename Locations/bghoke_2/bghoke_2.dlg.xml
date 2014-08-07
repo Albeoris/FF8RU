@@ -15,7 +15,7 @@
   <Monologue Order="10" IsIndent="False" Current="{Char Squall}{Line}“Скажите это {Char Seifer}у.”" Original="{Char Squall}{Line}“Tell that to Seifer.”" />
   <Monologue Order="11" IsIndent="False" Current="Др. Кадоваки{Line}“Опять {Char Seifer}...”{Next}“А просто игнорировать{Line} его ты не можешь?”" Original="Dr. Kadowaki{Line}“That Seifer...{Line} Won’t listen to anyone.”{Next}“Why don’t you ignore him?”" />
   <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“Не буду же я от него убегать!”" Original="{Char Squall}{Line}“I can’t just run away.”" />
-  <Monologue Order="13" IsIndent="False" Current="Др. Кадоваки{Line}“Хочешь быть крутым?..{Line} Валяй. Только голову береги.”" Original="Dr. Kadowaki{Line}“You wanna be cool, huh?{Line} Well, don’t get hurt in the process.”" />
+  <Monologue Order="13" IsIndent="False" Current="Др. Кадоваки{Line}“Хочешь быть крутым?..{Line} Ну, валяй... И голову береги.”" Original="Dr. Kadowaki{Line}“You wanna be cool, huh?{Line} Well, don’t get hurt in the process.”" />
   <Monologue Order="16" IsIndent="False" Current="Dr. Kadowaki{Line}“Just rest until{Line} Instructor Trepe gets here.”" Original="Dr. Kadowaki{Line}“Just rest until{Line} Instructor Trepe gets here.”" />
   <Monologue Order="14" IsIndent="False" Current="{Char Quistis}{Line}“Так и знала, что этим закончится!”" Original="Quistis{Line}“I knew it’d be either{Line} you or Seifer!”" />
   <Monologue Order="15" IsIndent="False" Current="{Char Quistis}{Line}“Вставай, герой.{Line} У тебя сегодня экзамен.”" Original="Quistis{Line}“Come on, let’s go.{Line} Today’s the field exam.”" />

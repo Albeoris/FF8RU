@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="“Test”" Original="“Test”" />
+  <Monologue Order="1" IsIndent="False" Current="“Test”" Original="“Test”" />
+  <Monologue Order="0" IsIndent="False" Current="Учебная панель{Line}(Включить питание...){Line}(Нет времени.)" Original="(Let’s see...){Line}(Turn on the power and...){Line}(...What a pain)" />
+  <Monologue Order="2" IsIndent="True" Current="Учебная панель{Line}(ВРУБИТЬ!){Line}(Не, ну её...)" Original="(Let’s do it!){Line}(POWER ON!){Line}(Nah, I’m done!)" />
+  <Monologue Order="4" IsIndent="True" Current="Учебная панель{Line}(О да, включаем...){Line}(В другой раз...)" Original="(Here we go!){Line}(Oh yeah, the power...){Line}(’Til next time...!)" />
+  <Monologue Order="6" IsIndent="True" Current="Учебная панель{Line}(Включить.){Line}(Не сейчас.)" Original="(Hmm...){Line}(Switch on!){Line}(Bye for now)" />
+  <Monologue Order="8" IsIndent="True" Current="Учебная панель{Line}(Как она включается?..){Line}(Ну её...)" Original="(...Let me see...){Line}(Where’s the switch...?){Line}(Maybe later)" />
+  <Monologue Order="10" IsIndent="True" Current="Учебная панель{Line}(Приступаем...){Line}(Отсутпаем...)" Original="(This is nice!){Line}(Hit the power){Line}(...Ahh, forget it)" />
+  <Monologue Order="1" IsIndent="False" Current="Учебная панель{Line}(Я всё.){Line}(Кое-что забыл...)" Original="(...Phew){Line}(I’m done){Line}(...One more time)" />
+  <Monologue Order="3" IsIndent="False" Current="Учебная панель{Line}(ВЫРУБИТЬ!){Line}(Ай, ладно! Ещё немножко...)" Original="(Let’s see...){Line}(POWER OFF!){Line}(Oops, one more time)" />
+  <Monologue Order="5" IsIndent="False" Current="Учебная панель{Line}(Пока-пока.){Line}(Надо ещё кой-чего посмотреь...)" Original="(Hmm...){Line}(Bye bye!){Line}(Gotta take another look)" />
+  <Monologue Order="7" IsIndent="False" Current="Учебная панель{Line}(На сегодня всё.){Line}(Ещё немножко.)" Original="(Well...){Line}(That’s it for today){Line}(Maybe just one more time)" />
+  <Monologue Order="9" IsIndent="False" Current="Учебная панель{Line}(Чао.){Line}(Пожалуй, ещё немножко...)" Original="(Umm...){Line}(Ciao){Line}(I’m gonna look at it one more time)" />
+  <Monologue Order="11" IsIndent="False" Current="Учебная панель{Line}(Как-нибудь ещё зайду.){Line}(Ещё столько всего осталось!..)" Original="(Geez, my eyes are gettin’ tired){Line}(Maybe next time){Line}(But there’s still so much to see!)" />
+</Monologues>
