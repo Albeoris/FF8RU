@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Я люблю ездить на машинах.{Line} Едешь быстро, в удобном салоне,{Line} и не боишься, что тебя сожрут по дороге.”{Next}“Нет, я не боюсь монстров, просто...{Line} Их может быть много...{Line} А я ещё только учусь...”" Original="“I must say, cars are so convenient.{Line} You can go outside and not have to{Line} worry about running into monsters.”{Next}“Especially for me, since{Line} I’m still only a student.”" />
+  <Monologue Order="1" IsIndent="False" Current="“Да, охрененные тачки!{Line} А от звуков движка я просто тащусь!”{Next}“Ну, знаешь, когда он так: ‘Вруууууум!’,{Line} разгоняясь до 6,000 оборотов...”{Next}“Ооо... меня вообще уносит!”" Original="“I love this Garden car...{Line} The sound of the engine just excites me!”{Next}“You know that ‘Vroooooomm!’ sound{Line} when it reaches 6,000 rpm...”{Next}“Ohhh......{Line} ...I’m getting carried away here!”" />
+  <Monologue Order="2" IsIndent="True" Current="Garden Faculty{Line}“Why is it taking so long!?  Come on!”" Original="Garden Faculty{Line}“Why is it taking so long!?  Come on!”" />
+  <Monologue Order="3" IsIndent="False" Current="(Go somewhere else){Line}Enough of this pretending" Original="(Go somewhere else){Line}Enough of this pretending" />
+  <Monologue Order="4" IsIndent="False" Current="(Better go see what’s up in other areas.)" Original="(Better go see what’s up in other areas.)" />
+  <Monologue Order="5" IsIndent="False" Current="“Get out of our way.{Line} We’re with the headmaster.”" Original="“Get out of our way.{Line} We’re with the headmaster.”" />
+  <Monologue Order="6" IsIndent="False" Current="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" Original="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" />
+</Monologues>
