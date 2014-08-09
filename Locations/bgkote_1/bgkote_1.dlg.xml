@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Test" Original="Test" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Male Student{Line}“I’m worried about{Line} mom and pop back in {Term Balamb}.”{Next}“But I knew a time like this{Line} would come eventually...”{Next}“A time for me to embark{Line} on a never-ending journey...”" Original="Male Student{Line}“I’m worried about{Line} mom and pop back in {Term Balamb}.”{Next}“But I knew a time like this{Line} would come eventually...”{Next}“A time for me to embark{Line} on a never-ending journey...”" />
+  <Monologue Order="1" IsIndent="False" Current="Female Student{Line}“The boundless ocean...”{Next}“I wonder...{Line} What’s to become of us...?”" Original="Female Student{Line}“The boundless ocean...”{Next}“I wonder...{Line} What’s to become of us...?”" />
+  <Monologue Order="2" IsIndent="False" Current="Male Student{Line}“Don’t think we’ll be graduating for awhile...”" Original="Male Student{Line}“Don’t think we’ll be graduating for awhile...”" />
+  <Monologue Order="3" IsIndent="False" Current="“I don’t mind...{Line} Just enjoy the moment.”" Original="“I don’t mind...{Line} Just enjoy the moment.”" />
+  <Monologue Order="4" IsIndent="False" Current="Female Student{Line}“Wish we could go far, far away...”" Original="Female Student{Line}“Wish we could go far, far away...”" />
+  <Monologue Order="5" IsIndent="False" Current="Male Student{Line}“I wonder if our dreams{Line} await us beyond the horizon...?”" Original="Male Student{Line}“I wonder if our dreams{Line} await us beyond the horizon...?”" />
+  <Monologue Order="6" IsIndent="False" Current="(My dream...{Line} Just as uncertain as our situation.)" Original="(My dream...{Line} Just as uncertain as our situation.)" />
+  <Monologue Order="7" IsIndent="False" Current="Male Student{Line}“Man... Just gazing at the ocean{Line} kinda makes you forget about{Line} all that studyin’ we’ve endured...”" Original="Male Student{Line}“Man... Just gazing at the ocean{Line} kinda makes you forget about{Line} all that studyin’ we’ve endured...”" />
+  <Monologue Order="8" IsIndent="False" Current="Female Student{Line}“Know what...?  I’m never gonna{Line} forget about my Garden friends.”" Original="Female Student{Line}“Know what...?  I’m never gonna{Line} forget about my Garden friends.”" />
+  <Monologue Order="9" IsIndent="False" Current="Female Student{Line}“Yeah, let’s be sure to keep in touch{Line} even after we graduate!”" Original="Female Student{Line}“Yeah, let’s be sure to keep in touch{Line} even after we graduate!”" />
+  <Monologue Order="10" IsIndent="False" Current="Female Student{Line}“And let me know right away{Line} when you get yourself a BOYFRIEND!”" Original="Female Student{Line}“And let me know right away{Line} when you get yourself a BOYFRIEND!”" />
+  <Monologue Order="11" IsIndent="False" Current="Female Student{Line}“That goes for everyone.{Line} Promise!?”" Original="Female Student{Line}“That goes for everyone.{Line} Promise!?”" />
+  <Monologue Order="12" IsIndent="False" Current="Female Student{Line}“No problem!{Line} I promise!  I promise!!!”" Original="Female Student{Line}“No problem!{Line} I promise!  I promise!!!”" />
+  <Monologue Order="13" IsIndent="False" Current="(Oh no...{Line} I can’t let her know I have a boyfriend.)" Original="(Oh no...{Line} I can’t let her know I have a boyfriend.)" />
+  <Monologue Order="14" IsIndent="False" Current="(I’m sure I’ll have one before she does.)" Original="(I’m sure I’ll have one before she does.)" />
+  <Monologue Order="15" IsIndent="False" Current="(You guys are sooo great.{Line} I’ll definitely keep my promise.)" Original="(You guys are sooo great.{Line} I’ll definitely keep my promise.)" />
+  <Monologue Order="16" IsIndent="True" Current="“Все члены комитета Садового{Line} фестиваля отправились на задания{Line} в разные уголки мира.”{Next}“Та девчушка, её недавно к{Line} нам перевели, полна{Line} энтузиазма, но...”" Original="“All members of the Garden Festival{Line} committee have been dispatched to{Line} conflicts around the world.”{Next}“That transfer student seems to be really{Line} enthusiastic about it, but...”" />
+  <Monologue Order="17" IsIndent="True" Current="“Тебе интересно, чем мы занимаемся?”{Line}Конечно{Line}Не очень" Original="“Are you interested in what I’m doing?”{Line}Interested{Line}Not interested" />
+  <Monologue Order="18" IsIndent="False" Current="“Тогда ты должен приссоединиться{Line} к нашей команде!”" Original="“Then you should join the{Line} Garden Festival committee, too!”" />
+  <Monologue Order="19" IsIndent="False" Current="“Тогда не привлекай к нам лишнего{Line} внимания, ладно? Когда мы закончим,{Line} хочу, чтобы все ахнули от удивления!”" Original="“Then don’t attract a crowd, ok?{Line} I wanna surprise everyone once it’s done!”" />
+  <Monologue Order="20" IsIndent="False" Current="“Ну давай же, приссоединяйся{Line} к нашему комитету!{Line}Не{Line}Ладно" Original="“C’mon, join the Garden Festival committee!{Line}Nah{Line}Sure" />
+  <Monologue Order="21" IsIndent="False" Current="“Фу! Ну почему вы все такие?{Line} Неужели никто не хочет как следует{Line} оторваться, насладиться феерически{Line} шоу, великолепным праздником?!”" Original="“Boo!  Why does everybody have to{Line} be like that!?  Doesn’t anyone{Line} want to enjoy the Garden Festival?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Яхууууу!{Line} Отлично, за работу!”" Original="“Whoo-hoo!{Line} Ok, let’s get to work!”" />
+  <Monologue Order="23" IsIndent="False" Current="“Не отвлекай, ладно?”" Original="“Fine, just don’t bother me, ok?”" />
+  <Monologue Order="24" IsIndent="False" Current="“Работаем, работаем, РАБОТАЕМ!{Line} У нас тут нехватка грубой{Line} мужской силы, если ты не заметил!”" Original="“Alright, work, work, WORK!{Line} Not too many guys on this team, you know!”" />
+  <Monologue Order="25" IsIndent="False" Current="“Эй, я не собираюсь говорить,{Line} что тебе делать! Прояви инициативу!”" Original="“Oh, are you the type that{Line} has to be told what to do?”" />
+</Monologues>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Задача: захватить низшего стража.{Line} Требуется поддержка сида.{Line} Ты готов?”" Original="“Objective:  To obtain a low-level GF.{Line} A SeeD member must support.{Line} Are you ready?”" />
+  <Monologue Order="1" IsIndent="False" Current="(Да){Line}(Ещё нет...)" Original="(Yes){Line}(Still need to prepare...)" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Squall}{Line}“Я готов.”" Original="{Char Squall}{Line}“I’m ready.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“За поддержку отвечаю я.”" Original="Quistis{Line}“I’m his support.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Инструктор No. 14,{Line} {Char Quistis} Трип.”" Original="Quistis{Line}“Instructor No. 14,{Line} Quistis Trepe.”" />
+  <Monologue Order="5" IsIndent="False" Current="“Сообщи, сколько времени тебе{Line} требуется для выполнения задачи.{Line} Но не усложняй себе жизнь,{Line} если не уверен, в собтвенных силах.”" Original="“Select a time limit.{Line} Choose one suited to your abilities.{Line} Challenging yet reasonable.”" />
+  <Monologue Order="6" IsIndent="False" Current="10 минут{Line}20 минут{Line}30 минут{Line}40 минут" Original="10 min{Line}20 min{Line}30 min{Line}40 min" />
+  <Monologue Order="7" IsIndent="False" Current="“Очень хорошо.{Line} Желаю удачи.”" Original="“Very well.{Line} Good luck.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Objective:  To obtain a low-level GF.{Line} A SeeD member will support.{Line} You have {Var 32} mins left.”" Original="“Objective:  To obtain a low-level GF.{Line} A SeeD member will support.{Line} You have {Var 32} mins left.”" />
+  <Monologue Order="8" IsIndent="False" Current="“Сдаёшься?”{Line}Да{Line}Нет" Original="“Go out for now?”{Line}Yes{Line}No" />
+  <Monologue Order="13" IsIndent="False" Current="“Very good.{Line} You will receive your credits at Garden.”" Original="“Very good.{Line} You will receive your credits at Garden.”" />
+</Monologues>

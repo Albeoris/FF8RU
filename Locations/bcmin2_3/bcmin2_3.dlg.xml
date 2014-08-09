@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Большой проказник{Line}“Блииин, как скучно!..{Line} Поскорей бы {Char Zell} вернулся!..”" Original="Big Bad Rascal{Line}“Ergh, I’m so bored...{Line} I wish Zell would come over...”" />
+  <Monologue Order="1" IsIndent="False" Current="Big Bad Rascal{Line}“Yo, Zell!”" Original="Big Bad Rascal{Line}“Yo, Zell!”" />
+  <Monologue Order="2" IsIndent="False" Current="Zell{Line}“Yo!{Line} S’up, Trouble Maker!”" Original="Zell{Line}“Yo!{Line} S’up, Trouble Maker!”" />
+  <Monologue Order="3" IsIndent="False" Current="Big Bad Rascal{Line}“Zell, your ma’s{Line} baby-sittin’ me again!”" Original="Big Bad Rascal{Line}“Zell, your ma’s{Line} baby-sittin’ me again!”" />
+  <Monologue Order="4" IsIndent="False" Current="“I ain’t causin’ her no trouble.{Line} Your ma can be pretty strict, too.”" Original="“I ain’t causin’ her no trouble.{Line} Your ma can be pretty strict, too.”" />
+  <Monologue Order="5" IsIndent="False" Current="“I better be good now that you’re here.{Line} I’m strong and all, but I can’t take{Line} both you and your ma on.”" Original="“I better be good now that you’re here.{Line} I’m strong and all, but I can’t take{Line} both you and your ma on.”" />
+  <Monologue Order="6" IsIndent="False" Current="“It’s like a double punch, y’know.{Line} I’d get KO’d just like that.”" Original="“It’s like a double punch, y’know.{Line} I’d get KO’d just like that.”" />
+  <Monologue Order="7" IsIndent="False" Current="Big Bad Rascal{Line}“...Playin’ dead.”" Original="Big Bad Rascal{Line}“...Playin’ dead.”" />
+  <Monologue Order="8" IsIndent="False" Current="Big Bad Rascal{Line}“I hate naps!”" Original="Big Bad Rascal{Line}“I hate naps!”" />
+  <Monologue Order="9" IsIndent="False" Current="Big Bad Rascal{Line}“I’ve been a{Line} pretty good boy today.”" Original="Big Bad Rascal{Line}“I’ve been a{Line} pretty good boy today.”" />
+  <Monologue Order="10" IsIndent="False" Current="Big Bad Rascal{Line}“......”" Original="Big Bad Rascal{Line}“......”" />
+  <Monologue Order="11" IsIndent="False" Current="“All I did was bring back a frog.”" Original="“All I did was bring back a frog.”" />
+  <Monologue Order="12" IsIndent="False" Current="“All I did was sign my name.{Line} I heard someone say the value{Line} goes up if there’s a signature.”" Original="“All I did was sign my name.{Line} I heard someone say the value{Line} goes up if there’s a signature.”" />
+  <Monologue Order="13" IsIndent="False" Current="“Oh yeah!{Line} I found somethin’ really cool!”" Original="“Oh yeah!{Line} I found somethin’ really cool!”" />
+  <Monologue Order="14" IsIndent="False" Current="“I hid it in your room,{Line} under your pillow, Zell!”" Original="“I hid it in your room,{Line} under your pillow, Zell!”" />
+  <Monologue Order="15" IsIndent="False" Current="Big Bad Rascal{Line}“I’m gonna keep{Line} today’s events{Line} ‘Top Secret’!”" Original="Big Bad Rascal{Line}“I’m gonna keep{Line} today’s events{Line} ‘Top Secret’!”" />
+  <Monologue Order="16" IsIndent="False" Current="Big Bad Rascal{Line}“Better not tell anyone!”" Original="Big Bad Rascal{Line}“Better not tell anyone!”" />
+  <Monologue Order="17" IsIndent="False" Current="An old issue of [Timber Maniacs]{Line}{Pause 48}...{Pause 48}...{Pause 48}...{Pause 48}...... NOT!" Original="An old issue of [Timber Maniacs]{Line}{Pause 48}...{Pause 48}...{Pause 48}...{Pause 48}...... NOT!" />
+  <Monologue Order="18" IsIndent="False" Current="“CARDS, CARDS, CARDS!”{Line}Yes{Line}No" Original="“CARDS, CARDS, CARDS!”{Line}Yes{Line}No" />
+  <Monologue Order="19" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Balamb’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Balamb’s rules and ours, got it!?”" />
+  <Monologue Order="20" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Galbadia’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Galbadia’s rules and ours, got it!?”" />
+  <Monologue Order="21" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Trabia’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Trabia’s rules and ours, got it!?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Centra’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Centra’s rules and ours, got it!?”" />
+  <Monologue Order="23" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Dollet’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Dollet’s rules and ours, got it!?”" />
+  <Monologue Order="24" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} FH’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} FH’s rules and ours, got it!?”" />
+  <Monologue Order="25" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Lunar’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Lunar’s rules and ours, got it!?”" />
+  <Monologue Order="26" IsIndent="False" Current="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Esthar’s rules and ours, got it!?”" Original="“Yo!  You know rules{Line} that don’t exist here, right?{Line} Let’s play a game with{Line} Esthar’s rules and ours, got it!?”" />
+  <Monologue Order="27" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="28" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="29" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="30" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="31" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="32" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="33" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="34" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="35" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="36" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="37" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="38" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="39" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="40" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="41" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="41" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="42" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="44" IsIndent="False" Current="“Balamb”" Original="“Balamb”" />
+  <Monologue Order="45" IsIndent="False" Current="“Galbadia”" Original="“Galbadia”" />
+  <Monologue Order="46" IsIndent="False" Current="“Trabia”" Original="“Trabia”" />
+  <Monologue Order="47" IsIndent="False" Current="“Centra”" Original="“Centra”" />
+  <Monologue Order="48" IsIndent="False" Current="“Dollet”" Original="“Dollet”" />
+  <Monologue Order="49" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="50" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="51" IsIndent="False" Current="“Esthar”" Original="“Esthar”" />
+  <Monologue Order="52" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

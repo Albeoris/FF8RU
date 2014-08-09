@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Так... Прошу внимания.”{Next}“Я объясню, как привязывать{Line} накопленную магию.”" Original="Quistis{Line}“Ok... Junctioning magic.{Line} Now pay attention.”{Next}“I’ll be explaining how to utilize{Line} the magic you have stocked.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Теперь, получая новую магию,{Line} поэкспериментируй с привязкой{Line} к различным параметрам.{Line} Удачная комбинация сделает{Line} тебя сильнее.”" Original="Quistis{Line}“When you draw a new magic, try{Line} experimenting with it when you junction.{Line} This is how you become stronger.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Quistis}{Line}“Ты готов?”" Original="Quistis{Line}“Ok, ready to go?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Ой! Совсем забыла!”" Original="Quistis{Line}“Oh!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Ты знаешь, как пользоваться ганблейдом?..”{Line}(Смотря о чём речь...){Line}(Инструктор, я пользуюсь им уже...)" Original="Quistis{Line}“You know how to use your gunblade...?”{Line}(...I guess I’ll review it){Line}(...I already know)" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Quistis}{Line}“Тогда расскажу...”" Original="Quistis{Line}“It’s better to go over it.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Quistis}{Line}“Ладно-ладно.{Line} Я просто спросила!”" Original="Quistis{Line}“Oh, ok.{Line} I was just concerned, that’s all.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Quistis}{Line}“Отлично, идём!”" Original="Quistis{Line}“Alright, let’s go!”" />
+</Monologues>

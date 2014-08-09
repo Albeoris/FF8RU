@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Большой проказник{Line}“......”" Original="Big Bad Rascal{Line}“......”" />
+  <Monologue Order="1" IsIndent="False" Current="“Аааай!”" Original="“Ahhhhh!”" />
+  <Monologue Order="2" IsIndent="False" Current="“ОН ОПЯТЬ!..”" Original="“THAT’S...MEEEEAN!”" />
+  <Monologue Order="3" IsIndent="False" Current="“Ненавижу! Он постоянно{Line} надо мной издевается!..”" Original="“I hate him...{Line} He’s always playing mean tricks on me...”" />
+  <Monologue Order="4" IsIndent="False" Current="Владелец отеля{Line}“Малышка, ты в порядке?{Line} Тебе не больно?" Original="Hotel Owner{Line}“Are you all right, baby?{Line} Did you hurt yourself?”" />
+  <Monologue Order="5" IsIndent="False" Current="Владелец отеля{Line}“Пусть только попадётся мне,{Line} маленький паршивец!”" Original="Hotel Owner{Line}“That kid’s always up to no good!{Line} Next time, I’m gonna give him a spankin’.”" />
+  <Monologue Order="6" IsIndent="False" Current="“Ребёнок он или нет,{Line} никто не смеет обижать{Line} мою дочь!”" Original="“I don’t care if it’s a kid or what, but{Line} nobody is allowed to tease my daughter.”" />
+  <Monologue Order="7" IsIndent="True" Current="Hotel Owner{Line}“Zell!{Line} That goes for you, too!”" Original="Hotel Owner{Line}“Zell!{Line} That goes for you, too!”" />
+  <Monologue Order="8" IsIndent="False" Current="Zell{Line}“HUH!?{Pause 64}{Line} Why me!?”" Original="Zell{Line}“HUH!?{Pause 64}{Line} Why me!?”" />
+  <Monologue Order="9" IsIndent="False" Current="Hotel Owner{Line}“You’re also the type who acts mean and{Line} teases someone whom you like, aren’t you?”" Original="Hotel Owner{Line}“You’re also the type who acts mean and{Line} teases someone whom you like, aren’t you?”" />
+  <Monologue Order="10" IsIndent="False" Current="“Just don’t go overboard!{Line} Or else you’ll be sorry.”" Original="“Just don’t go overboard!{Line} Or else you’ll be sorry.”" />
+  <Monologue Order="11" IsIndent="False" Current="Irvine{Line}“A-ha-haha!{Line} That’s the kind of thing{Line} I used to do, a long time ago!”" Original="Irvine{Line}“A-ha-haha!{Line} That’s the kind of thing{Line} I used to do, a long time ago!”" />
+  <Monologue Order="12" IsIndent="False" Current="Irvine{Line}“Ain’t that so, Zell?”" Original="Irvine{Line}“Ain’t that so, Zell?”" />
+  <Monologue Order="13" IsIndent="False" Current="Zell{Line}“Y...Yeah!{Line} That’s right!”" Original="Zell{Line}“Y...Yeah!{Line} That’s right!”" />
+  <Monologue Order="14" IsIndent="False" Current="“It’s been almost 10 years{Line} since I took over this hotel...{Line} Many travellers have come and gone.”" Original="“It’s been almost 10 years{Line} since I took over this hotel...{Line} Many travellers have come and gone.”" />
+  <Monologue Order="15" IsIndent="False" Current="“It’s about time I started thinking{Line} about my own well-being.{Line} Hey, how about a family vacation!?”" Original="“It’s about time I started thinking{Line} about my own well-being.{Line} Hey, how about a family vacation!?”" />
+  <Monologue Order="16" IsIndent="True" Current="“В следующий раз я нарисую{Line} эту рыбу!”" Original="“I’m going to draw a picture{Line} of that fish next time.”" />
+  <Monologue Order="17" IsIndent="False" Current="“Папа сказал, что купит{Line} мне много синих мелков!”" Original="“Daddy said he’s going to{Line} buy me a lot of blue crayons.”" />
+  <Monologue Order="18" IsIndent="False" Current="“......”" Original="“......”" />
+  <Monologue Order="19" IsIndent="True" Current="Владелец отеля{Line}“Морской бриз...”{Next}“Весь город полнится{Line} ароматами моря...”" Original="Hotel Owner{Line}“The sea breeze sure feels good.”{Next}“The whole town, filled with the{Line} wonderful aroma of the sea...{Line} ...And...”" />
+  <Monologue Order="20" IsIndent="False" Current="“Вот почему ржавеет моя машина!{Line} И эта вывеска скоро отвалится...”" Original="“...That is why my car rusts.{Line} That sign’s not lookin’ too good, either.”" />
+  <Monologue Order="21" IsIndent="True" Current="Hotel Owner{Line}“‘Come to the blue Balamb Hotel,{Line} where the sea breeze{Line} will take you away...’”{Next}“How’s that{Line} for a catch line...?”" Original="Hotel Owner{Line}“‘Come to the blue Balamb Hotel,{Line} where the sea breeze{Line} will take you away...’”{Next}“How’s that{Line} for a catch line...?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Not in a million years{Line} would you be able to{Line} come up with something better.”" Original="“Not in a million years{Line} would you be able to{Line} come up with something better.”" />
+  <Monologue Order="23" IsIndent="False" Current="Zell{Line}“Pu-lease!{Line} Blow it out your rear!”" Original="Zell{Line}“Pu-lease!{Line} Blow it out your rear!”" />
+  <Monologue Order="24" IsIndent="False" Current="Hotel Owner{Line}“...Blow...{Line} ...That’s it!  Blow!”" Original="Hotel Owner{Line}“...Blow...{Line} ...That’s it!  Blow!”" />
+  <Monologue Order="25" IsIndent="False" Current="Hotel Owner{Line}“Where the sea breeze will{Line} ‘blow’ you away...”" Original="Hotel Owner{Line}“Where the sea breeze will{Line} ‘blow’ you away...”" />
+  <Monologue Order="26" IsIndent="True" Current="Владелец отеля{Line}“Прости, но мне нельзя играть.{Line} Жена меня прибьет...”" Original="Hotel Owner{Line}“Sorry, but I’m not allowed to{Line} play cards right now.{Line} My wife is very strict...”" />
+  <Monologue Order="27" IsIndent="False" Current="“Ребята, вы играете в карты?”{Line}Да{Line}Нет" Original="“Do you kids play cards?”{Line}Yes{Line}No" />
+  <Monologue Order="28" IsIndent="True" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Balamb’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="29" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Galbadia’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Galbadia’s rules and ours.”" />
+  <Monologue Order="30" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Trabia’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Trabia’s rules and ours.”" />
+  <Monologue Order="31" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Centra’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Centra’s rules and ours.”" />
+  <Monologue Order="32" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Dollet’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Dollet’s rules and ours.”" />
+  <Monologue Order="33" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} FH’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="34" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Lunar’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="35" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Esthar’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this region.{Line} Let’s play a game with{Line} Esthar’s rules and ours.”" />
+  <Monologue Order="36" IsIndent="True" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="37" IsIndent="True" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="38" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="39" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="40" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="41" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="42" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="43" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="44" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="45" IsIndent="True" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="46" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="47" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="48" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="49" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="50" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="50" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="51" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="53" IsIndent="False" Current="“Balamb”" Original="“Balamb”" />
+  <Monologue Order="54" IsIndent="False" Current="“Galbadia”" Original="“Galbadia”" />
+  <Monologue Order="55" IsIndent="False" Current="“Trabia”" Original="“Trabia”" />
+  <Monologue Order="56" IsIndent="False" Current="“Centra”" Original="“Centra”" />
+  <Monologue Order="57" IsIndent="False" Current="“Dollet”" Original="“Dollet”" />
+  <Monologue Order="58" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="59" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="60" IsIndent="False" Current="“Esthar”" Original="“Esthar”" />
+  <Monologue Order="61" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

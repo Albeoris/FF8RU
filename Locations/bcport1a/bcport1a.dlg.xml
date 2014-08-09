@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Студент{Line}“Привет, {Char Squall}.{Line} Как поживаешь?”" Original="Garden Student{Line}“Hey, {Char Squall}.{Line} How’s it going?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Что ты здесь делаешь?”" Original="{Char Squall}{Line}“What are you{Line} doing here?”" />
+  <Monologue Order="2" IsIndent="False" Current="Garden Student{Line}“Ditching.  Getting a little R &amp; R.  I’m{Line} tired, y’know.  I need a vacation.”" Original="Garden Student{Line}“Ditching.  Getting a little R &amp; R.  I’m{Line} tired, y’know.  I need a vacation.”" />
+  <Monologue Order="3" IsIndent="False" Current="Quistis{Line}“My goodness.  You sound like an old man.{Line} ...I guess I’ll let you off this time.”" Original="Quistis{Line}“My goodness.  You sound like an old man.{Line} ...I guess I’ll let you off this time.”" />
+  <Monologue Order="4" IsIndent="False" Current="“Next time, I’m going to report you for sure.”" Original="“Next time, I’m going to report you for sure.”" />
+  <Monologue Order="5" IsIndent="True" Current="Студент{Line}“Добрый день, инструктор,{Line} не хотите присесть? Скучно одному.”" Original="Garden Student{Line}“Hey Instructor, won’t you have a seat?{Line} I could really use the company.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Quistis}{Line}“Хорошо... Ну, а чтобы не терять{Line} время, давай разберём тест,{Line} который ты вчера завалил.”" Original="Quistis{Line}“Alright... While we’re at it, we can go{Line} over the test you flunked the other day.”" />
+  <Monologue Order="7" IsIndent="True" Current="Студент{Line}“Хмм... какое же у меня{Line} следующее занятие?”" Original="Garden Student{Line}“Hmmm...what’s my{Line} next class?”" />
+  <Monologue Order="8" IsIndent="False" Current="“Man!{Line} Pisses me off!”" Original="“Man!{Line} Pisses me off!”" />
+  <Monologue Order="9" IsIndent="False" Current="“Knowin’ a guy 5 or 10 years{Line} doesn’t mean a thing.{Line} I still can’t figure him out.”" Original="“Knowin’ a guy 5 or 10 years{Line} doesn’t mean a thing.{Line} I still can’t figure him out.”" />
+  <Monologue Order="10" IsIndent="False" Current="“...Oh well.{Line} Can’t help it if we have{Line} different tastes in music.”" Original="“...Oh well.{Line} Can’t help it if we have{Line} different tastes in music.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Man...”" Original="“Man...”" />
+  <Monologue Order="12" IsIndent="False" Current="“I wish he’d just let me in on it.{Line} I’d rock that Garden Festival stage,{Line} blow the roof off, y’know.”" Original="“I wish he’d just let me in on it.{Line} I’d rock that Garden Festival stage,{Line} blow the roof off, y’know.”" />
+  <Monologue Order="13" IsIndent="False" Current="“But that fool’s all about show.{Line} He thinks my looks just don’t cut it.”" Original="“But that fool’s all about show.{Line} He thinks my looks just don’t cut it.”" />
+  <Monologue Order="14" IsIndent="False" Current="“He doesn’t know{Line} what he’s missing.”" Original="“He doesn’t know{Line} what he’s missing.”" />
+  <Monologue Order="15" IsIndent="False" Current="“Tch...{Line} I don’t give anymore...”" Original="“Tch...{Line} I don’t give anymore...”" />
+  <Monologue Order="16" IsIndent="False" Current="“...Wait a minute.”" Original="“...Wait a minute.”" />
+  <Monologue Order="17" IsIndent="False" Current="“Does that fool know{Line} how to play{Line} anything?”" Original="“Does that fool know{Line} how to play{Line} anything?”" />
+  <Monologue Order="18" IsIndent="False" Current="“Don’t tell me{Line} he’s plannin’ on singing!?”" Original="“Don’t tell me{Line} he’s plannin’ on singing!?”" />
+  <Monologue Order="8" IsIndent="True" Current="“Это настоящий{Line} армейский пёс!”" Original="“Our dog used to be{Line} with the army.”" />
+  <Monologue Order="9" IsIndent="False" Current="“Они бросили его, потому что{Line} у него ужасное обоняние.”" Original="“They released him because{Line} he has a terrible sense of smell.”" />
+  <Monologue Order="10" IsIndent="False" Current="“Может, чутьё и неважное...{Pause 80}{Line} Но бегает он - будь здоров!{Line} После прогулки с ног валюсь!”" Original="“He can’t smell, {Pause 80}but{Line} he sure can run.  I’m always{Line} exhausted after I walk him.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Хороший мальчик!..”" Original="“...There, there.  Good boy.”" />
+  <Monologue Order="12" IsIndent="True" Current="“Мы с сестрой гуляем{Line} с ним по очереди.”" Original="“My sister and I take{Line} turns walking him.”" />
+  <Monologue Order="13" IsIndent="False" Current="“Но в последнее время{Line} она свалила на меня всю работу.”" Original="“But lately, she’s been{Line} really lazy and making{Line} me do all the work.”" />
+  <Monologue Order="14" IsIndent="False" Current="“Сегодня опять сбежала{Line} из дома поиграть.”" Original="“She snuck out of the house{Line} again today to go play.”" />
+  <Monologue Order="15" IsIndent="False" Current="“Такими темпами, он её{Line} скоро узнавать перестанет.”" Original="“If she keeps this up,{Line} he’s probably gonna forget{Line} who she is.”" />
+  <Monologue Order="16" IsIndent="False" Current="“Прослежу, чтобы завтра{Line} она взяла его на прогулку!”" Original="“I better make sure{Line} she takes him tomorrow.”" />
+  <Monologue Order="17" IsIndent="True" Current="“Эх... Я устала.”" Original="“Phew, I’m{Line} getting tired.”" />
+  <Monologue Order="18" IsIndent="True" Current="“Ты слышал?”" Original="“Hey, have you heard?”" />
+  <Monologue Order="19" IsIndent="False" Current="“Сын миссис Динч сегодня{Line} сдаёт экзамен на звание сида!”" Original="“Mrs. Dincht’s son is{Line} going to take the SeeD exam.”" />
+  <Monologue Order="20" IsIndent="False" Current="“Серьёзно?!{Line} Не могу себе это представить!”" Original="“Really...?  I wonder if that{Line} rowdy boy can handle it?”" />
+  <Monologue Order="21" IsIndent="False" Current="“А миссис Динч уже знает?”" Original="“Does Mrs. Dincht{Line} know about this?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Мой сын сказал, что ему{Line} стоит упавать лишь на удачу.”" Original="“The chances Zell will pass the exam{Line} is probably around 50%.  At least{Line} that’s what my son said.”" />
+  <Monologue Order="23" IsIndent="False" Current="“На экзамене ведь оценивают{Line} не только физические способности?”" Original="“The exam doesn’t just test{Line} physical abilities, right?”" />
+  <Monologue Order="24" IsIndent="False" Current="“Конечно нет! В основе лежит{Line} умение работать в команде....”" Original="“Right.  It also{Line} emphasizes teamwork.”" />
+  <Monologue Order="25" IsIndent="False" Current="“Кроме того хладнокровие, {Line} умение принимать решения{Line} в сложной ситуации, и многое другое.”" Original="“On top of that, composure,{Line} focus, proper decision making{Line} and much more.”" />
+  <Monologue Order="26" IsIndent="False" Current="“Ох... сомневаюсь, что ему это по силам...”" Original="“Oh my...{Line} I doubt he can handle it.”" />
+  <Monologue Order="27" IsIndent="False" Current="“Не думаю, что миссис Динч{Line} стала бы его отговаривать...”" Original="“I don’t think Mrs. Dincht will say{Line} anything to him, even if she knew.”" />
+  <Monologue Order="28" IsIndent="False" Current="“Наверное, нам нужно{Line} просто пожелать ему удачи!”" Original="“I guess all we can do is{Line} wish him luck.”" />
+  <Monologue Order="29" IsIndent="True" Current="“Ты слышал?”" Original="“Hey, have you heard?”" />
+  <Monologue Order="30" IsIndent="False" Current="“Сын миссис Динч стал сидом!”" Original="“Mrs. Dincht’s son passed{Line} the SeeD exam.”" />
+  <Monologue Order="31" IsIndent="False" Current="“Невероятно! И как ему это удалось?!”" Original="“Really?  I wonder how in the world{Line} that rowdy boy passed.”" />
+  <Monologue Order="32" IsIndent="False" Current="“А миссис Динч уже знает?”" Original="“Does Mrs. Dincht know?”" />
+  <Monologue Order="33" IsIndent="False" Current="“Ну, раз уж {Char Zell} справился,{Line} то шансы, что сдаст и мой оболтус,{Line} стремятся к бесконечности.”" Original="“Since Zell passed, the chances{Line} my son will pass is probably{Line} near 100%.”" />
+  <Monologue Order="34" IsIndent="False" Current="“На экзамене ведь оценивают{Line} не только физические способности?”" Original="“The exam didn’t just test{Line} physical abilities, right?”" />
+  <Monologue Order="35" IsIndent="False" Current="“Конечно нет! Мой сын сказал,{Line} что у {Char Zell}а подобралась{Line} отличная команда...”" Original="“Right.  My son told me{Line} Zell had good students on{Line} his team... Oh well...”" />
+  <Monologue Order="36" IsIndent="False" Current="“Интересно, как долго он продержится.{Line} В конце концов, от сидов ожидают{Line} свойственного им хладнокровия,{Line} сосредоточенности, верных решений...”" Original="“I wonder how long he’ll last.{Line} After all, SeeDs are expected to have{Line} composure and focus and make proper{Line} decisions.”" />
+  <Monologue Order="37" IsIndent="False" Current="“Сомневаюсь, что ему это по силам...”" Original="“Oh my...{Line} I doubt he can handle it.”" />
+  <Monologue Order="38" IsIndent="False" Current="“I don’t think Mrs. Dincht will say{Line} anything to him, even if she knew.”" Original="“I don’t think Mrs. Dincht will say{Line} anything to him, even if she knew.”" />
+  <Monologue Order="39" IsIndent="False" Current="“I guess all we can do is{Line} wish him luck.”" Original="“I guess all we can do is{Line} wish him luck.”" />
+  <Monologue Order="40" IsIndent="True" Current="Big Bad Rascal{Line}“No way!”" Original="Big Bad Rascal{Line}“No way!”" />
+  <Monologue Order="41" IsIndent="False" Current="“I never get{Line} caught!”" Original="“I never get{Line} caught!”" />
+  <Monologue Order="42" IsIndent="False" Current="“I’m not givin’ up{Line} so easily...!”" Original="“I’m not givin’ up{Line} so easily...!”" />
+  <Monologue Order="43" IsIndent="False" Current="“...Yo!{Line} Zell!”" Original="“...Yo!{Line} Zell!”" />
+  <Monologue Order="44" IsIndent="False" Current="Zell{Line}“Man, what did you do now?{Line} Who’s after you?”" Original="Zell{Line}“Man, what did you do now?{Line} Who’s after you?”" />
+  <Monologue Order="45" IsIndent="False" Current="Big Bad Rascal{Line}“Hey, I gotta do what I gotta do{Line} or they’ll die.”" Original="Big Bad Rascal{Line}“Hey, I gotta do what I gotta do{Line} or they’ll die.”" />
+  <Monologue Order="46" IsIndent="False" Current="{Speaker}{Line}“...?”" Original="{Speaker}{Line}“...?”" />
+  <Monologue Order="47" IsIndent="False" Current="Zell{Line}“What are you talkin’ about...?”" Original="Zell{Line}“What are you talkin’ about...?”" />
+  <Monologue Order="48" IsIndent="False" Current="Big Bad Rascal{Line}“I gotta save ’em and{Line} take ’em back to the sea.”" Original="Big Bad Rascal{Line}“I gotta save ’em and{Line} take ’em back to the sea.”" />
+  <Monologue Order="49" IsIndent="False" Current="Zell{Line}“...Hey!”" Original="Zell{Line}“...Hey!”" />
+  <Monologue Order="50" IsIndent="False" Current="“What the...?”" Original="“What the...?”" />
+  <Monologue Order="51" IsIndent="False" Current="“I got a bunch of{Line} kids waiting for{Line} me back home.”" Original="“I got a bunch of{Line} kids waiting for{Line} me back home.”" />
+  <Monologue Order="52" IsIndent="False" Current="{Char Squall}{Line}“...In the sea?”" Original="{Char Squall}{Line}“...In the sea?”" />
+  <Monologue Order="53" IsIndent="False" Current="Big Bad Rascal{Line}“Alright.”" Original="Big Bad Rascal{Line}“Alright.”" />
+  <Monologue Order="54" IsIndent="False" Current="“That’s all I{Line} gotta say.”" Original="“That’s all I{Line} gotta say.”" />
+  <Monologue Order="55" IsIndent="False" Current="“See ya.”" Original="“See ya.”" />
+  <Monologue Order="56" IsIndent="False" Current="Mother of Big Bad Rascal{Line}“Not so fast!”" Original="Mother of Big Bad Rascal{Line}“Not so fast!”" />
+  <Monologue Order="57" IsIndent="False" Current="Big Bad Rascal{Line}“Crap!”" Original="Big Bad Rascal{Line}“Crap!”" />
+  <Monologue Order="58" IsIndent="False" Current="Mother of Big Bad Rascal{Line}“Ok, come on, where{Line} did you hide them?”" Original="Mother of Big Bad Rascal{Line}“Ok, come on, where{Line} did you hide them?”" />
+  <Monologue Order="70" IsIndent="False" Current="Big Bad Rascal{Line}“...”" Original="Big Bad Rascal{Line}“...”" />
+  <Monologue Order="59" IsIndent="False" Current="Mother of Big Bad Rascal{Line}“Hey!”" Original="Mother of Big Bad Rascal{Line}“Hey!”" />
+  <Monologue Order="60" IsIndent="False" Current="“Come back here!”" Original="“Come back here!”" />
+  <Monologue Order="61" IsIndent="False" Current="Mother of Big Bad Rascal{Line}“That’s it!{Line} No dinner for you!”" Original="Mother of Big Bad Rascal{Line}“That’s it!{Line} No dinner for you!”" />
+  <Monologue Order="74" IsIndent="False" Current="Mother of Big Bad Rascal{Line}“Ohhh, I can’t believe him.  He took{Line} all the crabs I bought for dinner.”" Original="Mother of Big Bad Rascal{Line}“Ohhh, I can’t believe him.  He took{Line} all the crabs I bought for dinner.”" />
+  <Monologue Order="75" IsIndent="False" Current="“It was for my husband, too.{Line} He’s coming home today.”" Original="“It was for my husband, too.{Line} He’s coming home today.”" />
+  <Monologue Order="62" IsIndent="False" Current="Garden Student{Line}“Hey, {Char Squall}.{Line} How’s it going?”" Original="Garden Student{Line}“Hey, {Char Squall}.{Line} How’s it going?”" />
+  <Monologue Order="63" IsIndent="False" Current="{Char Squall}{Line}“You’re here{Line} again?”" Original="{Char Squall}{Line}“You’re here{Line} again?”" />
+  <Monologue Order="64" IsIndent="False" Current="Garden Student{Line}“I got nowhere to go.  I went back the{Line} other day and the Garden was gone.”" Original="Garden Student{Line}“I got nowhere to go.  I went back the{Line} other day and the Garden was gone.”" />
+  <Monologue Order="65" IsIndent="False" Current="Garden Student{Line}“I guess that’s what I get for ditching{Line} too many times, eh...?  Oh well...”" Original="Garden Student{Line}“I guess that’s what I get for ditching{Line} too many times, eh...?  Oh well...”" />
+  <Monologue Order="66" IsIndent="True" Current="“Что? Хочешь поиграть?”{Line}Да{Line}Нет" Original="“What?  Oh, you wanna play cards?”{Line}Yes{Line}No" />
+  <Monologue Order="67" IsIndent="True" Current="“Карты? Конечно, сыграем!”{Line}Хорошо{Line}Потом" Original="“Sure, I’ll play.  You ready?”{Line}Yes{Line}No" />
+  <Monologue Order="68" IsIndent="True" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Balamb’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="69" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Balamb’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="70" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Galbadia’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Galbadia’s rules and ours.”" />
+  <Monologue Order="71" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Trabia’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Trabia’s rules and ours.”" />
+  <Monologue Order="72" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Centra’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Centra’s rules and ours.”" />
+  <Monologue Order="73" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Dollet’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Dollet’s rules and ours.”" />
+  <Monologue Order="74" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} FH’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="75" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Lunar’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="76" IsIndent="False" Current="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Esthar’s rules and ours.”" Original="“I heard you know rules{Line} that aren’t in this region.{Line} Let’s play a game with{Line} Esthar’s rules and ours.”" />
+  <Monologue Order="77" IsIndent="True" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Balamb’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="78" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Trabia’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Trabia’s rules and ours.”" />
+  <Monologue Order="79" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Centra’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Centra’s rules and ours.”" />
+  <Monologue Order="80" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Dollet’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Dollet’s rules and ours.”" />
+  <Monologue Order="81" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} FH’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="82" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Lunar’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="83" IsIndent="False" Current="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Esthar’s rules and ours.”" Original="“So, you do know rules{Line} that aren’t in this region.{Line} Ok, let’s play a game with{Line} Esthar’s rules and ours.”" />
+  <Monologue Order="98" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="84" IsIndent="True" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="85" IsIndent="True" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="86" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="87" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="88" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="89" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="90" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="91" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="92" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="93" IsIndent="True" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="94" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="95" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="96" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="97" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="113" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="98" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="99" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="116" IsIndent="False" Current="“Balamb”" Original="“Balamb”" />
+  <Monologue Order="117" IsIndent="False" Current="“Galbadia”" Original="“Galbadia”" />
+  <Monologue Order="118" IsIndent="False" Current="“Trabia”" Original="“Trabia”" />
+  <Monologue Order="119" IsIndent="False" Current="“Centra”" Original="“Centra”" />
+  <Monologue Order="120" IsIndent="False" Current="“Dollet”" Original="“Dollet”" />
+  <Monologue Order="121" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="122" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="123" IsIndent="False" Current="“Esthar”" Original="“Esthar”" />
+  <Monologue Order="124" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+  <Monologue Order="100" IsIndent="True" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+</Monologues>

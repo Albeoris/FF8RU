@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Defeat Ifrit{Line}Raise flag" Original="Defeat Ifrit{Line}Raise flag" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Мы на месте.{Line} Готов?”" Original="Quistis{Line}“Ok, this is it.{Line} Are you ready?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Выглядишь уверенно.”" Original="Quistis{Line}“You seem confident enough.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Quistis}{Line}“У нас не так много времени.{Line} Но позволь кое что рассказать...”" Original="Quistis{Line}“There isn’t much time, but{Line} let me go over this real quick.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Итак, ты получил нового стража...”{Next}“Он обладает способностью{Line} изменять стихию твоего оружия.”{Next}“Смотри...”" Original="Quistis{Line}“Good, you got yourself a GF.”{Next}“If you junction that GF, you’ll be{Line} able to use the Elem-J ability.”{Next}“Here’s an explanation on{Line} Elements.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Местные монстры привыкли к жаре{Line} и холод для них вдвоёне опасен.”{Next}“Привяжи к атаке ледяную магию,{Line} и расправиться с ними тебе{Line} будет значительно проще.”" Original="Quistis{Line}“There’s a lot of Fire elemental monsters{Line} here, so junction Blizzard to your Elem-Atk.”{Next}“You’ll have an easier time with{Line} Fire elemental enemies.”" />
+</Monologues>

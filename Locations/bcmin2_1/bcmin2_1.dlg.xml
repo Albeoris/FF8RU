@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Zell{Line}“Ma, I’m home!”" Original="Zell{Line}“Ma, I’m home!”" />
+  <Monologue Order="1" IsIndent="False" Current="Ma Dincht{Line}“Zell, what a surprise!{Line} Are these your friends?”" Original="Ma Dincht{Line}“Zell, what a surprise!{Line} Are these your friends?”" />
+  <Monologue Order="2" IsIndent="False" Current="Zell{Line}“This is my house.{Line} But don’t make yourselves too comfortable!”" Original="Zell{Line}“This is my house.{Line} But don’t make yourselves too comfortable!”" />
+  <Monologue Order="3" IsIndent="False" Current="Ma Dincht{Line}“Take care of Zell for me.”" Original="Ma Dincht{Line}“Take care of Zell for me.”" />
+  <Monologue Order="4" IsIndent="False" Current="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" Original="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Zell...”" Original="{Char Squall}{Line}“Zell...”" />
+  <Monologue Order="6" IsIndent="False" Current="“If you see a rowdy boy named Zell,{Line} please try to be friends with him.”" Original="“If you see a rowdy boy named Zell,{Line} please try to be friends with him.”" />
+  <Monologue Order="7" IsIndent="False" Current="Ma Dincht{Line}“Oh, Zell.{Line} Are you off today?”" Original="Ma Dincht{Line}“Oh, Zell.{Line} Are you off today?”" />
+  <Monologue Order="8" IsIndent="False" Current="Zell{Line}“Nah, outdoor class.”" Original="Zell{Line}“Nah, outdoor class.”" />
+  <Monologue Order="9" IsIndent="False" Current="Ma Dincht{Line}“Drop by whenever you can.{Line} Even just to say hi.”" Original="Ma Dincht{Line}“Drop by whenever you can.{Line} Even just to say hi.”" />
+  <Monologue Order="10" IsIndent="False" Current="Ma Dincht{Line}“That rascal is here again today.{Line} Go say hello.{Line} He really looks up to you, you know.”" Original="Ma Dincht{Line}“That rascal is here again today.{Line} Go say hello.{Line} He really looks up to you, you know.”" />
+  <Monologue Order="11" IsIndent="False" Current="Ma Dincht{Line}“Make yourself at home.”" Original="Ma Dincht{Line}“Make yourself at home.”" />
+  <Monologue Order="12" IsIndent="True" Current="“Как там поживает мой хулиганчик?”" Original="“How’s my rowdy boy doing?”" />
+  <Monologue Order="13" IsIndent="False" Current="Zell{Line}“S’up!{Line} How’s it going!?”" Original="Zell{Line}“S’up!{Line} How’s it going!?”" />
+  <Monologue Order="14" IsIndent="False" Current="“Good to see you, Zell.{Line} You look stronger{Line} every time I see you.”" Original="“Good to see you, Zell.{Line} You look stronger{Line} every time I see you.”" />
+  <Monologue Order="15" IsIndent="False" Current="Zell{Line}“Well, yeah...I guess so.{Line} Been ragin’ up a storm all over the place.”" Original="Zell{Line}“Well, yeah...I guess so.{Line} Been ragin’ up a storm all over the place.”" />
+  <Monologue Order="16" IsIndent="False" Current="“That’s...very good.{Line} ...But...”" Original="“That’s...very good.{Line} ...But...”" />
+  <Monologue Order="17" IsIndent="False" Current="“Here, in Balamb...”{Next}“My boy’s doing the same,{Line} trying to be like you.”" Original="“Here, in Balamb...”{Next}“My boy’s doing the same,{Line} trying to be like you.”" />
+  <Monologue Order="18" IsIndent="False" Current="“He even tries to speak like you...”{Next}“All this ‘Yo’ and ‘S’up’...{Line} He can’t even say ‘hello’.”" Original="“He even tries to speak like you...”{Next}“All this ‘Yo’ and ‘S’up’...{Line} He can’t even say ‘hello’.”" />
+  <Monologue Order="19" IsIndent="False" Current="Zell{Line}“Yo, so are you sayin’{Line} it’s my fault?”" Original="Zell{Line}“Yo, so are you sayin’{Line} it’s my fault?”" />
+  <Monologue Order="20" IsIndent="False" Current="Zell{Line}“...Ahh,{Pause 48} I guess it is.{Line} ...Sorry.”" Original="Zell{Line}“...Ahh,{Pause 48} I guess it is.{Line} ...Sorry.”" />
+  <Monologue Order="21" IsIndent="False" Current="“He looks up to you.{Line} He can’t help it.”" Original="“He looks up to you.{Line} He can’t help it.”" />
+  <Monologue Order="22" IsIndent="False" Current="“You’re such a bad influence, Zell.”" Original="“You’re such a bad influence, Zell.”" />
+  <Monologue Order="23" IsIndent="False" Current="“Your mother’s looking after{Line} my boy while I’m working.”" Original="“Your mother’s looking after{Line} my boy while I’m working.”" />
+  <Monologue Order="24" IsIndent="False" Current="“He can be so uncontrollable sometimes!”" Original="“He can be so uncontrollable sometimes!”" />
+  <Monologue Order="25" IsIndent="False" Current="Ma Dincht{Line}“Hahaha... I’m used to{Line} out-of-control boys.”" Original="Ma Dincht{Line}“Hahaha... I’m used to{Line} out-of-control boys.”" />
+  <Monologue Order="26" IsIndent="False" Current="“Don’t you worry about a thing.{Line} Just concentrate on your work.”" Original="“Don’t you worry about a thing.{Line} Just concentrate on your work.”" />
+  <Monologue Order="27" IsIndent="False" Current="“I really appreciate your help.{Line} I hope my boy doesn’t trouble you.”" Original="“I really appreciate your help.{Line} I hope my boy doesn’t trouble you.”" />
+  <Monologue Order="28" IsIndent="False" Current="“Zell, you better not be{Line} causing others any trouble.”" Original="“Zell, you better not be{Line} causing others any trouble.”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Squall}{Line}“......?”" Original="{Char Squall}{Line}“......?”" />
+  <Monologue Order="30" IsIndent="False" Current="“There’s a frog inside{Line} the umbrella stand?”" Original="“There’s a frog inside{Line} the umbrella stand?”" />
+  <Monologue Order="31" IsIndent="False" Current="Zell{Line}“Nasty!{Line} My ma hates frogs!”" Original="Zell{Line}“Nasty!{Line} My ma hates frogs!”" />
+  <Monologue Order="32" IsIndent="False" Current="{Char Squall}{Line}“This painting...”" Original="{Char Squall}{Line}“This painting...”" />
+  <Monologue Order="33" IsIndent="False" Current="“There’s some writing in the corner.{Line} Is that supposed to be there?”" Original="“There’s some writing in the corner.{Line} Is that supposed to be there?”" />
+  <Monologue Order="34" IsIndent="False" Current="Zell{Line}“No way!  Really!?{Line} This is my masterpiece from{Line} when I was a kid!”" Original="Zell{Line}“No way!  Really!?{Line} This is my masterpiece from{Line} when I was a kid!”" />
+  <Monologue Order="35" IsIndent="False" Current="Zell{Line}“Yo, {Char Squall}!”" Original="Zell{Line}“Yo, {Char Squall}!”" />
+  <Monologue Order="36" IsIndent="False" Current="“That’s my room up there!{Line} It’s sacred!  So just keep out!”" Original="“That’s my room up there!{Line} It’s sacred!  So just keep out!”" />
+  <Monologue Order="37" IsIndent="True" Current="Мама Динча{Line}“Наверху комната {Char Zell}а.{Line} Он очень злится, если кто-нибудь{Line} заходит туда, поэтому я была бы{Line} благодарна, если бы вы не поднимались.”" Original="Ma Dincht{Line}“That’s Zell’s room up there.{Line} He gets angry if anyone goes in,{Line} so I’d appreciate it if you didn’t.”" />
+  <Monologue Order="38" IsIndent="True" Current="Ma Dincht{Line}“Welcome back, Zell.{Line} I hope you’re all right.”" Original="Ma Dincht{Line}“Welcome back, Zell.{Line} I hope you’re all right.”" />
+  <Monologue Order="39" IsIndent="False" Current="Zell{Line}“......”" Original="Zell{Line}“......”" />
+  <Monologue Order="39" IsIndent="False" Current="Ma Dincht{Line}“Balamb is back to normal,{Line} and so is everyone else.”" Original="Ma Dincht{Line}“Balamb is back to normal,{Line} and so is everyone else.”" />
+  <Monologue Order="40" IsIndent="False" Current="“...But,{Line} I guess you can’t come home yet,{Line} can you, Zell...?”" Original="“...But,{Line} I guess you can’t come home yet,{Line} can you, Zell...?”" />
+  <Monologue Order="41" IsIndent="False" Current="Ma Dincht{Line}“Thank you for{Line} all you’ve done for Balamb.”" Original="Ma Dincht{Line}“Thank you for{Line} all you’ve done for Balamb.”" />
+  <Monologue Order="42" IsIndent="False" Current="Zell{Line}“Yo, ma!  Has anyone come by to see me?{Line} Someone with a pigtail...”" Original="Zell{Line}“Yo, ma!  Has anyone come by to see me?{Line} Someone with a pigtail...”" />
+  <Monologue Order="43" IsIndent="False" Current="Ma Dincht{Line}“Huh?  What’s this all of a sudden...?{Pause 88}{Line} ...No one’s stopped by.”" Original="Ma Dincht{Line}“Huh?  What’s this all of a sudden...?{Pause 88}{Line} ...No one’s stopped by.”" />
+  <Monologue Order="44" IsIndent="False" Current="Ma Dincht{Line}“So you’re going to have another friend visit?{Line} I’m looking forward to meeting this person.”" Original="Ma Dincht{Line}“So you’re going to have another friend visit?{Line} I’m looking forward to meeting this person.”" />
+  <Monologue Order="45" IsIndent="False" Current="Zell{Line}“That’s strange...”" Original="Zell{Line}“That’s strange...”" />
+  <Monologue Order="46" IsIndent="False" Current="“Yes?  Have you improved your game?”{Line}Yes{Line}No" Original="“Yes?  Have you improved your game?”{Line}Yes{Line}No" />
+  <Monologue Order="47" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Balamb’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="48" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Galbadia’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Galbadia’s rules and ours.”" />
+  <Monologue Order="49" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Trabia’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Trabia’s rules and ours.”" />
+  <Monologue Order="50" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Centra’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Centra’s rules and ours.”" />
+  <Monologue Order="51" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Dollet’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Dollet’s rules and ours.”" />
+  <Monologue Order="52" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} FH’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="53" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Lunar’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="54" IsIndent="False" Current="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Esthar’s rules and ours.”" Original="“So, you know rules{Line} that don’t exist here?{Line} Then let’s play a game with{Line} Esthar’s rules and ours.”" />
+  <Monologue Order="55" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="56" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="57" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="58" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="59" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="60" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="61" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="62" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="63" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="64" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="65" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="66" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="67" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="68" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="70" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="69" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="70" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="73" IsIndent="False" Current="“Balamb”" Original="“Balamb”" />
+  <Monologue Order="74" IsIndent="False" Current="“Galbadia”" Original="“Galbadia”" />
+  <Monologue Order="75" IsIndent="False" Current="“Trabia”" Original="“Trabia”" />
+  <Monologue Order="76" IsIndent="False" Current="“Centra”" Original="“Centra”" />
+  <Monologue Order="77" IsIndent="False" Current="“Dollet”" Original="“Dollet”" />
+  <Monologue Order="78" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="79" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="80" IsIndent="False" Current="“Esthar”" Original="“Esthar”" />
+  <Monologue Order="81" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Я выступаю в качестве поддержки.{Line} Все решения принимаешь ты.”" Original="Quistis{Line}“My job is to support you in battle.{Line} Everything else is up to you.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Отлично.”" Original="{Char Squall}{Line}“Fine.”" />
+</Monologues>

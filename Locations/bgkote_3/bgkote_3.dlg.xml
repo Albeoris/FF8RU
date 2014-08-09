@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Zell{Line}“You guys are over here.{Line} Backup the advance guards.”" Original="Zell{Line}“You guys are over here.{Line} Backup the advance guards.”" />
+  <Monologue Order="1" IsIndent="False" Current="Nida{Line}“{Char Squall}.{Line} Get back to the {Color Blue}〖bridge〗{Color White}!”" Original="Nida{Line}“{Char Squall}.{Line} Get back to the {Color Blue}〖bridge〗{Color White}!”" />
+  <Monologue Order="2" IsIndent="True" Current="“Извини, ты играешь на{Line} каком-нибудь инстурменте?”" Original="“S’cuse me,{Line} do you play an instrument?”" />
+  <Monologue Order="3" IsIndent="False" Current="“Эй, не игнорируй меня!”" Original="“C’mon, don’t ignore me.”" />
+  <Monologue Order="4" IsIndent="False" Current="“Эй, это же я! Помнишь, я налетела{Line} на тебя у классной комнаты?”" Original="“Heeey, I know you!  I ran into you{Line} by the classroom, right?”" />
+  <Monologue Order="5" IsIndent="False" Current="“Я теперь в исполнительном{Line} комитете Садового фестиваля!”" Original="“I’m on the executive committee{Line} for the Garden Festival.”" />
+  <Monologue Order="6" IsIndent="False" Current="“Если интересно,{Line} приходи к сцене!”" Original="“If you’re interested, come by{Line} and check out the stage.”" />
+  <Monologue Order="7" IsIndent="False" Current="“Я мечтаю о собственной группе!”" Original="“It’s my dream to form my own band.”" />
+  <Monologue Order="8" IsIndent="False" Current="“Правда, мне ещё четверо нужны...{Line} Приссоединишься?”" Original="“Of course I’ll need four people...{Line} Wanna join?”" />
+  <Monologue Order="9" IsIndent="True" Current="{Char Squall}{Line}“The enemy Garden is right by us!{Line} Quad team!  Watch out!”" Original="{Char Squall}{Line}“The enemy Garden is right by us!{Line} Quad team!  Watch out!”" />
+  <Monologue Order="10" IsIndent="False" Current="Zell{Line}“Go straight ahead, to the {Color Blue}〖left〗{Color White}!{Line} We gotta stop’em from comin’ in!{Line} Don’t forget to equip your {Color Yellow}〖GF〗{Color White}!”" Original="Zell{Line}“Go straight ahead, to the {Color Blue}〖left〗{Color White}!{Line} We gotta stop’em from comin’ in!{Line} Don’t forget to equip your {Color Yellow}〖GF〗{Color White}!”" />
+  <Monologue Order="14" IsIndent="False" Current="“{Char Squall}, this is the headmaster speaking.{Line} Please report to my office.”" Original="“{Char Squall}, this is the headmaster speaking.{Line} Please report to my office.”" />
+</Monologues>

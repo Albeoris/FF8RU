@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Посмотрим...”" Original="Quistis{Line}“Let’s see...”" />
+  <Monologue Order="1" IsIndent="True" Current="{Char Quistis}{Line}“Прежде чем ты отправишься на{Line} экзамен, я должна была тебе ещё{Line} что-то рассказать...”" Original="Quistis{Line}“I thought there was something else{Line} I needed to go over with you before{Line} you take the SeeD exam...”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Quistis}{Line}“А! Ну конечно! Самое главное!{Line} Не пускай на самотёк развитие{Line} своих стражей. Присматривай за ними!”" Original="Quistis{Line}“Oh yes!  Taking care of your GF.  This is{Line} something you have to watch out for.”" />
+  <Monologue Order="3" IsIndent="False" Current="" Original="" />
+  <Monologue Order="3" IsIndent="True" Current="{Char Quistis}{Line}“{Char Squall}, ты кое что забыл...{Line} Своих стражей.”" Original="Quistis{Line}“{Char Squall}, you’re forgetting{Line} something... Your GF.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Прежде чем мы уйдём,{Line} я должна тебе кое-что напомнить.”" Original="Quistis{Line}“I have a few things to explain{Line} before we head off.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Quistis}{Line}“Как ты знаешь, стражи дают нам силу.{Line} Чем сильнее страж, тем сильнее ты.”{Next}“Но для того чтобы использовать{Line} потенциал стража, с ним нужно{Line} установить связь. Я напомню,{Line} как это делается...”" Original="Quistis{Line}“GF gives us strength.  The stronger{Line} the GF, the stronger we become.”{Next}“...So, here’s a brief explanation{Line} on junctioning a GF.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Quistis}{Line}“Вопросов нет?{Line} Если ты что-то забудешь, то всегда{Line} можешь обратиться к {Color Blue}〖Руководству〗{Color White} в {Color Blue}〖Меню〗{Color White}.”" Original="Quistis{Line}“Everything ok up till now?{Line} You can always check back by{Line} accessing {Color Blue}〖Tutorial〗{Color White} from the {Color Blue}〖Menu〗{Color White}.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Quistis}{Line}“Постарайся по пути к {Color Blue}〖Огненной пещере〗{Color White},{Line} запасти немного магии из монстров,{Line} при помощи команды ‘Извлечь’.”{Next}“Когда прибудем на место,{Line} я расскажу о том, как приязывать магию...{Line} И не делай такое лицо!{Line} Я обязана тебя проинструктировать!”" Original="Quistis{Line}“Once we get to the {Color Blue}〖Fire Cavern〗{Color White},{Line} I’ll explain how to junction magic.”{Next}“Use the command ‘Draw’ during battle{Line} and stock magic from your enemies.{Line} Be sure to have some stocked!”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Quistis}{Line}“Готов?”{Next}“{Color Blue}〖Огненная пещера〗{Color White} расположена{Line} на {Color Blue}〖востоке〗{Color White} отсюда.”" Original="Quistis{Line}“Ready to go?”{Next}“The {Color Blue}〖Fire Cavern〗{Color White} used for the test{Line} is located {Color Blue}〖east of here〗{Color White}.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Quistis}{Line}“Хм? Ты что-то забыл?”{Next}“Хорошо, я подожду здесь.{Line} Постарайся не задерживаться.”" Original="Quistis{Line}“Hm?  You forgot something?”{Next}“Ok, I’ll be waiting{Line} right here for you.”" />
+  <Monologue Order="10" IsIndent="True" Current="{Char Quistis}{Line}“Очень хорошо.”" Original="Quistis{Line}“Well done.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Quistis}{Line}“Одевай форму и подходи{Line} в {Color Blue}〖холл первого этажа〗{Color White}.”" Original="Quistis{Line}“Now change into your uniform{Line} and assemble at the {Color Blue}〖1F Lobby〗{Color White}.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Quistis}{Line}“Встречаемся {Color Blue}〖в холле первого этажа〗{Color White}.”" Original="Quistis{Line}“Meet in the {Color Blue}〖1F Lobby〗{Color White} after you change.”" />
+  <Monologue Order="13" IsIndent="True" Current="Zell{Line}“Huuuwahaah!”" Original="Zell{Line}“Huuuwahaah!”" />
+  <Monologue Order="14" IsIndent="False" Current="Zell{Line}“Finally made it back...”" Original="Zell{Line}“Finally made it back...”" />
+  <Monologue Order="15" IsIndent="False" Current="Selphie{Line}“Seriously...”" Original="Selphie{Line}“Seriously...”" />
+  <Monologue Order="16" IsIndent="False" Current="Zell{Line}“Well, I guess we just wait{Line} for the test results.”" Original="Zell{Line}“Well, I guess we just wait{Line} for the test results.”" />
+  <Monologue Order="17" IsIndent="False" Current="Zell{Line}“’Til then.{Line} See ya, {Char Squall}.”" Original="Zell{Line}“’Til then.{Line} See ya, {Char Squall}.”" />
+  <Monologue Order="18" IsIndent="False" Current="Selphie{Line}“See ya!”" Original="Selphie{Line}“See ya!”" />
+  <Monologue Order="19" IsIndent="False" Current="Zell{Line}“Alright!  The Garden’s safe!”" Original="Zell{Line}“Alright!  The Garden’s safe!”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Rinoa}{Line}“Hey, looks like everything’s alright!”" Original="{Char Rinoa}{Line}“Hey, looks like everything’s alright!”" />
+  <Monologue Order="21" IsIndent="False" Current="Quistis{Line}“Oh, thank goodness.{Line} Everything looks alright.”" Original="Quistis{Line}“Oh, thank goodness.{Line} Everything looks alright.”" />
+  <Monologue Order="22" IsIndent="False" Current="Irvine{Line}“Hmm.  Doesn’t look like it’s been attacked.”" Original="Irvine{Line}“Hmm.  Doesn’t look like it’s been attacked.”" />
+  <Monologue Order="23" IsIndent="False" Current="(It looks like they did it.)" Original="(It looks like they did it.)" />
+  <Monologue Order="24" IsIndent="False" Current="(Still, the missiles could be on their way.)" Original="(Still, the missiles could be on their way.)" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Squall}{Line}“We have to report to the headmaster.{Line} Come on.”" Original="{Char Squall}{Line}“We have to report to the headmaster.{Line} Come on.”" />
+</Monologues>

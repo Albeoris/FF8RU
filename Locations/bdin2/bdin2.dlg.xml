@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Знаешь, мальчики часто проваливают{Line} это испытание, если я иду с ними...”" Original="Quistis{Line}“You know, the boys often choke{Line} on this test when I come with them.”" />
+  <Monologue Order="1" IsIndent="False" Current="“Думаю, они не могут оторвать{Line} от меня взгляд, и забывают{Line} обо всём на свете...”" Original="“I guess my charm makes them nervous.”" />
+  <Monologue Order="2" IsIndent="False" Current="(Пофиг...)" Original="(...Whatever.)" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Эй, да я просто шучу!{Line} Ты какой-то напряжённый!”" Original="Quistis{Line}“I’m just kidding!{Line} Trying to keep you relaxed, that’s all.”" />
+</Monologues>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Знаешь, мне реально{Line} по душе это место!”{Next}“Даже несмотря на этих{Line} сволочных преподов...”" Original="“Know what?{Line} I really like this Garden.”{Next}“Even though there are{Line} instructors who suck.”" />
+  <Monologue Order="1" IsIndent="False" Current="“Смотрю я на вас,{Line} и хочется жить!”" Original="“Watching you guys{Line} in action really{Line} motivates me.”" />
+  <Monologue Order="2" IsIndent="True" Current="Garden Faculty{Line}“Find the headmaster!”" Original="Garden Faculty{Line}“Find the headmaster!”" />
+  <Monologue Order="3" IsIndent="False" Current="(What’s going on?{Line} Are they evacuating?)" Original="(What’s going on?{Line} Are they evacuating?)" />
+  <Monologue Order="4" IsIndent="False" Current="Garden Faculty{Line}“Seize him!  Kill him{Line} if you have to!”" Original="Garden Faculty{Line}“Seize him!  Kill him{Line} if you have to!”" />
+  <Monologue Order="5" IsIndent="False" Current="Garden Faculty{Line}“Go!”" Original="Garden Faculty{Line}“Go!”" />
+  <Monologue Order="6" IsIndent="False" Current="(What!?)" Original="(What!?)" />
+  <Monologue Order="7" IsIndent="False" Current="Garden Faculty{Line}“Another one of Cid’s followers?{Line} Prepare to die!”" Original="Garden Faculty{Line}“Another one of Cid’s followers?{Line} Prepare to die!”" />
+</Monologues>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Администратор{Line}“Добро пожаловать в самый{Line} прекрасный отель Баламба.”" Original="Receptionist{Line}“Welcome to the{Line} lovely Balamb Hotel.”" />
+  <Monologue Order="1" IsIndent="False" Current="“Комнаты по 100 гилей.{Line} Вы хотите остановиться у нас?{Line}Да{Line}Нет" Original="“Rooms are 100 Gil.{Line} Will you be staying with us?”{Line}Yes{Line}No" />
+  <Monologue Order="2" IsIndent="False" Current="Администратор{Line}“Но... у вас недостаточно денег...”" Original="Receptionist{Line}“But...{Line} You don’t seem to have enough money...”" />
+  <Monologue Order="3" IsIndent="False" Current="Bell Boy{Line}“Please let me know{Line} if you need anything.”" Original="Bell Boy{Line}“Please let me know{Line} if you need anything.”" />
+  <Monologue Order="3" IsIndent="True" Current="“Здорово! Этот городок{Line} чертовски хорошо!”" Original="“Hello there, chap.{Line} This is one hell of a town.”" />
+  <Monologue Order="4" IsIndent="False" Current="“Было бы здорово обосноваться{Line} здесь после ухода на пенсию...”" Original="“This would be a great town to live in{Line} when you retire, don’t you think?”" />
+  <Monologue Order="5" IsIndent="False" Current="“Может, жена перестала бы{Line} ворчать, поживи она здесь{Line} несколько лет...”" Original="“Maybe my wife would cut back{Line} on her yapitty-yap complainin’{Line} if she lived here.”" />
+  <Monologue Order="6" IsIndent="True" Current="Администратор{Line}“Это гости из Гальбадии.”" Original="Receptionist{Line}“These guests are from {Term Galbadia}.”" />
+  <Monologue Order="7" IsIndent="False" Current="“Как интересно...{Line} Похоже, в отличии от нашего{Line} захолустья, там жизнь бьёт ключём!”" Original="“How interesting.{Line} So, unlike in this hick town here,{Line} you can get your hands on the latest fads.”" />
+  <Monologue Order="8" IsIndent="False" Current="Администратор{Line}“Ой, простите,{Line} я слегка увлеклась.”" Original="Receptionist{Line}“Oops... I’m sorry.{Line} I just got so caught up in my story.”" />
+  <Monologue Order="9" IsIndent="True" Current="“You know what?  I like you.{Line} Next time, I’ll bring you a gift.”" Original="“You know what?  I like you.{Line} Next time, I’ll bring you a gift.”" />
+  <Monologue Order="10" IsIndent="False" Current="“Hehe...{Line} Hope to see you again.”" Original="“Hehe...{Line} Hope to see you again.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Please bring your wife{Line} next time you visit.”" Original="“Please bring your wife{Line} next time you visit.”" />
+  <Monologue Order="12" IsIndent="False" Current="“I’m sure she’ll enjoy this town{Line} as much as you have, sir.”" Original="“I’m sure she’ll enjoy this town{Line} as much as you have, sir.”" />
+  <Monologue Order="13" IsIndent="False" Current="“I hope so.{Line} She lives for being thrifty...”" Original="“I hope so.{Line} She lives for being thrifty...”" />
+  <Monologue Order="14" IsIndent="False" Current="“And I live for spending.{Line} I wish I could spend a lot on you.”" Original="“And I live for spending.{Line} I wish I could spend a lot on you.”" />
+  <Monologue Order="15" IsIndent="True" Current="“Прости, но я проиграл{Line} местным все свои карты.”" Original="“Oh, cards.{Line} I lost most of mine{Line} to the host here.”" />
+  <Monologue Order="16" IsIndent="False" Current="“Настоящие шуллеры, скажу я тебе!”" Original="“Excellent player, I must say!”" />
+  <Monologue Order="17" IsIndent="True" Current="“W-Wait, {Char Squall}!{Line} Look at that...”" Original="“W-Wait, {Char Squall}!{Line} Look at that...”" />
+  <Monologue Order="18" IsIndent="False" Current="“H...Hold up a sec, {Char Squall}!{Line} Check that out...”" Original="“H...Hold up a sec, {Char Squall}!{Line} Check that out...”" />
+  <Monologue Order="19" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Zell, I really wanted you to read this.{Line} I’m glad I found you here...”" Original="Library Girl with a Pigtail{Line}“Zell, I really wanted you to read this.{Line} I’m glad I found you here...”" />
+  <Monologue Order="20" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Ze... I real...ed...you...rea...is.{Line} I’m...gl...I...ound...re...”" Original="Library Girl with a Pigtail{Line}“Ze... I real...ed...you...rea...is.{Line} I’m...gl...I...ound...re...”" />
+  <Monologue Order="21" IsIndent="False" Current="Zell{Line}“Well, like...um...hmm...{Line} I’m not the kind to read books and I don’t{Line} really like sittin’ around all quiet, either...”" Original="Zell{Line}“Well, like...um...hmm...{Line} I’m not the kind to read books and I don’t{Line} really like sittin’ around all quiet, either...”" />
+  <Monologue Order="22" IsIndent="False" Current="Zell{Line}“...ke...um...mm...{Line} I...ot...ki...re...oks...n’t{Line} ...lly...ke...in’...ar...qui...ther...”" Original="Zell{Line}“...ke...um...mm...{Line} I...ot...ki...re...oks...n’t{Line} ...lly...ke...in’...ar...qui...ther...”" />
+  <Monologue Order="23" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Haha...{Line} I know.{Line} That’s why I picked out this book...”" Original="Library Girl with a Pigtail{Line}“Haha...{Line} I know.{Line} That’s why I picked out this book...”" />
+  <Monologue Order="24" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Haha...{Line} I...ow.{Line} Tha...hy...cked...ou...th...ook...”" Original="Library Girl with a Pigtail{Line}“Haha...{Line} I...ow.{Line} Tha...hy...cked...ou...th...ook...”" />
+  <Monologue Order="25" IsIndent="False" Current="Zell{Line}“ALRIGHT!!!”" Original="Zell{Line}“ALRIGHT!!!”" />
+  <Monologue Order="26" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Each time...well even just{Line} sometimes when you read this book...”" Original="Library Girl with a Pigtail{Line}“Each time...well even just{Line} sometimes when you read this book...”" />
+  <Monologue Order="27" IsIndent="False" Current="Library Girl with a Pigtail{Line}“Ea...ime...ell...time...en{Line} you...ead...ook...”" Original="Library Girl with a Pigtail{Line}“Ea...ime...ell...time...en{Line} you...ead...ook...”" />
+  <Monologue Order="28" IsIndent="False" Current="“Please think of me.{Line} Even if it’s just a little...”" Original="“Please think of me.{Line} Even if it’s just a little...”" />
+  <Monologue Order="29" IsIndent="False" Current="“...ease...ink...me.{Line} ...ven...t’s...st...ttle...”" Original="“...ease...ink...me.{Line} ...ven...t’s...st...ttle...”" />
+  <Monologue Order="30" IsIndent="False" Current="“That would be enough{Line} ...to fill my heart...”" Original="“That would be enough{Line} ...to fill my heart...”" />
+  <Monologue Order="31" IsIndent="False" Current="“...ould...ough{Line} ...fill...eart...”" Original="“...ould...ough{Line} ...fill...eart...”" />
+  <Monologue Order="33" IsIndent="False" Current="Zell{Line}“......”" Original="Zell{Line}“......”" />
+  <Monologue Order="32" IsIndent="False" Current="Library Girl with a Pigtail{Line}“I...I’m sorry!{Line} I just had to tell you!”" Original="Library Girl with a Pigtail{Line}“I...I’m sorry!{Line} I just had to tell you!”" />
+  <Monologue Order="33" IsIndent="False" Current="Library Girl with a Pigtail{Line}“...sorry...!{Line} ...had...ell...you!”" Original="Library Girl with a Pigtail{Line}“...sorry...!{Line} ...had...ell...you!”" />
+  <Monologue Order="34" IsIndent="False" Current="“Please take care of yourself!”" Original="“Please take care of yourself!”" />
+  <Monologue Order="35" IsIndent="False" Current="“...ake...self!”" Original="“...ake...self!”" />
+  <Monologue Order="36" IsIndent="False" Current="“Y-Yo, {Char Squall}!{Line} I was waitin’ for ya!  Let’s go!”" Original="“Y-Yo, {Char Squall}!{Line} I was waitin’ for ya!  Let’s go!”" />
+  <Monologue Order="37" IsIndent="False" Current="Received [Combat King 003]!" Original="Received [Combat King 003]!" />
+  <Monologue Order="38" IsIndent="False" Current="(Huh?  I can’t hear what they’re saying.)" Original="(Huh?  I can’t hear what they’re saying.)" />
+</Monologues>
