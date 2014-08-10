@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Seifer}{Line}“Ещё не сдрейфили?”" Original="Seifer{Line}“Having fun yet?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Seifer}{Line}“Настоящее сражение впереди!..”" Original="Seifer{Line}“Real battle is the way to go...”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Seifer}{Line}“......”" Original="Seifer{Line}“......”" />
+  <Monologue Order="3" IsIndent="False" Current="Zell{Line}“Yo, what are you doin’!?{Line} We shouldn’t be going back!”" Original="Zell{Line}“Yo, what are you doin’!?{Line} We shouldn’t be going back!”" />
+  <Monologue Order="3" IsIndent="False" Current="“Территория находится под контролем{Line} отряда «Гамма»...”{Next}“Мы еле пробились сюда.{Line} Пострайтесь и за нас, ребята!”" Original="“Squad C’s in charge here.{Line} Leave the rest to us...”{Next}“...Is what I really wanna say,{Line} but we’re not that strong.  Go for it, guys!”" />
+  <Monologue Order="4" IsIndent="False" Current="“Одного из наших стошнило...”{Next}“Нет... {Pause 80}Не подумай, мы тут не едим!”" Original="“One of our members got sick.{Line} We’re shorthanded...”{Next}“Uh... {Pause 80}It’s not like we’re sick{Line} ’cause we had a bite to eat here.”" />
+  <Monologue Order="5" IsIndent="False" Current="“Отряд «Гамма», отступайте!..”" Original="“Squad C, withdraw...!”" />
+  <Monologue Order="6" IsIndent="False" Current="“Есть!”" Original="“Roger!”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Zell}{Line}“Run while we still have the chance!”" Original="Zell{Line}“Run while we still have the chance!”" />
+  <Monologue Order="8" IsIndent="False" Current="“Ааааааааа!!!{Line} Ч-ч-ч-что-то приближается!”" Original="“Ayaaaa!{Line} S-S-S-Something’s coming!”" />
+  <Monologue Order="9" IsIndent="False" Current="“Отряд «Гамма», БЕЖИ~ИМ!!!”" Original="“S-S-Squad C... RUN FOR IT...!”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“YO!  What are you doin’!?{Line} C’mon, let’s go!”" Original="Zell{Line}“YO!  What are you doin’!?{Line} C’mon, let’s go!”" />
+  <Monologue Order="12" IsIndent="False" Current="Crab {Var 48}{Line}Roof {Var 49}" Original="Crab {Var 48}{Line}Roof {Var 49}" />
+</Monologues>

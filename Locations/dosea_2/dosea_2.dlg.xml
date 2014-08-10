@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="2" IsIndent="False" Current="{Char Seifer}{Line}“Выдвигаемся!”" Original="Seifer{Line}“Let’s move out.”" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Хорошо, вы обеспечиваете{Line} безопасность {Color Blue}〖Центральной площади〗{Color White}!”" Original="Quistis{Line}“Ok, you are to secure{Line} the {Color Blue}〖Central Square〗{Color White}!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Не забудьте проверить {Color Yellow}связи со стражами{Color White}{Line} прежде чем вступать в бой!”" Original="Quistis{Line}“Be sure to {Color Yellow}equip your GF{Color White}{Line} before you head into battle!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Что ты здесь делаешь?!{Line} Вернись на пост!”" Original="Quistis{Line}“What are you doing here!?{Line} Get back to your post!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Быстрее!”" Original="Quistis{Line}“Hurry!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“Ok... Who broke it?”" Original="Zell{Line}“Ok... Who broke it?”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Squall}{Line}“......”" Original="{Char Squall}{Line}“......”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Selphie}{Line}“......?”" Original="Selphie{Line}“......?”" />
+</Monologues>

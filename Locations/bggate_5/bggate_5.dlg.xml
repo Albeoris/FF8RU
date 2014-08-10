@@ -42,7 +42,7 @@
   <Monologue Order="34" IsIndent="False" Current="Garden Faculty{Line}“I’m the one asking the questions!{Line} You’re just supposed to follow orders!”" Original="Garden Faculty{Line}“I’m the one asking the questions!{Line} You’re just supposed to follow orders!”" />
   <Monologue Order="35" IsIndent="False" Current="Garden Faculty{Line}“Hey!  What kind of attitude is that!?{Line} You’re with Cid, aren’t you!?”" Original="Garden Faculty{Line}“Hey!  What kind of attitude is that!?{Line} You’re with Cid, aren’t you!?”" />
   <Monologue Order="36" IsIndent="True" Current="“Прекрасный бриз,{Line} великолепная погода...{Line} Что ещё нужно для счастья?”" Original="“Nice breeze, beautiful sun...{Line} I think I’ll just...”" />
-  <Monologue Order="37" IsIndent="True" Current="“(сопит)...”" Original="“Zzzz...”" />
+  <Monologue Order="37" IsIndent="True" Current="“(Кажется, он спит...)”" Original="“Zzzz...”" />
   <Monologue Order="38" IsIndent="False" Current="“Наверное, нужно съездить домой{Line} в эти выходные. Давно предков{Line} не навещал...”" Original="“Perhaps I should go home this weekend.{Line} I really should go visit my parents.”" />
   <Monologue Order="39" IsIndent="True" Current="“Так, девки, что мы{Line} сегодня будем смотреть?..”" Original="“By the way... About the{Line} movie we want to go see...”" />
   <Monologue Order="40" IsIndent="False" Current="“Мне всё равно.”" Original="“Oh, I’ll watch anything.”" />

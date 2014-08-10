@@ -12,7 +12,7 @@
   <Monologue Order="8" IsIndent="False" Current="{Char Squall}{Line}“Думаю, понятно, что там ты{Line} можешь отдохнуть и переодеться.”" Original="{Char Squall}{Line}“You can rest and{Line} change in there.”" />
   <Monologue Order="9" IsIndent="False" Current="{Char Squall}{Line}“На северо-западе{Line} расположен кафетерий.”" Original="{Char Squall}{Line}“West of the North Block{Line} is the cafeteria.”" />
   <Monologue Order="10" IsIndent="False" Current="{Char Squall}{Line}“С тех пор, как в меню появились новые булочки,{Line} там постоянно полно народа. Если хочешь{Line} спокойно поесть, лучше приходи пораньше.”" Original="{Char Squall}{Line}“There’s always a big rush for the hot dogs.{Line} You better get used to waiting in line.”" />
-  <Monologue Order="11" IsIndent="False" Current="“Принято!”" Original="“Got it!”" />
+  <Monologue Order="11" IsIndent="False" Current="“Всё ясно!”" Original="“Got it!”" />
   <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“На северо-востоке{Line} находится автостоянка.”" Original="{Char Squall}{Line}“East of the North Block{Line} is the parking lot.”" />
   <Monologue Order="13" IsIndent="False" Current="{Char Squall}{Line}“Обычно, сад предоставляет{Line} машины отправляющимся на{Line} задания группам.”" Original="{Char Squall}{Line}“We usually take the{Line} Garden car when a{Line} mission comes up.”" />
   <Monologue Order="14" IsIndent="False" Current="{Char Squall}{Line}“На юге расположены главные ворота...”" Original="{Char Squall}{Line}“The front gate is located to the south...”" />
@@ -29,7 +29,7 @@
   <Monologue Order="25" IsIndent="False" Current="{Char Squall}{Line}“Южнее расположена библиотека.”{Next}“Много книг и журналов. Но учебные панели{Line} в классных комнатах намного удобнее.”" Original="{Char Squall}{Line}“South of the East Block is the library.”{Next}“There’s a lot of material you{Line} can look up here, but the terminals in{Line} the classroom are a lot more efficient.”" />
   <Monologue Order="26" IsIndent="False" Current="{Char Squall}{Line}“Как ты уже знаешь, наш класс{Line} находится на втором этаже.”" Original="{Char Squall}{Line}“And you already know about the{Line} classroom on the 2F, right?”" />
   <Monologue Order="27" IsIndent="False" Current="“Угу, помню...”" Original="“Yep, I remember that one.”" />
-  <Monologue Order="28" IsIndent="False" Current="{Char Squall}{Line}“Кстати, кабинет директора на{Line} третьем этаже.Но чтобы подняться{Line} туда нужно специальное разрешение.”" Original="{Char Squall}{Line}“By the way, the headmaster’s office is{Line} located on the 3F.  You need permission{Line} to get in.”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Squall}{Line}“Кстати, кабинет директора на{Line} третьем этаже. Но чтобы подняться{Line} туда нужно специальное разрешение.”" Original="{Char Squall}{Line}“By the way, the headmaster’s office is{Line} located on the 3F.  You need permission{Line} to get in.”" />
   <Monologue Order="29" IsIndent="False" Current="“Ещё вопрос!{Line} Как зовут директора?”" Original="“Another question.{Line} What’s the headmaster’s name?”" />
   <Monologue Order="30" IsIndent="False" Current="{Char Squall}{Line}“Директор Сид.”" Original="{Char Squall}{Line}“Headmaster Cid.”" />
   <Monologue Order="31" IsIndent="False" Current="{Char Squall}{Line}“Вопросы?”" Original="{Char Squall}{Line}“That’s about it.{Line} Anything else?”" />

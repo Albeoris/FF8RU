@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Ничего не происходит...”" Original="{Char Squall}{Line}“...Nothing.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“Чёрт!!!”" Original="Zell{Line}“...The HELL!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Блин, вот это{Line} реально скучно!..”" Original="Zell{Line}“Man... Now this is what I call boring.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Что-то здесь не так...”" Original="Zell{Line}“This ain’t right, man!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Seifer}{Line}“Уж полночь близится...”" Original="Seifer{Line}“Still keeping us waiting...?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Seifer}{Line}“Всё! Я так больше не могу!{Line} Мы что тут - собак натаскиваем?!”" Original="Seifer{Line}“That’s it...!  I can’t take it anymore!{Line} What is this, some kind of dog training!?”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Squall}{Line}“Враг на десять часов.”" Original="{Char Squall}{Line}“It’s the enemy...”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Zell}{Line}“Куда это они попёрлись?”" Original="Zell{Line}“Where the hell they goin’?”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“Эй, а что там, на вершине?”" Original="Zell{Line}“Hey?  What is that up there?”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Seifer}{Line}“Наша новая цель!”" Original="Seifer{Line}“Our next destination.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“Но это же нарушение приказа!”" Original="Zell{Line}“But that’s against orders!”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Seifer}{Line}“А не ты только что ныл,{Line} о том, как тебе скучно?”" Original="Seifer{Line}“Weren’t you just saying{Line} how bored you were?”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Zell}{Line}“{Char Squall}!”" Original="Zell{Line}“{Char Squall}!”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Squall}{Line}“Я поддержу решение капитана.”" Original="{Char Squall}{Line}“I stand by the captain’s decision.”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Seifer}{Line}“Решение капитана?..”" Original="Seifer{Line}“...Captain’s decision?”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Seifer}{Line}“Брось, тебе ведь тоже хочется{Line} размяться! Почувствовать вкус{Line} настоящего боя!”" Original="Seifer{Line}“You want to wreak some{Line} havoc too, don’t you?”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Squall}{Line}“Это хорошая возможность{Line} проверить собственные силы.”{Next}“Благодаря тебе, я чувствую, что могу{Line} бросить вызов кому угодно... Даже если{Line} он будет драться также грязно, как ты.”" Original="{Char Squall}{Line}“It’s a good opportunity to{Line} test out my training.”{Next}“Thanks to you, I feel like{Line} I can take on anyone.{Line} Even if they do fight dirty, like you.”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Seifer}{Line}“Потом ещё спасибо скажешь.”" Original="Seifer{Line}“You’ll thank me when the time comes.”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Zell}{Line}“Какого чёрта?..”{Next}“Я думал, вы терпеть друг друга не можете.{Line} А тут прямо старые друзья!”" Original="Zell{Line}“What the hell...”{Next}“I thought you guys didn’t get along?{Line} You’re like, all buddy-buddy now.”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Zell}{Line}“Слушайте, это не тренирока!”" Original="Zell{Line}“Listen.{Line} This ain’t no ordinary battle.”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Zell}{Line}“Это экзамен. Важный экзамен!{Line} Мы должны следовать приказам!”" Original="Zell{Line}“It’s an exam, an important one.{Line} I’m tellin’ ya, we have to stick to orders.”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Seifer}{Line}“Тогда стой здесь.{Line} Мне не нужны трусы в команде.”" Original="Seifer{Line}“Then you stay here.{Line} I don’t need any boy scouts.”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Zell}{Line}“Да причём тут трусость?!{Line} Это здравый смысл!”" Original="Zell{Line}“What was that!!!?”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Squall}{Line}“Спокойно, {Char Zell}.{Line} Он просто тебя провоцирует.”" Original="{Char Squall}{Line}“Don’t take him seriously, Zell.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Squall}{Line}“{Char Seifer}, если ты действительно{Line} решил идти, нам нужно поторапливаться.”" Original="{Char Squall}{Line}“Seifer, if we’re gonna go,{Line} let’s hurry.”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Seifer}{Line}“Согласен. Враг направился на {Color Blue}〖вершину горы〗{Color White}.”{Next}“Задача отряда «Бета» - разгромить{Line} противника и обеспечить защиту объекта.”{Next}“Выдвигаемся!”" Original="Seifer{Line}“The enemy is headed for the {Color Blue}〖facility〗{Color White}.{Line} We, Squad B, are to secure the summit.”{Next}“Move out!”" />
+  <Monologue Order="26" IsIndent="False" Current="{Char Squall}{Line}“Принято.”" Original="{Char Squall}{Line}“Alright.”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Zell}{Line}“Тьфу... ну и ладно.”" Original="Zell{Line}“Tch... Fine.”" />
+</Monologues>

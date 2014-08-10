@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Их может быть больше...”" Original="{Char Squall}{Line}“There may be more...”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Seifer}{Line}“Точно. Задача: прочешите периметр{Line} на предмет наличия врагов.”" Original="Seifer{Line}“All right, I want you guys{Line} to scout the area for enemies.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Seifer}{Line}“Прошвырнись вокруг, наверняка{Line} здесь ещё остались враги.”" Original="Seifer{Line}“Quit goofin’ around, and{Line} scout the area for any enemies.”" />
+  <Monologue Order="3" IsIndent="True" Current="{Char Zell}{Line}“Эй, мы же отвечаем за эту территорию!”{Next}“Если мы покинем площадь, {Line} это будет нарушением приказа!”" Original="Zell{Line}“Hey, we’re not responsible for that area.”{Next}“It’s against orders for us to{Line} leave our post, isn’t it?”" />
+  <Monologue Order="4" IsIndent="True" Current="{Char Squall}{Line}“Думаю, это последний.”" Original="{Char Squall}{Line}“I think that’s all of them.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Seifer}{Line}“Ладно. Всем оставаться в боевой{Line} готовности. Ждем возможного нападения.”" Original="Seifer{Line}“Well then, we’re on standby{Line} ’til the enemy comes.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Seifer}{Line}“Возможного... скукота...”" Original="Seifer{Line}“Standby... How boring...”" />
+  <Monologue Order="7" IsIndent="True" Current="{Char Squall}{Line}“Кажется, что-то происходит...”" Original="{Char Squall}{Line}“Sounds like it’s starting.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Seifer}{Line}“Давно пора!”" Original="Seifer{Line}“Bring it on.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Seifer}{Line}“Пшёл вон отсюда!”" Original="Seifer{Line}“Get outta here!”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Seifer}{Line}“Проваливай!”" Original="Seifer{Line}“Scram!”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Seifer}{Line}“Эй! Гальбадианцы!”{Next}“Чего вы ждёте?!{Line} Покажите, на что способны!”" Original="Seifer{Line}“Hey!  Galbadian Soldiers!”{Next}“What are you waiting for!?{Line} Come show me what you got!”" />
+</Monologues>

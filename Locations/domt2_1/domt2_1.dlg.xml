@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Солдат {Term Dollet}а{Line}“Какая нелёгкая занесла{Line} их на эту гору?..”" Original="{Term Dollet} Soldier{Line}“...What business do they have{Line} with the {Color Blue}〖Communication Tower〗{Color White} now...?”" />
+  <Monologue Order="1" IsIndent="True" Current="Солдат {Term Dollet}а{Line}“В детстве я часто...{Line} Играл у {Color Blue}〖коммуникационной башни〗{Color White}...”{Next}“Тогда она...{Line} Она уже была...{Line} закрыта... и...”{Next}“Ох...{Line} Как же больно!..”" Original="{Term Dollet} Soldier{Line}“...As a child... I used to...{Line} play at this {Color Blue}〖Communication Tower〗{Color White}...”{Next}“...It was already{Line} closed down then, and...”{Next}“Ugh...I was careless...”" />
+  <Monologue Order="2" IsIndent="True" Current="Солдат {Term Dollet}а{Line}“Ааааа! К-к-кто вы?!”" Original="{Term Dollet} Soldier{Line}“Ahhh!  W-W-Who are you!?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Не бойся. Мы из сада Баламба.{Line} Прибыли для оказания поддержки.”" Original="{Char Squall}{Line}“Don’t worry.  We’re SeeD candidates.{Line} We’ve been dispatched by Garden.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Seifer}{Line}“Что творится там, наверху?”" Original="Seifer{Line}“So what’s going on up there?”" />
+  <Monologue Order="5" IsIndent="False" Current="Солдат {Term Dollet}а{Line}“Гальбадианцы взломали двери{Line} {Color Blue}〖ретрасляционной башни〗{Color White}.”{Next}“Вошли внутрь...{Line} Там, наверху...”" Original="{Term Dollet} Soldier{Line}“The Galbadian soldiers have entered{Line} the {Color Blue}〖Communication Tower〗{Color White}.”{Next}“On top of that...that place has always{Line} been a nesting ground for monsters.”" />
+  <Monologue Order="6" IsIndent="False" Current="Солдат {Term Dollet}а{Line}“Там всегда было полно монстров...{Line} Если будете подниматься. Осто...”" Original="{Term Dollet} Soldier{Line}“If you guys are goin’ up, be caref...”" />
+  <Monologue Order="7" IsIndent="False" Current="Солдат {Term Dollet}а{Line}“П-ПОМОГИТЕ!!!”" Original="{Term Dollet} Soldier{Line}“H-HELP!!!”" />
+  <Monologue Order="8" IsIndent="True" Current="{Char Squall}{Line}“Монстры, значит?..”" Original="{Char Squall}{Line}“Monsters, huh?”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Zell}{Line}“Это хреново.”" Original="Zell{Line}“That sucks.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Seifer}{Line}“Нам же веселее.{Line} Пошли...”" Original="Seifer{Line}“More fun for us.{Line} Come on....”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Zell}{Line}“Веселее?.. Чтоб его!..”" Original="Zell{Line}“...Fun?  Pu-lease...”" />
+  <Monologue Order="12" IsIndent="False" Current="Солдат {Term Dollet}а{Line}“Аааай!..”" Original="{Term Dollet} Soldier{Line}“...Ouuuch”" />
+</Monologues>

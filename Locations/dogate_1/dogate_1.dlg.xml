@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="“Ну, и где же все враги?”" Original="“So, like, where are all the enemies?”" />
+  <Monologue Order="1" IsIndent="True" Current="“Эту территорию контролирует{Line} отряд «Альфа». Не отвлекайтесь{Line} от своей задачи.”" Original="“Squad A is in charge here.{Line} Leave it to us!”" />
+  <Monologue Order="2" IsIndent="True" Current="“Эй, никаких посторонних разговоров!{Line} Не хочу, чтобы с меня сняли баллы!”" Original="“Hey, no small talk, remember?{Line} I don’t want points deducted,{Line} so don’t talk to me!”" />
+  <Monologue Order="3" IsIndent="False" Current="“А вот и враг...{Line} Чтож, мы не бойцы.{Line} Бои оставим вам.”" Original="“So there were enemies...{Line} Well, we’re only in charge of intelligence.{Line} We’ll leave the fighting up to you!”" />
+  <Monologue Order="4" IsIndent="True" Current="“Где-то здесь должен быть{Line} кабель информационной сети...”" Original="“There should be an{Line} info-net cable{Line} around here somewhere...”" />
+  <Monologue Order="5" IsIndent="False" Current="“Надо перехватить последнюю{Line} информацию из Инфосети!”{Next}“Мы должны сделать всё возможное{Line} без использования радиосвязи.”" Original="“To gather the latest information{Line} from the Info Network System!”{Next}“We gotta do what we can{Line} without the use of radio waves.”" />
+  <Monologue Order="6" IsIndent="False" Current="“Нам приходится не только{Line} кулаками махать, но ещё{Line} и головой думать...”" Original="“So basically, unlike you guys,{Line} we use our heads!”" />
+  <Monologue Order="7" IsIndent="True" Current="{Char Squall}{Line}“Наверное, скучно сидеть в тылу...”" Original="{Char Squall}{Line}“Backup duty... Seems boring.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“А мы станем героям{Line} на передовой!”" Original="Zell{Line}“We’re gonna be the heroes{Line} on the front line!”" />
+  <Monologue Order="9" IsIndent="False" Current="“Да дадите вы мне поработать?!..{Line} Чёртовы остолопы. У вас есть{Line} задача? Вот и следуйте на свою точку!”" Original="“Geesh, give me a break...{Line} All you meatheads are the same...{Line} Get to your station, will ya?”" />
+  <Monologue Order="10" IsIndent="True" Current="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." />
+</Monologues>

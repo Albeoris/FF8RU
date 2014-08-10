@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Эй, {Char Squall}.{Line} Покажешь мне свой ганблейд, а?”" Original="Zell{Line}“Yo, {Char Squall}.{Line} Show me your gunblade, will ya?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“Ну же, чувак!”" Original="Zell{Line}“C’mon, man!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Хоть одним глазком!”" Original="Zell{Line}“Just a peek!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Ну и ладно...”" Original="Zell{Line}“Tch, fine...”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Zell}{Line}“Не хочешь и не надо...”" Original="Zell{Line}“Yeah, yeah...”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“И почему ты такой эгоист?!..{Line} Жааааааааааадина!”" Original="Zell{Line}“Why you bein’ so selfish!?{Line} Scrooooge!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“Эй, да скажи ты уже что-нибудь!”" Original="Zell{Line}“Say somethin’, will ya!?{Line} W-What’s on your mind?”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Squall}{Line}“.........”" Original="{Char Squall}{Line}“.........”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Squall}{Line}“Что-нибудь...”" Original="{Char Squall}{Line}“...Nothing.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Quistis}{Line}“Что-нибудь...”" Original="Quistis{Line}“...Nothing.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“.........”" Original="Zell{Line}“.........”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Seifer}{Line}“Перестань. Раздражает...”" Original="Seifer{Line}“Stop that... It’s annoying.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Seifer}{Line}“Сопляк...”" Original="Seifer{Line}“...Chicken-wuss.”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Zell}{Line}“КАК ТЫ МЕНЯ НАЗВАЛ?!”" Original="Zell{Line}“WHAT DID YOU CALL ME!?”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Seifer}{Line}“Хехехе...”" Original="Seifer{Line}“Heheheh...”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Quistis}{Line}“Да перестаньте наконец!”" Original="Quistis{Line}“Knock it off!”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Squall}{Line}“Инструктор...”" Original="{Char Squall}{Line}“...Instructor...”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Squall}{Line}“Что за девушка была{Line} сегодня утром в лазарете?”" Original="{Char Squall}{Line}“Who was that girl in the{Line} infirmary this morning?”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Quistis}{Line}“Разве там кто-то был?{Line} Я никого не заметила.”" Original="Quistis{Line}“Was someone there?{Line} I didn’t notice anybody.”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Quistis}{Line}“Хорошенькая?..”" Original="Quistis{Line}“Is there a problem?”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Squall}{Line}“Нет... не в том дело...”" Original="{Char Squall}{Line}“No...not really...”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Seifer}{Line}“Великоелпно...”{Next}“У меня в отряде сопляк и парень, только{Line} что достигнувший половой зрелости...”" Original="Seifer{Line}“This is great...”{Next}“I have Chicken-wuss and{Line} a guy who just reached{Line} puberty in my squad...”" />
+</Monologues>

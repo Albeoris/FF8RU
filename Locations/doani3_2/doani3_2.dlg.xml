@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Selphie}{Line}“Спускаемся?”{Line}Да{Line}Нет" Original="Selphie{Line}“Wanna go down?”{Line}Go down{Line}Stay" />
+  <Monologue Order="1" IsIndent="False" Current="Биггз{Line}“......”" Original="Biggs{Line}“......”" />
+  <Monologue Order="2" IsIndent="False" Current="Биггз{Line}“Аааааа...”" Original="Biggs{Line}“Eeeeeep...!”" />
+</Monologues>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Monologues>
   <Monologue Order="0" IsIndent="False" Current="“Здесь так тихо... А где-то в эту{Line} минуту идут бои.”{Next}“Видя вас, я вспоминаю об этом...{Line} Но я ни в чём вас не обвиняю.”" Original="“So peaceful here.  Yet there’s fighting{Line} going on somewhere at this very minute.”{Next}“Seeing you all reminds me of that.{Line} I’m not condemning you or anything.”" />
-  <Monologue Order="1" IsIndent="True" Current="“Hi, Zell,{Line} how are you doing?”" Original="“Hi, Zell,{Line} how are you doing?”" />
-  <Monologue Order="2" IsIndent="False" Current="Zell{Line}“Hey...!  How’s it goin’!?{Line} You know me, I’m always good.”" Original="Zell{Line}“Hey...!  How’s it goin’!?{Line} You know me, I’m always good.”" />
-  <Monologue Order="3" IsIndent="False" Current="“Good.  Make sure you{Line} stop by and say ‘hi’{Line} to your mom.”" Original="“Good.  Make sure you{Line} stop by and say ‘hi’{Line} to your mom.”" />
-  <Monologue Order="4" IsIndent="False" Current="“That rowdy punk Zell{Line} isn’t here today?”" Original="“That rowdy punk Zell{Line} isn’t here today?”" />
+  <Monologue Order="1" IsIndent="True" Current="“Здравствуй, {Char Zell}.{Line} Как поживаешь?”" Original="“Hi, Zell,{Line} how are you doing?”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Лучше всех, вы же меня знаете!”" Original="Zell{Line}“Hey...!  How’s it goin’!?{Line} You know me, I’m always good.”" />
+  <Monologue Order="3" IsIndent="False" Current="“Это хорошо... Не забудь{Line} заглянуть к маме.{Line} Ей будет приятно.”" Original="“Good.  Make sure you{Line} stop by and say ‘hi’{Line} to your mom.”" />
+  <Monologue Order="4" IsIndent="True" Current="“That rowdy punk Zell{Line} isn’t here today?”" Original="“That rowdy punk Zell{Line} isn’t here today?”" />
   <Monologue Order="5" IsIndent="False" Current="“What a relief.  He would’ve{Line} ruined everything.  It’s so{Line} nice and peaceful today.”" Original="“What a relief.  He would’ve{Line} ruined everything.  It’s so{Line} nice and peaceful today.”" />
   <Monologue Order="6" IsIndent="False" Current="“After you experience it, you{Line} realize for the first time...”{Next}“...that peace and war{Line} stand right next to{Line} each other.”" Original="“After you experience it, you{Line} realize for the first time...”{Next}“...that peace and war{Line} stand right next to{Line} each other.”" />
   <Monologue Order="7" IsIndent="False" Current="“Zell!{Line} Good to see you home.”" Original="“Zell!{Line} Good to see you home.”" />

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Я думал, что мы{Line} разломали эту хреновину!”" Original="Zell{Line}“I thought we already busted that thing up!?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“БЕЖИМ!”" Original="{Char Squall}{Line}“Forget it!{Line} Let’s go!”" />
+  <Monologue Order="2" IsIndent="False" Current="Battle{Line}Battle" Original="Battle{Line}Battle" />
+</Monologues>

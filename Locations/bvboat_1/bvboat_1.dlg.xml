@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Сю{Line}“Привет, {Char Quistis}!”" Original="Xu{Line}“Hi, Quistis.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Вот наш отряд.”" Original="Quistis{Line}“Well, these are the{Line} members of Squad B.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Приятно с вами познакомиться!”" Original="Zell{Line}“Nice to meet ya!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Рад знакомству.”" Original="{Char Squall}{Line}“Pleased to meet you...”" />
+  <Monologue Order="4" IsIndent="False" Current="Сю{Line}“{Char Seifer}, который это уже раз?”" Original="Xu{Line}“Seifer, how many times has it been now?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Seifer}{Line}“О, я просто обожаю эти экзамены...”" Original="Seifer{Line}“Oh, I just love these exams...”" />
+  <Monologue Order="6" IsIndent="False" Current="Сю{Line}“Я объясню текущую ситуацию и задание.”" Original="Xu{Line}“I’ll explain the current situation{Line} and the mission.”" />
+  <Monologue Order="7" IsIndent="False" Current="Xu{Line}“Be seated!”" Original="Xu{Line}“Be seated!”" />
+  <Monologue Order="8" IsIndent="False" Current="Xu{Line}“Our client for this mission is the{Line} {Term Dollet} Dukedom Parliament.”" Original="Xu{Line}“Our client for this mission is the{Line} {Term Dollet} Dukedom Parliament.”" />
+  <Monologue Order="9" IsIndent="False" Current="Xu{Line}“A request for SeeD was made{Line} 18 hours ago.”" Original="Xu{Line}“A request for SeeD was made{Line} 18 hours ago.”" />
+  <Monologue Order="7" IsIndent="True" Current="{Char Seifer}{Line}“Ну, а что делать НАМ?”" Original="Seifer{Line}“So, what are WE supposed to do?”" />
+  <Monologue Order="8" IsIndent="False" Current="Сю{Line}“Кандидаты в сиды должны{Line} выявить и устранить оставшихся{Line} гальбадианских солдат в черте города.”" Original="Xu{Line}“SeeD candidates are to eliminate the{Line} G-Army inside the city.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Zell}{Line}“Серьёзно звучит!”" Original="Zell{Line}“Sounds important!”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Seifer}{Line}“Звучит скучно.”" Original="Seifer{Line}“Sounds boring.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Seifer}{Line}“В общем, делаем{Line} всю грязную работу...”" Original="Seifer{Line}“So what you’re saying is,{Line} we do all the little, dirty work...”" />
+  <Monologue Order="15" IsIndent="False" Current="Сю{Line}“Мы почти на месте.”{Next}“Бои начнутся сразу{Line} после высадки. Готовьтесь.”" Original="Xu{Line}“We’re almost there.”{Next}“We anticipate a battle as soon as we {Line} disembark.  Just be prepared.”" />
+  <Monologue Order="12" IsIndent="False" Current="Сю{Line}“.........”" Original="Xu{Line}“.........”" />
+  <Monologue Order="13" IsIndent="False" Current="Сю{Line}“Да, наверное, это и так понятно, но...”" Original="Xu{Line}“Oh, it hardly needs to be said, but...”" />
+  <Monologue Order="14" IsIndent="False" Current="“Приказ к отступлению имеет{Line} наивысший приоритет.”" Original="“The order to withdraw takes priority.{Line} Do not forget.”" />
+  <Monologue Order="16" IsIndent="False" Current="Сю{Line}“На этом всё.”{Next}“По любым вопросам{Line} обращайтесь к {Char Quistis}.”" Original="Xu{Line}“That’s all.”{Next}“Any questions,{Line} talk to Quistis.”" />
+  <Monologue Order="17" IsIndent="True" Current="(Хм...){Line}Поговорить с {Char Quistis}{Line}Поговорить с {Char Seifer}ом{Line}Поговорить с {Char Zell}ом{Line}Ничего не делать" Original="(Hmmm...){Line}Talk to Quistis{Line}Talk to Seifer{Line}Talk to Zell{Line}Do nothing" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Quistis}{Line}“Что такое, {Char Squall}?”{Line}Напомните задачу{Line}Нет, ничего" Original="Quistis{Line}“What is it, {Char Squall}?”{Line}Explain that again{Line}It’s nothing" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Quistis}{Line}“Хорошо, в кратце...”" Original="Quistis{Line}“Here’s a quick explanation.”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Quistis}{Line}“...в последний раз.”" Original="Quistis{Line}“This is the last time.”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Quistis}{Line}“Ваша задача - очистить{Line} город от гальбадианских солдат.”{Next}“Приказ отступать имеет наивысший{Line} приоритет. При его получении вы{Line} должны немедленно вернуться на побережье.”" Original="Quistis{Line}“The goal for this mission is to eliminate the{Line} Galbadian forces that have entered {Term Dollet}.”{Next}“The order to withdraw takes priority.{Line} Be sure to make your way back to the{Line} shore when you get this order.”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Quistis}{Line}“Да ну тебя!..”" Original="Quistis{Line}“You understand now?{Line} That’s it.”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Quistis}{Line}“Мы скоро прибудем на место.{Line} Будьте готовы ко всему.”" Original="Quistis{Line}“We’ll be there soon.{Line} Be ready for anything, {Char Squall}.”" />
+  <Monologue Order="24" IsIndent="True" Current="{Char Seifer}{Line}“Слушайте внимаетльно.”{Next}“Нам поручили перерезать{Line} всех гальбадианцев в Доллете.{Line} Дерьмовая работёнка...”{Next}“Но всё, что от вас требуется - {Line} выполнять мои приказы,{Line} приказы капитана.”" Original="Seifer{Line}“Listen up.”{Next}“Our goal for this mission{Line} is to mop up all the{Line} Galbadian soldiers{Line} still left in {Term Dollet}.”{Next}“All you boys have to do{Line} is take orders from me,{Line} the captain.”" />
+  <Monologue Order="25" IsIndent="True" Current="{Char Zell}{Line}“Моё первое настоящее сражение...{Line} Я немного нервничаю.”" Original="Zell{Line}“My first real battle...{Line} I’m gettin’ pretty nervous.”" />
+  <Monologue Order="26" IsIndent="False" Current="{Char Seifer}{Line}“Смотри не описайся со страху.”" Original="Seifer{Line}“Better not piss in your pants.”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Zell}{Line}“Ты это мне?..”" Original="Zell{Line}“Hah!?{Line} You talkin’ to me?”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Seifer}{Line}“Хе-хе-хе...”" Original="Seifer{Line}“Heh heh...”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Zell}{Line}“Ублюдок...”" Original="Zell{Line}“...Bastard.”" />
+  <Monologue Order="30" IsIndent="False" Current="{Char Quistis}{Line}“Так, хватит болтать.”{Next}“До высадки осталось немного.{Line} Приготовьтесь.”" Original="Quistis{Line}“Ok, enough talk.”{Next}“We’ll be landing pretty soon.{Line} Get ready.”" />
+  <Monologue Order="31" IsIndent="True" Current="“До высадки осталось немного.{Line} Приготовьтесь.”" Original="“We’ll be landing pretty soon.{Line} Get ready.”" />
+  <Monologue Order="32" IsIndent="False" Current="{Char Squall}{Line}“Есть.”" Original="{Char Squall}{Line}“Alright.”" />
+  <Monologue Order="33" IsIndent="False" Current="{Char Zell}{Line}“Принято.”" Original="Zell{Line}“Roger.”" />
+  <Monologue Order="34" IsIndent="False" Current="{Char Seifer}{Line}“Да-да...”" Original="Seifer{Line}“Yeah, yeah...”" />
+  <Monologue Order="35" IsIndent="False" Current="{Char Seifer}{Line}“Эй, {Char Squall}.{Line} Посмотри, как там дела снаружи.”" Original="Seifer{Line}“Well then, {Char Squall}.{Line} Go see what’s going on outside.”" />
+  <Monologue Order="36" IsIndent="False" Current="{Char Squall}{Line}“.........”{Line}Ладно{Line}Нет" Original="{Char Squall}{Line}“.........”{Line}......Ok{Line}No" />
+  <Monologue Order="37" IsIndent="False" Current="{Char Squall}{Line}“Ладно...”" Original="{Char Squall}{Line}“......Ok.”" />
+  <Monologue Order="38" IsIndent="False" Current="{Char Seifer}{Line}“Замечательно, потому{Line} что это приказ!”" Original="Seifer{Line}“Good.{Line} Because it’s MY order.”" />
+  <Monologue Order="39" IsIndent="False" Current="{Char Squall}{Line}“Нет.”" Original="{Char Squall}{Line}“......No.”" />
+  <Monologue Order="40" IsIndent="False" Current="{Char Seifer}{Line}“Это не просьба, это приказ.”" Original="Seifer{Line}“This is an order from your captain,{Line} {Char Squall}.  Now go outside.”" />
+</Monologues>

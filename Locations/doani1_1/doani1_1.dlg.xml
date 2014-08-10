@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Он поднялся?”" Original="{Char Squall}{Line}“...Did he go up?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Selphie}{Line}“Ээээй! Капитаааан!!!”" Original="Selphie{Line}“Heeey!  Squad B captain!!!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Squall}{Line}“Похоже, нам придётся{Line} проехать наверх...”" Original="{Char Squall}{Line}“I think we can{Line} take this lift up...”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Selphie}{Line}“Поднимаемся?”{Line}Да{Line}Нет" Original="Selphie{Line}“Wanna go up?”{Line}Go up{Line}Stay" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Selphie}{Line}“Ух ты!{Line} А лифт клёвый!”" Original="Selphie{Line}“Wow, this lift{Line} is pretty cool!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“Не перевозбудись, грохнешься!”" Original="Zell{Line}“Don’t get too excited, or you’ll fall!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Selphie}{Line}“Не парься, всё пучком!”" Original="Selphie{Line}“Like I’m really going to!”" />
+  <Monologue Order="7" IsIndent="True" Current="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." />
+</Monologues>

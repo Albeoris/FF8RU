@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Сид{Line}“Итак... Проблемная команда{Line} в полном составе...{Line} Впрочем, с таким молодым инструктором...{Line} Могло быть и хуже.”" Original="Garden Staff{Line}“So... The problem team, Squad B.{Line} ...Guess it can’t be helped{Line} with a rookie instructor.”" />
+  <Monologue Order="1" IsIndent="False" Current="Сид{Line}“Куда это ты собрался?”" Original="Garden Staff{Line}“Where do you think you’re going?”" />
+  <Monologue Order="2" IsIndent="True" Current="{Char Quistis}{Line}“На корбаль, бегом!”" Original="Quistis{Line}“To the vessel, now!”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Quistis}{Line}“Вы свободны.”{Next}“Накупите сувениров... осмотритесь.{Line} В общем, развлекайтесь.{Line} Но рекомендую хорошенько отдохнуть.”" Original="Quistis{Line}“Ok, you’re free to go.”{Next}“You can buy some souvenirs...{Line} Have a review meeting... It’s up to you.{Line} I recommend you go back and rest, though.”" />
+  <Monologue Order="4" IsIndent="False" Current="Quistis{Line}“Nice work.”" Original="Quistis{Line}“Nice work.”" />
+  <Monologue Order="3" IsIndent="True" Current="“СЕЙФЕР!”" Original="“SEIFER!”" />
+  <Monologue Order="4" IsIndent="False" Current="Райдзин{Line}“Как оно?”" Original="Raijin{Line}“How’d it go?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Seifer}{Line}“Не спрашивай, мужик...{Line} Все только и делали, что путались{Line} под нагами. Не просто быть лидером.”" Original="Seifer{Line}“Man... All they did was get in my way.{Line} Being a leader ain’t easy.”" />
+  <Monologue Order="6" IsIndent="False" Current="Фудзин{Line}“ЦЕЛ?”" Original="Fujin{Line}“SAFE?”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Quistis}{Line}“Отличная работа.”" Original="Quistis{Line}“Good job!”" />
+  <Monologue Order="8" IsIndent="True" Current="{Char Quistis}{Line}“Где {Char Seifer}?”" Original="Quistis{Line}“Where’s Seifer?”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Quistis}{Line}“Завтра будут оглашены{Line} результаты экзамена.”{Next}“Всем быть в саду не{Line} позднее полудня.”" Original="Quistis{Line}“Just be back at Garden by sundown.{Line} You’re free ’til then.”" />
+  <Monologue Order="10" IsIndent="False" Current="“На сегодня все свободны.”" Original="“Ok, dismissed!”" />
+  <Monologue Order="12" IsIndent="True" Current="“Beautiful ocean, isn’t it...?{Line} Not like my hometown...{Line} This is the real thing...”" Original="“Beautiful ocean, isn’t it...?{Line} Not like my hometown...{Line} This is the real thing...”" />
+  <Monologue Order="13" IsIndent="False" Current="“My hometown is completely{Line} polluted with oil now...”" Original="“My hometown is completely{Line} polluted with oil now...”" />
+  <Monologue Order="14" IsIndent="False" Current="“I guess if you saw it everyday,{Line} you wouldn’t notice the transformation...”" Original="“I guess if you saw it everyday,{Line} you wouldn’t notice the transformation...”" />
+  <Monologue Order="15" IsIndent="False" Current="“I’ve come to realize this{Line} by looking at the blue,{Line} clear ocean here.”" Original="“I’ve come to realize this{Line} by looking at the blue,{Line} clear ocean here.”" />
+  <Monologue Order="16" IsIndent="False" Current="“It sure is beautiful...”" Original="“It sure is beautiful...”" />
+  <Monologue Order="17" IsIndent="False" Current="“There must be many things in this world{Line} that fade away unnoticed...”" Original="“There must be many things in this world{Line} that fade away unnoticed...”" />
+  <Monologue Order="18" IsIndent="False" Current="“I came to Balamb after hearing about{Line} an interesting fish caught in this region.”" Original="“I came to Balamb after hearing about{Line} an interesting fish caught in this region.”" />
+  <Monologue Order="19" IsIndent="False" Current="“Actually, I’m a chef, but I seem{Line} to have run out of ideas.”" Original="“Actually, I’m a chef, but I seem{Line} to have run out of ideas.”" />
+  <Monologue Order="20" IsIndent="False" Current="“There’s the delicacy, Balamb fish, but here,{Line} you can catch plenty of Badamb fish.{Line} You know, the ones that numb you.”" Original="“There’s the delicacy, Balamb fish, but here,{Line} you can catch plenty of Badamb fish.{Line} You know, the ones that numb you.”" />
+  <Monologue Order="21" IsIndent="False" Current="“I’ve been wracking my brain over{Line} how I should prepare them.”" Original="“I’ve been wracking my brain over{Line} how I should prepare them.”" />
+  <Monologue Order="22" IsIndent="False" Current="“Are you from around here?{Line} What kind of dishes do you like?”" Original="“Are you from around here?{Line} What kind of dishes do you like?”" />
+  <Monologue Order="23" IsIndent="False" Current="Selphie{Line}“Me, me, me!{Line} The dish I like is{Line} Ms. Moogle’s cake!”" Original="Selphie{Line}“Me, me, me!{Line} The dish I like is{Line} Ms. Moogle’s cake!”" />
+  <Monologue Order="24" IsIndent="False" Current="“Lots and lots of fruit on top,{Line} covered with fluffy cream,{Line} and it looks oh so yummy...”" Original="“Lots and lots of fruit on top,{Line} covered with fluffy cream,{Line} and it looks oh so yummy...”" />
+  <Monologue Order="25" IsIndent="False" Current="“I always eat one{Line} this big!”" Original="“I always eat one{Line} this big!”" />
+  <Monologue Order="26" IsIndent="False" Current="Selphie{Line}“...{Pause 80}Oh yeah...{Line} How ’bout you make a cake...”" Original="Selphie{Line}“...{Pause 80}Oh yeah...{Line} How ’bout you make a cake...”" />
+  <Monologue Order="27" IsIndent="False" Current="“And I get to try it!”" Original="“And I get to try it!”" />
+  <Monologue Order="28" IsIndent="False" Current="“...I’m not talking about desserts.  I was{Line} talking about how to prepare the fish...”" Original="“...I’m not talking about desserts.  I was{Line} talking about how to prepare the fish...”" />
+  <Monologue Order="29" IsIndent="False" Current="“It would be kinda nice to be able to{Line} bring a smile to cute girls like yourself.”" Original="“It would be kinda nice to be able to{Line} bring a smile to cute girls like yourself.”" />
+  <Monologue Order="30" IsIndent="False" Current="“That’s it!{Line} Maybe I’ll try making a cake{Line} with a Badamb fish...”" Original="“That’s it!{Line} Maybe I’ll try making a cake{Line} with a Badamb fish...”" />
+  <Monologue Order="31" IsIndent="False" Current="{Char Squall}{Line}“Hm?”" Original="{Char Squall}{Line}“Hm?”" />
+  <Monologue Order="32" IsIndent="False" Current="{Var 49} Gil came with the draw!" Original="{Var 49} Gil came with the draw!" />
+  <Monologue Order="33" IsIndent="False" Current="“Play some cards?”{Line}Yes{Line}No" Original="“Play some cards?”{Line}Yes{Line}No" />
+  <Monologue Order="34" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Balamb’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Balamb’s.”" />
+  <Monologue Order="35" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Galbadia’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Galbadia’s.”" />
+  <Monologue Order="36" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Trabia’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Trabia’s.”" />
+  <Monologue Order="37" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Centra’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Centra’s.”" />
+  <Monologue Order="38" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Dollet’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Dollet’s.”" />
+  <Monologue Order="39" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and FH’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and FH’s.”" />
+  <Monologue Order="40" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Lunar’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Lunar’s.”" />
+  <Monologue Order="41" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Esthar’s.”" Original="“You seem to know rules{Line} unfamiliar to my hometown.{Line} Let’s play a game with{Line} my hometown’s rules and Esthar’s.”" />
+  <Monologue Order="42" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="43" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="44" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="45" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="46" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="47" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="48" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="49" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="50" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="51" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="52" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="53" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="54" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="55" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="57" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="56" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="57" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="60" IsIndent="False" Current="“Balamb”" Original="“Balamb”" />
+  <Monologue Order="61" IsIndent="False" Current="“Galbadia”" Original="“Galbadia”" />
+  <Monologue Order="62" IsIndent="False" Current="“Trabia”" Original="“Trabia”" />
+  <Monologue Order="63" IsIndent="False" Current="“Centra”" Original="“Centra”" />
+  <Monologue Order="64" IsIndent="False" Current="“Dollet”" Original="“Dollet”" />
+  <Monologue Order="65" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="66" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="67" IsIndent="False" Current="“Esthar”" Original="“Esthar”" />
+  <Monologue Order="68" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

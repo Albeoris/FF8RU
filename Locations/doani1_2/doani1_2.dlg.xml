@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Selphie}{Line}“Поднимаемся?”{Line}Да{Line}Нет" Original="Selphie{Line}“Wanna go up?”{Line}Go up{Line}Stay" />
+  <Monologue Order="1" IsIndent="True" Current="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line} [Save] to save your game." />
+  <Monologue Order="2" IsIndent="False" Current="Dummy" Original="Dummy" />
+</Monologues>

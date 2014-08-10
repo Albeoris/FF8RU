@@ -15,7 +15,7 @@
   <Monologue Order="11" IsIndent="True" Current="“Утро!{Line} Как же здорово я себя чувствую!”" Original="“Morning!{Line} I feel great!”" />
   <Monologue Order="12" IsIndent="False" Current="“Утро...{Line} Как же...{Pause 48} уныло {Line} всё вокруг...”" Original="“Morning...{Line} I feel a bit...{Pause 48}{Line} blue today...”{Next}“NOT!”" />
   <Monologue Order="13" IsIndent="False" Current="“Доооброе утрооо!!!”" Original="“Gooood morningggg!”" />
-  <Monologue Order="14" IsIndent="True" Current="“Каждый сид должен{Line} продолжать учиться!”" Original="“Even SeeDs have to{Line} keep studying.”" />
+  <Monologue Order="14" IsIndent="True" Current="“Даже став сидом, нужно{Line} продолжать учиться!”" Original="“Even SeeDs have to{Line} keep studying.”" />
   <Monologue Order="15" IsIndent="True" Current="“Занимаешься? Я поражена!”" Original="“Studying in the library!?{Line} I’m impressed!”" />
   <Monologue Order="16" IsIndent="True" Current="“Эй! Сыграем?”{Line}Да{Line}Нет" Original="“HEY!!!  So you wanna play!?”{Line}Yes{Line}No" />
   <Monologue Order="17" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />

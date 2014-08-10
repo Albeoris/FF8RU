@@ -5,12 +5,12 @@
   <Monologue Order="0" IsIndent="False" Current="“Сегодня полевой экзамен...”" Original="“So today’s the SeeD field exam...”" />
   <Monologue Order="1" IsIndent="False" Current="“Я в прошлый раз засыпался...{Line} Слишком нервничал.”" Original="“I choked last time...{Line} I was way too nervous.”" />
   <Monologue Order="2" IsIndent="False" Current="“Ты хотя бы до экзамена дошёл!{Line} А я этот чёртов тест никак написать не могу!”" Original="“At least you made it to the field exam!{Line} I can’t even pass my written test yet!”" />
-  <Monologue Order="3" IsIndent="False" Current="“Это потому что я умнее тебя!”" Original="“I guess you’re not as smart as I am.”" />
+  <Monologue Order="3" IsIndent="False" Current="“Это потому что вы не такие умные, как я!”" Original="“I guess you’re not as smart as I am.”" />
   <Monologue Order="4" IsIndent="False" Current="“Ну, конечно!{Line} Не напомнишь, кого вчера{Line} оставили после уроков?”" Original="“Yeah, right!{Line} You’re in study hall today, too!”" />
   <Monologue Order="5" IsIndent="False" Current="“Не напоминай...{Line} Мы просто неудачники.”" Original="“Yeah...so am I...{Line} I guess we all just suck.”" />
   <Monologue Order="6" IsIndent="False" Current="“СиДы мы!{Line} Слабаки и Деграданты!”" Original="“We’re just a sad bunch...{Line} SaaaaaaaaD...”" />
   <Monologue Order="7" IsIndent="False" Current="“И неудачники!”" Original="“SaaaaaaaaD...”" />
-  <Monologue Order="8" IsIndent="False" Current="“Слабаки и деграданты-неудачники,{Line} заливающие своё ничтожество{Line} оставшим кофе...”" Original="“Sad people like us, all we do is complain{Line} in the cafeteria... SaaaaaaaaD...”" />
+  <Monologue Order="8" IsIndent="False" Current="“Слабаки и деграданты-неудачники,{Line} заливающие своё ничтожество{Line} остывшим кофе...”" Original="“Sad people like us, all we do is complain{Line} in the cafeteria... SaaaaaaaaD...”" />
   <Monologue Order="9" IsIndent="False" Current="(Они ведь даже не пытаются{Line} что-нибудь изменить...)" Original="(Were these guys{Line} complaining all this time...?)" />
   <Monologue Order="10" IsIndent="True" Current="(Поговорю...){Line}(...с парнем передо мной.){Line}(...с парнем позади.)" Original="(Which one should I talk to...){Line}(...The guy in front of me){Line}(...The guy in the back)" />
   <Monologue Order="11" IsIndent="False" Current="Поклонник Трип  #1{Line}“О, как же я люблю тебя,{Line} инструктор {Char Quistis}...”{Next}“Моё метущееся сердце не может{Line} провалиться в сладостную дрёму{Line} в час ночной, о красоте твоей вздыхая...”{Next}“А измождённый организм{Line} за разом раз... отрубается{Line} посреди лекции. Искусительница!..”" Original="Trepe Groupie #1{Line}“Oh, how I love thee, Instructor Quistis...”{Next}“I cannot sleep at night{Line} Thinking of your radiating beauty...”{Next}“That is why I am always{Line} falling asleep in class...{Line} Oh...how sinful you are...”" />

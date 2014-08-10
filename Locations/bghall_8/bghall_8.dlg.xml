@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Директор Сид{Line}“Давно не видились.{Line} Как настроение?..”" Original="Headmaster Cid{Line}“It’s been a while, everyone.{Line} How’s everyone doing?”" />
+  <Monologue Order="1" IsIndent="False" Current="Директор Сид{Line}“Всего экзамен будут сдавать{Line} 12 человек из 4 отрядов...”{Next}“Вы десантируетесь в район{Line} боевых действий. Вам предстоит{Line} сражаться в реальных боях.”" Original="Headmaster Cid{Line}“This exam will involve{Line} 12 members from Squads A through D...”{Next}“You will be proceeding to{Line} a real battlefield.{Line} Obviously, the battles are for real.”" />
+  <Monologue Order="2" IsIndent="False" Current="Директор Сид{Line}“Жизнь и смерть. Победа и поражение.{Line} Честь и бесчестье...”{Next}“У всякой медали две стороны.{Line} Вам предстоит сделать выбор.”" Original="Headmaster Cid{Line}“Life and death, victory and defeat,{Line} honor and disgrace...”{Next}“Each of these go hand in hand.{Line} There’s only one way or the other.”" />
+  <Monologue Order="3" IsIndent="False" Current="Директор Сид{Line}“Вы готовы к этому?”" Original="Headmaster Cid{Line}“How ’bout it?{Line} Are you still up for it?”" />
+  <Monologue Order="4" IsIndent="False" Current="Директор Сид{Line}“Вас будут сопровождать 9 сидов.”{Next}“Если вы не справитесь с поставленной{Line} задачей, они выполнят её за вас...”" Original="Headmaster Cid{Line}“You will be accompanied{Line} by 9 SeeD members.”{Next}“Should you fail, these members shall{Line} get the job done.  They always do.”" />
+  <Monologue Order="5" IsIndent="False" Current="Директор Сид{Line}“Они всегда их выполняют...”" Original="Headmaster Cid{Line}“Well, that’s one less{Line} worry on your mind.”" />
+  <Monologue Order="6" IsIndent="False" Current="Директор Сид{Line}“Гордость сада {Term Balamb}а!{Line} Элитные наёмники. Сиды!”" Original="Headmaster Cid{Line}“The pride of {Term Balamb} Garden!{Line} The elite mercenary force, SeeD!”" />
+  <Monologue Order="7" IsIndent="False" Current="Директор Сид{Line}“Учитесь у них. Смотрите на них.{Line} Следуйте приказам, и вы справитесь.”" Original="Headmaster Cid{Line}“Learn from them, obey their commands{Line} and accomplish the mission.”" />
+  <Monologue Order="8" IsIndent="False" Current="Директор Сид{Line}“Докажите, что вы достойны{Line} встать в их ряды!”" Original="Headmaster Cid{Line}“Prove yourself worthy{Line} of becoming a member of SeeD.”" />
+  <Monologue Order="9" IsIndent="False" Current="Директор Сид{Line}“Удачи, ребята.”" Original="Headmaster Cid{Line}“Best of luck.”" />
+</Monologues>

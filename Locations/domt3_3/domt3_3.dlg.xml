@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Selphie}{Line}“Чего вы так долго?{Line} Могли бы просто спрыгнуть!”" Original="Selphie{Line}“What took you so long?{Line} It would’ve been much quicker{Line} if you’d just jumped.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“И свернуть шею?!”" Original="Zell{Line}“...Much quicker?  Pu-lease...”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Да никто в здравом уме{Line} не стал бы прыгать с этой скалы!”" Original="Zell{Line}“...You wouldn’t normally jump{Line} off a cliff, OK!?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Правда ведь, {Char Squall}?”{Line}Конечно, не стал бы{Line}Не знаю..." Original="Zell{Line}“Ain’t that right, {Char Squall}?”{Line}Yeah, I guess so.{Line}I don’t know about that..." />
+  <Monologue Order="4" IsIndent="False" Current="{Char Squall}{Line}“Это был неоправданный риск, ставящий{Line} под угрозу выполнение задания.”" Original="{Char Squall}{Line}“...Yeah, I guess so.{Line} You wouldn’t normally jump that.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Selphie}{Line}“Ну... не знаю...”" Original="Selphie{Line}“Hmm...I don’t know...”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Selphie}{Line}“Ладно, проехали!”" Original="Selphie{Line}“Well, anyway.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Squall}{Line}“Не знаю насчёт всех,{Line} но смелости хватит не каждому...”" Original="{Char Squall}{Line}“...I don’t know about that.{Line} Perhaps anyone but the{Line} Chicken-wuss can make it.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“ТЫ НА МЕНЯ НАМЕКАЕШЬ?!”" Original="Zell{Line}“WHAT DID YOU SAYYYYY!!!?”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Selphie}{Line}“О... Вот это ярость!.. Наступили{Line} на больную мозоль, трусишка?”" Original="Selphie{Line}“...Hm?{Line} Since you’re so angry,{Line} I guess you’re the Chicken-wuss.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“Какого?!..”{Next}“ПОЧЕМУ ВСЕ СЧИТАЮТ{Line} МЕНЯ ТРУСОМ?!”" Original="Zell{Line}“What the...!!!”{Next}“WHY IS EVERYONE...?{Line} I am not a CHICKEN!!!”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Selphie}{Line}“Ну если тебя это задевает, будешь...”{Next}“Не, никаких альтернатив!{Line} Трусишка тебе очень подходит!”" Original="Selphie{Line}“Well... If you don’t like CHICKEN,{Line} how ’bout...a PIG!”{Next}“Oh, but you look more{Line} like a CHICKEN, anyway.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Zell}{Line}“Да пошли вы!..”" Original="Zell{Line}“Chicken, pig, whatever...”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Zell}{Line}“Зовите, как хотите!{Line} Мне пофиг!”" Original="Zell{Line}“Call me what you want!!!{Line} I don’t care anymore!!!”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Squall}{Line}“{Char Zell}, не принимай{Line} всё так близко к сердцу.”" Original="{Char Squall}{Line}“Don’t take it so personally, Zell.”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Zell}{Line}“Пфф...”" Original="Zell{Line}“Tch...”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Selphie}{Line}“Ну, пошли что ли?!”" Original="Selphie{Line}“Well, let’s get goin’.”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Selphie}{Line}“У всех {Color Yellow}привязаны стражи{Color White}?”{Next}“Вы ведь не забыли?..{Line} Проверьте на всякий случай!”" Original="Selphie{Line}“Has everyone {Color Yellow}equipped a GF{Color White}?”{Next}“You haven’t forgotten...{Line} Have you...?”" />
+</Monologues>

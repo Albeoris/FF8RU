@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Seifer}{Line}“{Color Blue}〖Центральная площадь〗{Color White} впереди!”" Original="Seifer{Line}“The {Color Blue}〖Central Square〗{Color White} is up ahead.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Seifer}{Line}“Эй вы, гальбадианские трусы!”" Original="Seifer{Line}“Hey!  All you Galbadian cowards out there!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Ну что за идиот?..”" Original="Zell{Line}“...What an idiot.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Seifer}{Line}“Давайте, кто на меня?!{Line} Не заставляйте ждать!”" Original="Seifer{Line}“Come out’n show your faces!{Line} Don’t leave me hangin’ now!”" />
+  <Monologue Order="4" IsIndent="True" Current="Zell{Line}“YO!  What are you doing!?{Line} We’re not gonna make it{Line} if we don’t leave now!”" Original="Zell{Line}“YO!  What are you doing!?{Line} We’re not gonna make it{Line} if we don’t leave now!”" />
+</Monologues>

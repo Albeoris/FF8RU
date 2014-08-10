@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Гальбадианский солдат{Line}“Работа генератора восстановлена.”" Original="{Term Galbadia}n Soldier{Line}“The generator is up and running!”" />
+  <Monologue Order="1" IsIndent="False" Current="Гальбадианский солдат{Line}“Усилители работают в штатном режиме.”" Original="{Term Galbadia}n Soldier{Line}“No problem with the boosters!”" />
+  <Monologue Order="2" IsIndent="False" Current="Гальбадианский солдат{Line}“Отключение кабеля подтверждают.{Line} Начинаем замену.”" Original="{Term Galbadia}n Soldier{Line}“Cable disconnection confirmed!{Line} Beginning exchange process!”" />
+  <Monologue Order="3" IsIndent="False" Current="Гальбадианский солдат{Line}“Вас понял.”" Original="{Term Galbadia}n Soldier{Line}“Roger.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Seifer}{Line}“Какого чёрта они делают?..”" Original="Seifer{Line}“...the hell they doing?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Ремонтируют?..”" Original="{Char Squall}{Line}“Repairs...?”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Seifer}{Line}“А, какая разница!..”" Original="Seifer{Line}“Who cares.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Seifer}{Line}“Это твоя первая настоящая битва.{Line} Боишься?”" Original="Seifer{Line}“This must be your first real battle.{Line} You scared?”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Squall}{Line}“Не знаю.”" Original="{Char Squall}{Line}“...I don’t know.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Squall}{Line}“Стараюсь об этом не думать.”" Original="{Char Squall}{Line}“I try not to think about it.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Seifer}{Line}“Я обожаю сражения.{Line} И ничего не боюсь!”" Original="Seifer{Line}“I love battles.{Line} I fear nothing.”" />
+  <Monologue Order="11" IsIndent="False" Current="“Каждый повереженный враг{Line} на шаг приближает меня{Line} к исполнению мечты!”" Original="“The way I look at it, as long as you{Line} make it out of a battle alive,{Line} you’re one step closer to{Line} fulfilling your dream.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“Не думал, что она у тебя есть...”" Original="{Char Squall}{Line}“What!?  Your dream?”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Seifer}{Line}“У тебя, пади, тоже?”" Original="Seifer{Line}“You have one too, don’t you?”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Squall}{Line}“Замнём для ясности.”" Original="{Char Squall}{Line}“...Sorry, but I’m gonna{Line} pass on that subject.”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Zell}{Line}“Э! Может, у меня тоже мечта есть!”" Original="Zell{Line}“Yo!{Line} Let me in on it, too!”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Seifer}{Line}“Не лезь не в своё дело.”" Original="Seifer{Line}“Mind your own business.”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Zell}{Line}“Чёртов засранец...”" Original="Zell{Line}“Frickin’ hell...”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Seifer}{Line}“Что такое, малыш,{Line} мухи замучили?..”" Original="Seifer{Line}“What’s the matter, Zell?{Line} Swatting flies?”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Zell}{Line}“Будь ты проклят!..”" Original="Zell{Line}“Damn you...!”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Seifer}{Line}“Однажды, я поведаю тебе о своей{Line} БОЛЬШОЙ РОМАНТИЧЕСКОЙ МЕЧТЕ!”" Original="Seifer{Line}“One of these days, I’m gonna{Line} tell ya ’bout my ROMANTIC dream!”" />
+  <Monologue Order="21" IsIndent="True" Current="“Вот вы где!”" Original="“There you are!”" />
+  <Monologue Order="22" IsIndent="False" Current="“Вы... отряд «Бета»?”" Original="“Are you...Squad B?”" />
+  <Monologue Order="23" IsIndent="False" Current="“Минутку... Ты тот парень,{Line} который устроил мне экскурсию!”" Original="“Wait a minute... You’re the guy{Line} who showed me around, right!?”" />
+  <Monologue Order="24" IsIndent="False" Current="“Спасибки!{Line} Больше я не теряюсь!”" Original="“Thanks!{Line} I don’t get so lost anymore.”" />
+  <Monologue Order="25" IsIndent="False" Current="“Ой, а я ведь так и не представилась!..”" Original="“Oh yeah, I haven’t told you my name yet.”" />
+  <Monologue Order="26" IsIndent="False" Current="“Я связной.{Line} Зовут {Char Selphie}. Отряд «Альфа».”" Original="“I’m...a messenger.{Line} Name’s Selphie, from Squad A.”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Selphie}{Line}“Капитан отряда {Char Seifer}, верно?{Line} Где он?”" Original="Selphie{Line}“The squad captain’s Seifer, right?{Line} Where is he?”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Selphie}{Line}“(вздох) Никто не обещал,{Line} что будет легко...”" Original="Selphie{Line}“(sigh) This sure is tough...”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Selphie}{Line}“Капитан! Подождите!!!”" Original="Selphie{Line}“Captain!  Wait up...!!!”" />
+  <Monologue Order="30" IsIndent="False" Current="{Char Selphie}{Line}“Готовы?”" Original="Selphie{Line}“Ready!!!?”" />
+  <Monologue Order="31" IsIndent="False" Current="{Char Selphie}{Line}“Вперё~ёд!”" Original="Selphie{Line}“Goooo!!!”" />
+  <Monologue Order="32" IsIndent="False" Current="{Char Selphie}{Line}“А вы чего ждёте?{Line} Пошли! Пошли!”" Original="Selphie{Line}“What are you waiting for!?{Line} Come on!  Come on!”" />
+  <Monologue Order="33" IsIndent="False" Current="{Char Zell}{Line}“{Char Squall}... ты ведь не будешь...{Line} Это чертовски высокая скала...”" Original="Zell{Line}“{Char Squall}... You’re not gonna...{Line} It’s a cliff, man...”" />
+  <Monologue Order="34" IsIndent="False" Current="{Char Zell}{Line}“Ты собираешься спрыгнуть?..”{Line}Собираюсь{Line}Ни за что" Original="Zell{Line}“You’re not gonna jump off...?”{Line}That’s the plan{Line}No way..." />
+  <Monologue Order="35" IsIndent="False" Current="{Char Zell}{Line}“Ты серьёзно?!..”" Original="Zell{Line}“Are you serious...!?”" />
+  <Monologue Order="36" IsIndent="False" Current="{Char Zell}{Line}“Фух... я уж было поверил...”" Original="Zell{Line}“I didn’t think so...”" />
+  <Monologue Order="37" IsIndent="False" Current="{Char Zell}{Line}“Джеронимоооооооо!!!”" Original="Zell{Line}“Geronimoooooo!!!”" />
+</Monologues>

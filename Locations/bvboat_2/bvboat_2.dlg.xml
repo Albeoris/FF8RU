@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Сю{Line}“Присаживайтесь.”" Original="Xu{Line}“Be seated!”" />
+  <Monologue Order="1" IsIndent="False" Current="Сю{Line}“В этой миссии нашим клиентом{Line} является парламент герцогства Доллет.”" Original="Xu{Line}“Our client for this mission is the{Line} {Term Dollet} Dukedom Parliament.”" />
+  <Monologue Order="2" IsIndent="False" Current="Сю{Line}“Запрос в сад поступил 18 часов назад.”" Original="Xu{Line}“A request for SeeD was made{Line} 18 hours ago.”" />
+  <Monologue Order="3" IsIndent="False" Current="Сю{Line}“Примерно трое суток назад{Line} Доллет подвергся нападению{Line} гальбадианской армии.”" Original="Xu{Line}“{Term Dollet} has been under attack by the G-Army{Line} since about 72 hours ago.”" />
+  <Monologue Order="4" IsIndent="False" Current="Сю{Line}“Спустя два дня после начала{Line} боевых действий, войска Доллета{Line} сдали свои позиции во{Line} внутренней черте города.”" Original="Xu{Line}“49 hours into the battle, {Term Dollet} abandoned{Line} their position in the inner city.”" />
+  <Monologue Order="5" IsIndent="False" Current="“Они отступили в горы и в данный{Line} момент перегруппируют отряды.”" Original="“Currently, they have retreated{Line} into the nearby mountains and{Line} are reorganizing their troops.”" />
+  <Monologue Order="6" IsIndent="False" Current="Сю{Line}“Это то, что известно на данный момент.”{Next}“Теперь о целях{Line} нашей миссии.”" Original="Xu{Line}“That’s the current status.”{Next}“Now onto the{Line} mission objective.”" />
+  <Monologue Order="7" IsIndent="False" Current="Сю{Line}“Согласно нашим докладам,{Line} гальбадианская армия продвигается{Line} вглубь территории герцогства, зачищая{Line} остатки войск в этом регионе.”" Original="Xu{Line}“According to our reports,{Line} the G-Army is mopping up the{Line} {Term Dollet} troops in the mountain region.”" />
+  <Monologue Order="8" IsIndent="False" Current="Сю{Line}“Мы высаживаемся на Кроличьем берегу.”" Original="Xu{Line}“We’re to make a landing at Lapin Beach.”" />
+  <Monologue Order="9" IsIndent="False" Current="“Наша первоочередная задача -{Line} как можно быстрее освободить город{Line} от солдат гальбадианской армии.”" Original="“We’re to eliminate the remaining G-Army{Line} within the city and liberate it A.S.A.P.”" />
+  <Monologue Order="10" IsIndent="False" Current="Сю{Line}“После её выполнения, сиды должны{Line} пресечь все попытки гальбадианской{Line} армии вновь проникнуть в город.”" Original="Xu{Line}“Afterwards, SeeD members will intercept{Line} any G-Army forces trying to make their{Line} way into the city from the mountain region.”" />
+</Monologues>

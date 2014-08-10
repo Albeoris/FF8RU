@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Это наш корабль?..”" Original="{Char Squall}{Line}“So that’s the vessel...?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Seifer}{Line}“Назад дороги нет.”" Original="Seifer{Line}“Ain’t no turning back now.”" />
+  <Monologue Order="2" IsIndent="False" Current="“Что? Тоже дрейфишь?”" Original="“Huh?{Line} You scared, too?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Seifer}{Line}“Не разочаруй меня.”" Original="Seifer{Line}“Don’t disappoint me now.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Пошевеливайтесь!”" Original="Quistis{Line}“Come on, move it!”" />
+  <Monologue Order="5" IsIndent="False" Current="Сид{Line}“Эй! Ребята, вы последние!{Line} Поторапливайтесь!”" Original="Garden Staff{Line}“Hey!  You guys are the last!{Line} Hurry up and get in!”" />
+  <Monologue Order="6" IsIndent="False" Current="Сид{Line}“На борт. Живо!”" Original="Garden Staff{Line}“Get aboard!  NOW!”" />
+  <Monologue Order="7" IsIndent="False" Current="Garden Staff{Line}“So... The problem team, Squad B.{Line} ...Guess it can’t be helped{Line} with a rookie instructor.”" Original="Garden Staff{Line}“So... The problem team, Squad B.{Line} ...Guess it can’t be helped{Line} with a rookie instructor.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Quistis}{Line}“Быстрее, {Char Squall}!”" Original="Quistis{Line}“Hurry, {Char Squall}!”" />
+  <Monologue Order="8" IsIndent="True" Current="{Char Zell}{Line}“Эээй!”" Original="Zell{Line}“H-Hey!!!”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Zell}{Line}“Да чтоб ты провалился,{Line} эгоцентричная сволочь!”" Original="Zell{Line}“Not again, man!{Line} There goes Mr. Ego...”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Squall}{Line}“Прогуляемся...”" Original="{Char Squall}{Line}“Might as well walk it.”" />
+</Monologues>

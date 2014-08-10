@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="Battle{Line}Battle" Original="Battle{Line}Battle" />
+  <Monologue Order="0" IsIndent="False" Current="“Пойдём куда-нибудь{Line} после занятий?”" Original="“You wanna like,{Line} hang out after class?”" />
+  <Monologue Order="1" IsIndent="False" Current="“Как насчёт нашего{Line} любимого места?”" Original="“How ’bout{Line} our usual place?”" />
+  <Monologue Order="2" IsIndent="False" Current="“Годится! Идём!”" Original="“Sure!{Line} Let’s go!”" />
+  <Monologue Order="3" IsIndent="False" Current="“Hey,{Line} did you hear about yesterday?”" Original="“Hey,{Line} did you hear about yesterday?”" />
+  <Monologue Order="4" IsIndent="False" Current="“Yeah, yeah!{Line} That is sooo funny!”" Original="“Yeah, yeah!{Line} That is sooo funny!”" />
+  <Monologue Order="5" IsIndent="False" Current="“Hey,{Line} how’d you do on the test?”" Original="“Hey,{Line} how’d you do on the test?”" />
+  <Monologue Order="6" IsIndent="False" Current="“Argh!{Line} I did awful!”" Original="“Argh!{Line} I did awful!”" />
+  <Monologue Order="7" IsIndent="False" Current="“I can’t believe how hard it was...”" Original="“I can’t believe how hard it was...”" />
+</Monologues>

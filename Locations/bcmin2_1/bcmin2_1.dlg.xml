@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <Monologues>
-  <Monologue Order="0" IsIndent="False" Current="Zell{Line}“Ma, I’m home!”" Original="Zell{Line}“Ma, I’m home!”" />
-  <Monologue Order="1" IsIndent="False" Current="Ma Dincht{Line}“Zell, what a surprise!{Line} Are these your friends?”" Original="Ma Dincht{Line}“Zell, what a surprise!{Line} Are these your friends?”" />
-  <Monologue Order="2" IsIndent="False" Current="Zell{Line}“This is my house.{Line} But don’t make yourselves too comfortable!”" Original="Zell{Line}“This is my house.{Line} But don’t make yourselves too comfortable!”" />
-  <Monologue Order="3" IsIndent="False" Current="Ma Dincht{Line}“Take care of Zell for me.”" Original="Ma Dincht{Line}“Take care of Zell for me.”" />
-  <Monologue Order="4" IsIndent="False" Current="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" Original="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Ма, я дома!”" Original="Zell{Line}“Ma, I’m home!”" />
+  <Monologue Order="1" IsIndent="False" Current="Мама Динча{Line}“{Char Zell}! Какой сюрприз!{Line} Это твои друзья?”" Original="Ma Dincht{Line}“Zell, what a surprise!{Line} Are these your friends?”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Это мой дом.{Line} Но не злоупотребляйте{Line} гостеприимством!”" Original="Zell{Line}“This is my house.{Line} But don’t make yourselves too comfortable!”" />
+  <Monologue Order="3" IsIndent="False" Current="Мама Динча{Line}“Позаботьтесь о моём мальчике.”" Original="Ma Dincht{Line}“Take care of Zell for me.”" />
+  <Monologue Order="4" IsIndent="True" Current="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" Original="Ma Dincht{Line}“Are you Zell’s friends?{Line} You’re from Garden, right?”" />
   <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Zell...”" Original="{Char Squall}{Line}“Zell...”" />
   <Monologue Order="6" IsIndent="False" Current="“If you see a rowdy boy named Zell,{Line} please try to be friends with him.”" Original="“If you see a rowdy boy named Zell,{Line} please try to be friends with him.”" />
   <Monologue Order="7" IsIndent="False" Current="Ma Dincht{Line}“Oh, Zell.{Line} Are you off today?”" Original="Ma Dincht{Line}“Oh, Zell.{Line} Are you off today?”" />
@@ -35,8 +35,8 @@
   <Monologue Order="32" IsIndent="False" Current="{Char Squall}{Line}“This painting...”" Original="{Char Squall}{Line}“This painting...”" />
   <Monologue Order="33" IsIndent="False" Current="“There’s some writing in the corner.{Line} Is that supposed to be there?”" Original="“There’s some writing in the corner.{Line} Is that supposed to be there?”" />
   <Monologue Order="34" IsIndent="False" Current="Zell{Line}“No way!  Really!?{Line} This is my masterpiece from{Line} when I was a kid!”" Original="Zell{Line}“No way!  Really!?{Line} This is my masterpiece from{Line} when I was a kid!”" />
-  <Monologue Order="35" IsIndent="False" Current="Zell{Line}“Yo, {Char Squall}!”" Original="Zell{Line}“Yo, {Char Squall}!”" />
-  <Monologue Order="36" IsIndent="False" Current="“That’s my room up there!{Line} It’s sacred!  So just keep out!”" Original="“That’s my room up there!{Line} It’s sacred!  So just keep out!”" />
+  <Monologue Order="35" IsIndent="True" Current="{Char Zell}{Line}“Эй, {Char Squall}!”" Original="Zell{Line}“Yo, {Char Squall}!”" />
+  <Monologue Order="36" IsIndent="False" Current="“Там моя комната! Она священна!{Line} Нехрен туда лезть!”" Original="“That’s my room up there!{Line} It’s sacred!  So just keep out!”" />
   <Monologue Order="37" IsIndent="True" Current="Мама Динча{Line}“Наверху комната {Char Zell}а.{Line} Он очень злится, если кто-нибудь{Line} заходит туда, поэтому я была бы{Line} благодарна, если бы вы не поднимались.”" Original="Ma Dincht{Line}“That’s Zell’s room up there.{Line} He gets angry if anyone goes in,{Line} so I’d appreciate it if you didn’t.”" />
   <Monologue Order="38" IsIndent="True" Current="Ma Dincht{Line}“Welcome back, Zell.{Line} I hope you’re all right.”" Original="Ma Dincht{Line}“Welcome back, Zell.{Line} I hope you’re all right.”" />
   <Monologue Order="39" IsIndent="False" Current="Zell{Line}“......”" Original="Zell{Line}“......”" />

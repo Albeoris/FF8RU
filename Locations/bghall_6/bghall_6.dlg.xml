@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“{Char Squall}!  Сюда!”" Original="Quistis{Line}“{Char Squall}!  Over here!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Отлично выглядишь! Кхм...{Line} Так, посмотрим кто у тебя в команде...”" Original="Quistis{Line}“I’ll be announcing the squad{Line} assignments for the exam now.{Line} Let’s see... You’ll be with...”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Quistis}{Line}“{Char Zell} Динч.{Line} Довольно энергичный парнишка.”" Original="Quistis{Line}“Zell Dincht.{Line} Quite a lively fellow.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Squall}{Line}“Энергичный? Да у него же шило в заднице.{Line} Я могу сам выбрать членов отряда?”" Original="{Char Squall}{Line}“Lively?  He’s just loud.{Line} Can’t I switch members?”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Боюсь, это невозможно.”" Original="Quistis{Line}“I’m afraid that’s not possible.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Quistis}{Line}“Сюда, {Char Zell}!”" Original="Quistis{Line}“Over here, Zell!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“Вау! Я с тобой?!”" Original="Zell{Line}“Whoa!  I’m with you!?”" />
+  <Monologue Order="8" IsIndent="False" Current="Zell{Line}“{Char Squall}, right?  Nice to meetcha.”" Original="Zell{Line}“{Char Squall}, right?  Nice to meetcha.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Zell}{Line}“Ты тоже с {Char Seifer}ом на ножах?”" Original="Zell{Line}“You don’t get along with Seifer,{Line} do you?”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“Слышал, вы слегка{Line} повздорили этим утром...”" Original="Zell{Line}“Heard he whooped you{Line} pretty bad this morning.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Squall}{Line}“Мы не дрались.{Line} Это была тренировка.”" Original="{Char Squall}{Line}“We weren’t fighting.{Line} We were training.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“Спорим, что он так не думает?!”" Original="Zell{Line}“I bet you he doesn’t{Line} think so.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Zell}{Line}“Он, конечно, редкостный урод...”{Next}“Но ты просто не обращай{Line} на него внимания!”" Original="Zell{Line}“Look, Seifer’s just being{Line} a pain in the ass.”{Next}“All you have to do{Line} is ignore him.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“Это тебя не касается.”" Original="{Char Squall}{Line}“That’s none of your business.”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Quistis}{Line}“...не касается.”" Original="Quistis{Line}“None of your business.”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Quistis}{Line}“Кхм... Извините, но...”" Original="Quistis{Line}“Ahem... Excuse me, but...”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Quistis}{Line}“{Char Seifer}, о котором идёт речь...{Line} Лидер вашего отряда.”" Original="Quistis{Line}“That Seifer you’re talking about...{Line} He’s your squad leader.”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Zell}{Line}“ЧЁ?!”" Original="Zell{Line}“SAY WHAT!?”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Quistis}{Line}“Это не обсуждается.”" Original="Quistis{Line}“It can’t be changed.”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Quistis}{Line}“{Char Seifer}! Ты здесь?”" Original="Quistis{Line}“Seifer!  Are you here?”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Quistis}{Line}“Ты - лидер отряда.{Line} Удачи вам.”" Original="Quistis{Line}“You’re the squad leader.{Line} Good luck to you.”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Seifer}{Line}“Инструктор...”{Next}“Терпеть не могу, когда{Line} мне желают удачи.”" Original="Seifer{Line}“...Instructor.”{Next}“I hate it when people{Line} wish me luck.”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Seifer}{Line}“Приберегите её для тех,{Line} кто в ней нуждается.”" Original="Seifer{Line}“Save those words for a{Line} bad student that needs them, eh?”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Quistis}{Line}“Как скажешь.”" Original="Quistis{Line}“Ok then.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Quistis}{Line}“Удачи, {Char Seifer}.”" Original="Quistis{Line}“Good luck, Seifer.”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Seifer}{Line}“Добавьте инструктора Трип в список.”" Original="Seifer{Line}“Add Instructor Trepe to the list.”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Quistis}{Line}“Как пожелаешь.”" Original="Quistis{Line}“Well then.”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Quistis}{Line}“Итак, все мы в отряде «Бета».{Line} Я - старший инструктор.”" Original="Quistis{Line}“You’re all assigned to Squad B.{Line} I’ll be the instructor in charge.”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Quistis}{Line}“Не забывайте, что главным критерием{Line} оценки ваших результатов является{Line} работа в команде. Надеюсь, что все{Line} вы успешно сдадите экзамен!”" Original="Quistis{Line}“Teamwork is of the utmost importance.{Line} Let’s get through this exam, everyone!”" />
+  <Monologue Order="30" IsIndent="False" Current="{Char Seifer}{Line}“А теперь слушайте меня.{Line} Работа в команде означает{Line} не путаться у меня под ногами.”{Next}“Это главное правило{Line} отряда «Бета».{Line} Не забудьте его!”" Original="Seifer{Line}“Listen up!  Teamwork means{Line} staying out of my way.”{Next}“It’s a Squad B rule.{Line} Don’t you forget it!”" />
+  <Monologue Order="31" IsIndent="True" Current="Директор Сид{Line}“Все собрались?”" Original="Headmaster Cid{Line}“Everyone here?”" />
+  <Monologue Order="32" IsIndent="False" Current="Headmaster Cid{Line}“Well...”" Original="Headmaster Cid{Line}“Well...”" />
+  <Monologue Order="33" IsIndent="False" Current="Headmaster Cid{Line}“This exam will involve{Line} 12 members from Squads A through D.”{Next}“You will be proceeding to{Line} a real battlefield.{Line} Obviously, the battle is real.”" Original="Headmaster Cid{Line}“This exam will involve{Line} 12 members from Squads A through D.”{Next}“You will be proceeding to{Line} a real battlefield.{Line} Obviously, the battle is real.”" />
+  <Monologue Order="34" IsIndent="False" Current="Headmaster Cid{Line}“Life and death, victory and defeat,{Line} honor and disgrace...”{Next}“Each of these go hand in hand.{Line} There’s only one way or the other.”" Original="Headmaster Cid{Line}“Life and death, victory and defeat,{Line} honor and disgrace...”{Next}“Each of these go hand in hand.{Line} There’s only one way or the other.”" />
+  <Monologue Order="35" IsIndent="False" Current="Headmaster Cid{Line}“How ’bout it?{Line} Are you still up for it?”" Original="Headmaster Cid{Line}“How ’bout it?{Line} Are you still up for it?”" />
+  <Monologue Order="36" IsIndent="False" Current="Headmaster Cid{Line}“You will be accompanied{Line} by 9 SeeD members.”{Next}“Should you fail, these members shall{Line} get the job done.  They always do.”" Original="Headmaster Cid{Line}“You will be accompanied{Line} by 9 SeeD members.”{Next}“Should you fail, these members shall{Line} get the job done.  They always do.”" />
+  <Monologue Order="37" IsIndent="False" Current="Headmaster Cid{Line}“Well, that’s one less{Line} worry on your mind.”" Original="Headmaster Cid{Line}“Well, that’s one less{Line} worry on your mind.”" />
+  <Monologue Order="38" IsIndent="False" Current="Headmaster Cid{Line}“The pride of Balamb Garden!{Line} The elite mercenary force, SeeD!”{Next}“Learn from them, obey their commands{Line} and accomplish the mission.”" Original="Headmaster Cid{Line}“The pride of Balamb Garden!{Line} The elite mercenary force, SeeD!”{Next}“Learn from them, obey their commands{Line} and accomplish the mission.”" />
+  <Monologue Order="39" IsIndent="False" Current="Headmaster Cid{Line}“Prove yourself worthy{Line} of becoming a member of SeeD!”" Original="Headmaster Cid{Line}“Prove yourself worthy{Line} of becoming a member of SeeD!”" />
+  <Monologue Order="40" IsIndent="False" Current="Headmaster Cid{Line}“Best of luck.”" Original="Headmaster Cid{Line}“Best of luck.”" />
+  <Monologue Order="32" IsIndent="False" Current="Директор Сид{Line}“Нам бы очень пригодился{Line} мастер ганблейда...”{Next}“Надеюсь, что вы с {Char Seifer}ом{Line} успешно пройдёте испытание.”" Original="Headmaster Cid{Line}“We’ve yet to have a{Line} gunblade specialist in SeeD.”{Next}“That is why I am hoping{Line} you and Seifer{Line} will join us in SeeD.”" />
+  <Monologue Order="33" IsIndent="False" Current="Директор Сид{Line}“Ступай.”" Original="Headmaster Cid{Line}“Now go.”" />
+  <Monologue Order="34" IsIndent="True" Current="{Char Quistis}{Line}“Выступаем!”" Original="Quistis{Line}“Let’s get a move-on!”" />
+  <Monologue Order="19" IsIndent="False" Current="(Фудзин и Райдзин, как обычно,{Line} увязались следом... Весь{Line} дисциплинарный комитет в сборе.)" Original="(Fujin and Raijin tagging along as usual...{Line} Guess that makes up the whole{Line} disciplinary committee.)" />
+  <Monologue Order="26" IsIndent="False" Current="(В список?.. О чём он?..)" Original="(The list...?{Line} What is it?)" />
+  <Monologue Order="35" IsIndent="True" Current="Xu{Line}“Mission complete!{Line} I think we did a pretty good job.”{Next}“The candidates are{Line} back safely, right?”" Original="Xu{Line}“Mission complete!{Line} I think we did a pretty good job.”{Next}“The candidates are{Line} back safely, right?”" />
+  <Monologue Order="36" IsIndent="False" Current="Xu{Line}“Although we didn’t realize the{Line} {Term Galbadia}n Army was after the{Line} abandoned communication tower...”" Original="Xu{Line}“Although we didn’t realize the{Line} {Term Galbadia}n Army was after the{Line} abandoned communication tower...”" />
+  <Monologue Order="37" IsIndent="False" Current="Headmaster Cid{Line}“We’ve just received word from{Line} the {Term Dollet} Dukedom.”" Original="Headmaster Cid{Line}“We’ve just received word from{Line} the {Term Dollet} Dukedom.”" />
+  <Monologue Order="38" IsIndent="False" Current="Headmaster Cid{Line}“The {Term Galbadia}n Army has agreed to withdraw{Line} as long as the communication tower is{Line} repaired and the uplink remains operational.”" Original="Headmaster Cid{Line}“The {Term Galbadia}n Army has agreed to withdraw{Line} as long as the communication tower is{Line} repaired and the uplink remains operational.”" />
+  <Monologue Order="39" IsIndent="False" Current="Xu{Line}“Well, in any case,{Line} {Term Galbadia} is out of there.”{Next}“We could’ve made more{Line} money if they’d stayed{Line} and caused more ruckus.”" Original="Xu{Line}“Well, in any case,{Line} {Term Galbadia} is out of there.”{Next}“We could’ve made more{Line} money if they’d stayed{Line} and caused more ruckus.”" />
+  <Monologue Order="40" IsIndent="False" Current="Xu{Line}“Hey, you did pretty well!”" Original="Xu{Line}“Hey, you did pretty well!”" />
+  <Monologue Order="41" IsIndent="False" Current="Quistis{Line}“Of course!  He’s my best student.”" Original="Quistis{Line}“Of course!  He’s my best student.”" />
+  <Monologue Order="42" IsIndent="False" Current="Quistis{Line}“He’s not very social, though.”" Original="Quistis{Line}“He’s not very social, though.”" />
+  <Monologue Order="43" IsIndent="False" Current="Quistis{Line}“The results for the exam should be{Line} announced soon.  Just stick around here.”" Original="Quistis{Line}“The results for the exam should be{Line} announced soon.  Just stick around here.”" />
+  <Monologue Order="44" IsIndent="False" Current="Headmaster Cid{Line}“How did it feel out there on the battlefield?”" Original="Headmaster Cid{Line}“How did it feel out there on the battlefield?”" />
+  <Monologue Order="45" IsIndent="False" Current="Felt good{Line}Scared to death{Line}...Whatever" Original="Felt good{Line}Scared to death{Line}...Whatever" />
+  <Monologue Order="46" IsIndent="False" Current="{Char Squall}{Line}“To actually fight... It was a good feeling.”" Original="{Char Squall}{Line}“To actually fight... It was a good feeling.”" />
+  <Monologue Order="47" IsIndent="False" Current="Headmaster Cid{Line}“That’s the spirit!{Line} But don’t let it go to your head.”" Original="Headmaster Cid{Line}“That’s the spirit!{Line} But don’t let it go to your head.”" />
+  <Monologue Order="48" IsIndent="False" Current="{Char Squall}{Line}“I was so scared my knees were shaking.”" Original="{Char Squall}{Line}“I was so scared my knees were shaking.”" />
+  <Monologue Order="49" IsIndent="False" Current="Headmaster Cid{Line}“Well, that’s what it’s like at first.”" Original="Headmaster Cid{Line}“Well, that’s what it’s like at first.”" />
+  <Monologue Order="50" IsIndent="False" Current="{Char Squall}{Line}“...Whatever.”" Original="{Char Squall}{Line}“...Whatever.”" />
+  <Monologue Order="51" IsIndent="False" Current="Headmaster Cid{Line}“Whatever?”" Original="Headmaster Cid{Line}“Whatever?”" />
+  <Monologue Order="52" IsIndent="False" Current="Headmaster Cid{Line}“That’s great!{Line} Whatever!”" Original="Headmaster Cid{Line}“That’s great!{Line} Whatever!”" />
+  <Monologue Order="53" IsIndent="False" Current="Headmaster Cid{Line}“Well, I’m just glad{Line} nobody got hurt.”" Original="Headmaster Cid{Line}“Well, I’m just glad{Line} nobody got hurt.”" />
+</Monologues>

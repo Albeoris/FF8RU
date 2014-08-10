@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Значит, это и есть{Line} {Color Blue}〖коммуникационная башня〗{Color White}?..”" Original="Zell{Line}“So this is the {Color Blue}〖Communication Tower〗{Color White}...?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Selphie}{Line}“Большущая...”" Original="Selphie{Line}“Sure is big...”" />
+  <Monologue Order="2" IsIndent="False" Current="Гальбадианские солдаты{Line}“Аааааааааааааааааа!!!”" Original="Galbadian Soldier{Line}“Ah...AHHHH!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Seifer}{Line}“Трусы!”" Original="Seifer{Line}“Cowards.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Selphie}{Line}“Привет! Я из отряда...”" Original="Selphie{Line}“HEEEY!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Selphie}{Line}“Капитан уходит!..”" Original="Selphie{Line}“The captain’s getting away!”" />
+</Monologues>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Что вы здесь делаете?”" Original="{Char Squall}{Line}“What do you think you’re doing!?”" />
+  <Monologue Order="1" IsIndent="False" Current="Биггз{Line}“Аааа?! И у меня встречный вопрос...{Line} Кто вы и какого чёрта здесь забыли?!”" Original="Biggs{Line}“Huhhhh?{Line} Likewise, MISTER!{Line} What do you think you’re doing!?”" />
+  <Monologue Order="2" IsIndent="False" Current="Биггз{Line}“Как вас пропустили солдаты внизу?!”" Original="Biggs{Line}“H-HEY!{Line} What happened to all the{Line} soldiers down below!?”" />
+  <Monologue Order="3" IsIndent="False" Current="Биггз{Line}“ВЕДЖ! Вышвырни их отсюда!”" Original="Biggs{Line}“WEDGE!{Line} Take care of these twerps!!!”" />
+  <Monologue Order="4" IsIndent="False" Current="Биггз{Line}“В-Ведж?..”" Original="Biggs{Line}“W...Wedge?”" />
+  <Monologue Order="5" IsIndent="False" Current="Биггз{Line}“Я... эм...”" Original="Biggs{Line}“I...ah...”" />
+  <Monologue Order="6" IsIndent="False" Current="Биггз{Line}“Ну... гхм... кажется, я здесь{Line} закончил, так что пойду-ка я...”" Original="Biggs{Line}“Well...ah...I seem to be done here,{Line} so I’ll just be on my...”" />
+  <Monologue Order="7" IsIndent="False" Current="Биггз{Line}“Спокойно! Спокойно...{Line} Не нервничайте, ребята.{Line} Я ухожу, ухожу, вот - видите,{Line} уже совсем... совсем... ушёл...”" Original="Biggs{Line}“I-I’m leaving...{Line} Move it!  Move!  Move!”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Seifer}{Line}“Прошу прощения, я не помешал?”" Original="Seifer{Line}“Sorry to crash the party.”" />
+  <Monologue Order="9" IsIndent="False" Current="Биггз{Line}“А... Ааа... ААААААА!!!{Line} Ты что, сдурел?!”" Original="Biggs{Line}“Ah...AHH...AHHHHH!{Line} Are you CRAZY!!!”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Seifer}{Line}“Заткнись.”" Original="Seifer{Line}“Just shut UP!”" />
+  <Monologue Order="11" IsIndent="True" Current="{Char Selphie}{Line}“Вы капитан отряда «Бета»?”" Original="Selphie{Line}“Squad B captain?”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Selphie}{Line}“Извините, у меня новый приказ!”" Original="Selphie{Line}“S’cuse me!  I have new orders!”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Selphie}{Line}“Всем участникам операции приказано{Line} покинуть зону боевых действий.{Line} Сбор на {Color Blue}〖берегу〗{Color White} в 19:00!”" Original="Selphie{Line}“All SeeD members and SeeD candidates{Line} are to withdraw at 1900 hours.{Line} Assemble at the {Color Blue}〖shore〗{Color White}!”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Seifer}{Line}“Отступление?!{Line} Вокруг ещё полно врагов!”" Original="Seifer{Line}“Withdraw!?{Line} There are still enemies around!”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Selphie}{Line}“Я вижу, простите,{Line} но я только связной.”" Original="Selphie{Line}“I know, but I’m{Line} just a messenger.”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Squall}{Line}“Приказ об отсутплении имеет{Line} наивысший приоритет...”" Original="{Char Squall}{Line}“An order to withdraw takes priority.{Line} I don’t want to miss the vessel.”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Seifer}{Line}“Во сколько говоришь нам отступать?”" Original="Seifer{Line}“What time d’you say?”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Selphie}{Line}“Как я сказала...”" Original="Selphie{Line}“Like I said...!”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Selphie}{Line}“Всем участникам операции приказано{Line} покинуть зону боевых действий.{Line} Сбор на {Color Blue}〖берегу〗{Color White} в 19:00!”" Original="Selphie{Line}“All SeeD members and SeeD candidates{Line} are to withdraw at 1900 hours.{Line} Assemble at the {Color Blue}〖shore〗{Color White}!”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Seifer}{Line}“19:00...{Line} Осталось 30 минут.”" Original="Seifer{Line}“1900 hours...{Line} We only have 30 mins!”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Seifer}{Line}“Слышали? У вас 30 минут, чтобы{Line} спуститься на {Color Blue}〖берег〗{Color White}! Лучше бегом.”" Original="Seifer{Line}“You got 30 minutes to get down to{Line} the {Color Blue}〖shore〗{Color White}!  Better run!”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Selphie}{Line}“Эй! Подождите нас!!!”" Original="Selphie{Line}“Heeey!  Wait for us!”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Zell}{Line}“Да кем он себя возомнил?!”" Original="Zell{Line}“Who the hell does{Line} he think he is!?”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Squall}{Line}“Спроси при случае...”" Original="{Char Squall}{Line}“Why don’t you ask him.”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Squall}{Line}“Пошли.”" Original="{Char Squall}{Line}“Let’s go.”" />
+  <Monologue Order="26" IsIndent="False" Current="Биггз{Line}“Мишени - те недоноски!”" Original="Biggs{Line}“Those little twerps are the targets!”" />
+  <Monologue Order="27" IsIndent="False" Current="Биггз{Line}“Иди! Иди и УНИЧТОЖЬ ИХ!!!”" Original="Biggs{Line}“Now GO!!!{Line} Go and DESTROY them!!!”" />
+</Monologues>
