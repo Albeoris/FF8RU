@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Райдзин{Line}“Фудзин злится.”{Next}“Сказала, что это из-за вас{Line} {Char Seifer} не станет сидом.”{Next}“Лучше не трож её, чувак.{Line} Она страшенная в гневе, я знаю!”" Original="Raijin{Line}“Fujin was sayin’”{Next}“that it’d be all your fault{Line} if Seifer doesn’t become a SeeD.”{Next}“She can be pretty scary, ya know!”" />
+  <Monologue Order="1" IsIndent="False" Current="Фудзин{Line}“ЯРОСТЬ!”" Original="Fujin{Line}“...RAGE.”" />
+  <Monologue Order="2" IsIndent="False" Current="“Тум-тум... Тум-тум...”" Original="“Thump-thump... thump-thump...”" />
+  <Monologue Order="4" IsIndent="False" Current="“Psst...Psst...Psst...Psst...”" Original="“Psst...Psst...Psst...Psst...”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Чего они ждут?..”{Next}“Сказали, что зачитают{Line} имена тех, кто сдал...”" Original="Zell{Line}“S’up.”{Next}“Said they’re gonna call out names,{Line} one at a time...”" />
+  <Monologue Order="4" IsIndent="False" Current="Преподаватель{Line}“Динч... {Char Zell} Динч.”" Original="Garden Faculty{Line}“Dincht... Zell Dincht.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“ОООООООО{Pause 88} ДАААААААААААА!!!”" Original="Zell{Line}“OHHHHH{Pause 88} YEAHHHHHH!!!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“Увидимся!!!”" Original="Zell{Line}“See ya!!!”" />
+  <Monologue Order="7" IsIndent="False" Current="Преподаватель{Line}“{Char Squall}... {Char Squall} из отряда «Бета».{Line} Поднимитесь на третий этаж, пожалуйста.”" Original="Garden Faculty{Line}“{Char Squall}... {Char Squall} from Squad B.{Line} Please step forward.”" />
+  <Monologue Order="8" IsIndent="False" Current="Преподаватель{Line}“Это всё. Остальные свободны.”" Original="Garden Faculty{Line}“That is all.{Line} Dismissed.”" />
+</Monologues>

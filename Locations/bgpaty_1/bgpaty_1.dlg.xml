@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Йо!”" Original="Zell{Line}“Yo!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“Чё не весел?”" Original="Zell{Line}“S’up, {Char Squall}?”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Хех, раз уж мы теперь{Line} оба сиды...”" Original="Zell{Line}“Heh-heh, I guess we’re both{Line} SeeDs now, huh?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Дай пять, чувак!”" Original="Zell{Line}“Put it there, man.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Zell}{Line}“Хахаха, ты не меняешься!”" Original="Zell{Line}“Hah, even as a SeeD,{Line} you’re still the same.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“Ладно, в этом весь ты!”" Original="Zell{Line}“Well, that’s typical of you.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“Покеда, не кисни!”" Original="Zell{Line}“See ya.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Selphie}{Line}“О! {Char Zell}! Не хочешь поучаствовать{Line} в организации садового фестиваля?”" Original="Selphie{Line}“Oh...hey, Zell.  Wanna join the{Line} Garden Festival committee and...”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“Прости, Я... эээ...{Line} только что вспомнил кое-что!{Line} Н-надо идти. Увидимся!”" Original="Zell{Line}“Sorry, I...ahh...{Line} Just remembered something!{Line} G-Gotta go.  See ya!”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Selphie}{Line}“Хмммммм...”" Original="Selphie{Line}“Hmmmm...”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Selphie}{Line}“{Char Squall}!  Приветики!”" Original="Selphie{Line}“{Char Squall}!  Hi!”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Selphie}{Line}“Хочешь вступить в комитет садового{Line} феситваля? Нам очень нужна помощь!”" Original="Selphie{Line}“Wanna join the Garden Festival committee?{Line} You can help out whenever you have time.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Selphie}{Line}“Пазязя!..”" Original="Selphie{Line}“Please?”" />
+  <Monologue Order="13" IsIndent="False" Current="Ладно{Line}........." Original="Yeah, I guess so{Line}........." />
+  <Monologue Order="14" IsIndent="False" Current="{Char Squall}{Line}“Почему бы и нет. Ты вложила{Line} в это столько усилий.”" Original="{Char Squall}{Line}“Sure.  You seem to be putting{Line} a lot of effort into this.”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Selphie}{Line}“ПРАВДА?!{Line} Ураааааа!”" Original="Selphie{Line}“REALLY!?{Line} Whoo-hoo!”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Selphie}{Line}“Я конечно понимаю, что мы теперь{Line} будем сильно заняты, и всё такое,{Line} но когда будет свободное время,{Line} давай подготовим отпадный праздник!”" Original="Selphie{Line}“I know we’ll be busy with a lot of{Line} SeeD stuff, but let’s work hard{Line} on the Garden Festival, too.”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Selphie}{Line}“Простите!{Line} Да-да, вы!”" Original="Selphie{Line}“S’cuse me!{Line} You, right there!”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Selphie}{Line}“Я конечно понимаю, что мы теперь{Line} будем сильно заняты, и всё такое,{Line} но когда будет свободное время,{Line} нужно поработать над фестивалем!”" Original="Selphie{Line}“We’ll be busy with a lot of{Line} SeeD stuff, but work hard on{Line} the Garden Festival, too.”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Selphie}{Line}“Пока!”" Original="Selphie{Line}“Bye!”" />
+  <Monologue Order="20" IsIndent="True" Current="“А ты здесь самый симпатичный парень.”" Original="“You’re the best looking guy here.”" />
+  <Monologue Order="21" IsIndent="False" Current="“Потанцуешь со мной?”" Original="“Dance with me?”" />
+  <Monologue Order="22" IsIndent="False" Current="“Дай-как подумать...{Line} Ты танцуешь только с теми,{Line} кто тебе нравится.”" Original="“Let me guess...{Line} You’ll only dance with someone you like.”" />
+  <Monologue Order="23" IsIndent="False" Current="“Тогда...”" Original="“Ok then...”" />
+  <Monologue Order="24" IsIndent="False" Current="“Смотри мне в глаза!”" Original="“Look into my eyes...”" />
+  <Monologue Order="25" IsIndent="False" Current="“Я-тебе-нравлюсь...{Line} Я-тебе-нравлюсь...”" Original="“You’re-going-to-like-me...{Line} You’re-going-to-like-me...”" />
+  <Monologue Order="26" IsIndent="False" Current="“Сработало?”" Original="“Did it work?”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Squall}{Line}“Я не умею танцевать.”" Original="{Char Squall}{Line}“...I can’t dance.”" />
+  <Monologue Order="28" IsIndent="False" Current="“Ой, да брось, пошли!”" Original="“You’ll be fine.  Come on.”" />
+  <Monologue Order="29" IsIndent="False" Current="“Всё будет отлично,{Line} не танцевать же мне одной!”" Original="“I’m looking for someone.{Line} I can’t be on the dance floor alone.”" />
+</Monologues>

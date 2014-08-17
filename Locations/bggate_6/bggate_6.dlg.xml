@@ -2,11 +2,11 @@
 <Monologues>
   <Monologue Order="0" IsIndent="False" Current="Battle{Line}Battle" Original="Battle{Line}Battle" />
   <Monologue Order="0" IsIndent="False" Current="“ЭЙ!”" Original="“HEY!”" />
-  <Monologue Order="1" IsIndent="False" Current="“You can’t leave here wearing your uniform!{Line} You need permission!”" Original="“You can’t leave here wearing your uniform!{Line} You need permission!”" />
-  <Monologue Order="2" IsIndent="False" Current="“Didn’t you hear the announcement!?{Line} SeeD candidates are to assemble{Line} in front of the {Color Blue}〖2F classroom〗{Color White}!”" Original="“Didn’t you hear the announcement!?{Line} SeeD candidates are to assemble{Line} in front of the {Color Blue}〖2F classroom〗{Color White}!”" />
-  <Monologue Order="3" IsIndent="False" Current="“You’re not allowed to go out after curfew!”" Original="“You’re not allowed to go out after curfew!”" />
-  <Monologue Order="4" IsIndent="False" Current="“How many times do I have to tell you!?{Line} Because of your lack of understanding,{Line} I’m going to have to report you{Line} to your instructor!”" Original="“How many times do I have to tell you!?{Line} Because of your lack of understanding,{Line} I’m going to have to report you{Line} to your instructor!”" />
-  <Monologue Order="5" IsIndent="False" Current="Your SeeD rank went down..." Original="Your SeeD rank went down..." />
+  <Monologue Order="1" IsIndent="False" Current="“У тебя нет разрешения{Line} покидать сад в униформе!”" Original="“You can’t leave here wearing your uniform!{Line} You need permission!”" />
+  <Monologue Order="2" IsIndent="False" Current="“Ты не слышал объявления?!{Line} Всех кандидатов в сиды собирают{Line} на {Color Blue}〖втором этаже〗{Color White}!”" Original="“Didn’t you hear the announcement!?{Line} SeeD candidates are to assemble{Line} in front of the {Color Blue}〖2F classroom〗{Color White}!”" />
+  <Monologue Order="3" IsIndent="False" Current="“Студентам запрещено{Line} покидать сад после отбоя!”" Original="“You’re not allowed to go out after curfew!”" />
+  <Monologue Order="4" IsIndent="False" Current="“Сколько раз я должен повторять{Line} одно и тоже?! Всё! Надоело!{Line} Я доложу об этом твоему инструктору!”" Original="“How many times do I have to tell you!?{Line} Because of your lack of understanding,{Line} I’m going to have to report you{Line} to your instructor!”" />
+  <Monologue Order="5" IsIndent="False" Current="Ранг сида понижен." Original="Your SeeD rank went down..." />
   <Monologue Order="6" IsIndent="True" Current="“Hey, {Char Squall}.  The Garden is in chaos.{Line} The monsters from the training center{Line} are everywhere.  The members of the{Line} Garden Master’s faction set them free.”{Next}“Watch your back, man.”" Original="“Hey, {Char Squall}.  The Garden is in chaos.{Line} The monsters from the training center{Line} are everywhere.  The members of the{Line} Garden Master’s faction set them free.”{Next}“Watch your back, man.”" />
   <Monologue Order="7" IsIndent="False" Current="“If you’re going inside,{Line} take this.”" Original="“If you’re going inside,{Line} take this.”" />
   <Monologue Order="8" IsIndent="False" Current="Received [Mega Potion]!" Original="Received [Mega Potion]!" />

@@ -2,7 +2,7 @@
 <Monologues>
   <Monologue Order="0" IsIndent="False" Current="" Original="" />
   <Monologue Order="1" IsIndent="False" Current="" Original="" />
-  <Monologue Order="0" IsIndent="False" Current="Garden Faculty{Line}“It’s after-hours.  All facilities except{Line} the training center are closed.”{Next}“Return to your quarters.”" Original="Garden Faculty{Line}“It’s after-hours.  All facilities except{Line} the training center are closed.”{Next}“Return to your quarters.”" />
+  <Monologue Order="0" IsIndent="False" Current="Преподаватель{Line}“В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра.”{Next}“Вернись в свою комнату.”" Original="Garden Faculty{Line}“It’s after-hours.  All facilities except{Line} the training center are closed.”{Next}“Return to your quarters.”" />
   <Monologue Order="1" IsIndent="False" Current="“Parking Lot”" Original="“Parking Lot”" />
   <Monologue Order="2" IsIndent="False" Current="“Dormitory”" Original="“Dormitory”" />
   <Monologue Order="3" IsIndent="False" Current="“Cafeteria”" Original="“Cafeteria”" />

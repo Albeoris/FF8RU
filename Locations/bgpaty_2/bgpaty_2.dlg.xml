@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Quistis}{Line}“Ты и вправду превосходный ученик.{Line} Даже этот танец был идеален.”" Original="Quistis{Line}“You really are an excellent student.{Line} Even that dance was perfect.”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Спасибо.”" Original="{Char Squall}{Line}“Thank you.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Squall}{Line}“Да?”" Original="{Char Squall}{Line}“Yes?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Quistis}{Line}“Значит, ты можешь танцевать{Line} с незнакомой девушкой, но не{Line} можешь вынести моё присутствие?”" Original="Quistis{Line}“So you’ll dance with someone you don’t even{Line} know, but you can’t stand being around me?”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Squall}{Line}“Не знаю...”" Original="{Char Squall}{Line}“...Whatever.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Вы мой инструктор,{Line} я ваш студент.”{Next}“Неловко, когда вы{Line} ничего не говорите.”" Original="{Char Squall}{Line}“You’re an instructor,{Line} and I’m your student.”{Next}“It’s kind of awkward when you{Line} don’t say anything.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Quistis}{Line}“Понимаю.”" Original="Quistis{Line}“That’s true.{Line} I was like that myself.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Quistis}{Line}“В таком случае...”" Original="Quistis{Line}“...Oh, I completely forgot.{Line} I wonder what’s to become of me?”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Quistis}{Line}“У меня для тебя новый приказ!”" Original="Quistis{Line}“I’ve come to give you an order.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Quistis}{Line}“Ты и я отправляемся{Line} в «тайное место»”" Original="Quistis{Line}“You and I are to go{Line} to the ‘secret area’.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Quistis}{Line}“Студенты там частенько{Line} встречаются после отбоя.”" Original="Quistis{Line}“It’s where students secretly meet up{Line} and talk after curfew.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Quistis}{Line}“Это внутри {Color Blue}〖тренировочного центра〗{Color White}.”" Original="Quistis{Line}“It’s inside the{Line} {Color Blue}〖training center〗{Color White}.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“И зачем?”" Original="{Char Squall}{Line}“What do you want to do there?”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Squall}{Line}“Сообщим им, что они{Line} нарушают комендантский час?”{Next}“Инструктор, для этого есть{Line} дисциплинарный комитет.”" Original="{Char Squall}{Line}“Are we going there to tell everyone{Line} they’re violating curfew?”{Next}“If that’s the case, forget it.{Line} Leave that for the disciplinary committee.”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Quistis}{Line}“Приказы, особенно последние, не обсуждаются!{Line} Переоденься и марш в {Color Blue}〖тренировочный центр〗{Color White}.”" Original="Quistis{Line}“Go get changed and meet me in front of the{Line} {Color Blue}〖training center〗{Color White}.{Line} This will be my last order.”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Quistis}{Line}“Вопросы?”" Original="Quistis{Line}“Hm?  Question?”" />
+  <Monologue Order="16" IsIndent="False" Current="Где мы встретимся?{Line}Почему приказ «последний»?" Original="Where do we meet?{Line}What do you mean, last order?" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Quistis}{Line}“Перед {Color Blue}〖тренировочным центром〗{Color White}.{Line} Переодеться не забудь.”" Original="Quistis{Line}“Get changed and meet me in front of the{Line} {Color Blue}〖training center〗{Color White}.  Got it?”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Quistis}{Line}“Узнаешь.”" Original="Quistis{Line}“Well, I have a lot on my mind.”" />
+</Monologues>

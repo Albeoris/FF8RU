@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="Преподаватель{Line}“В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра.”{Next}“Вернись в свою комнату.”" Original="Garden Faculty{Line}“It’s after-hours.  All facilities except{Line} the training center are closed.”{Next}“Return to your quarters.”" />
+  <Monologue Order="1" IsIndent="True" Current="{Char Squall}{Line}“.........”{Line}2 этаж{Line}3 этаж" Original="{Char Squall}{Line}“.........”{Line}2F{Line}3F" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Squall}{Line}“.........”{Line}-1 этаж{Line} 2 этаж{Line} 3 этаж" Original="{Char Squall}{Line}“.........”{Line}B1{Line}2F{Line}3F" />
+  <Monologue Order="3" IsIndent="True" Current="Garden Faculty{Line}“I want you to check{Line} this entire floor.”{Next}“Cid is definitely hiding{Line} somewhere on this floor!”" Original="Garden Faculty{Line}“I want you to check{Line} this entire floor.”{Next}“Cid is definitely hiding{Line} somewhere on this floor!”" />
+  <Monologue Order="6" IsIndent="False" Current="Garden Faculty{Line}“Another Cid follower, eh?”{Line} Prepare to die!”" Original="Garden Faculty{Line}“Another Cid follower, eh?”{Line} Prepare to die!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Squall}{Line}“What the hell?  ...It won’t open.”" Original="{Char Squall}{Line}“What the hell?  ...It won’t open.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“She went up?”" Original="{Char Squall}{Line}“She went up?”" />
+</Monologues>

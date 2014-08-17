@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Selphie}{Line}“Хи-хи! Так как я тебе?”" Original="Selphie{Line}“Tee-hee!  So, what do you think?”" />
+  <Monologue Order="1" IsIndent="True" Current="{Char Selphie}{Line}“Тебе тоже нужно скорей{Line} переодеться! Нас все ждут!”" Original="Selphie{Line}“You should get changed, too.{Line} We have that party to go to.”" />
+  <Monologue Order="4" IsIndent="False" Current="Selphie{Line}“Tee-hee!”" Original="Selphie{Line}“Tee-hee!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Selphie}{Line}“Эй! Эй!”" Original="Selphie{Line}“See!  See!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Selphie}{Line}“Вначале одень новую форму!{Line} А потом зажжём вечеренику!”" Original="Selphie{Line}“Gotta get changed for that PAAH-TAY!{Line} SeeD uniform, here we go!”" />
+  <Monologue Order="4" IsIndent="True" Current="{Char Selphie}{Line}“Ага!{Line} Попался!”" Original="Selphie{Line}“HAH!{Line} Found you!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Selphie}{Line}“Ну-ну?{Line} Как тебе?!”" Original="Selphie{Line}“Well, well!?{Line} What do you think!?”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Selphie}{Line}“Моя униформа сида!”" Original="Selphie{Line}“My SeeD uniform!”" />
+  <Monologue Order="7" IsIndent="True" Current="{Char Selphie}{Line}“Вау! Отпадно выглядишь!”" Original="Selphie{Line}“Heeey!{Line} Lookin’ good!”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Selphie}{Line}“Отлично, раскачаем{Line} ТУ{Pause 60}СОВ{Pause 60}КУ!!!”" Original="Selphie{Line}“Alright!{Line} Let’s hit that PAAH-TAY!”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}(Get changed?  Training center?{Line} What’s this all about?)" Original="{Char Squall}{Line}(Get changed?  Training center?{Line} What’s this all about?)" />
+  <Monologue Order="9" IsIndent="True" Current="Selphie{Line}“We’re SeeDs now, so we have{Line} our own rooms.”{Next}“Your room’s over there.”" Original="Selphie{Line}“We’re SeeDs now, so we have{Line} our own rooms.”{Next}“Your room’s over there.”" />
+  <Monologue Order="10" IsIndent="True" Current="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." />
+</Monologues>
