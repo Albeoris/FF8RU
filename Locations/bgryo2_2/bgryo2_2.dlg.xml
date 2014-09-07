@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="Selphie{Line}“{Char Squall}, it’s our first SeeD mission!”{Next}“Looks like we’re going to {Color Blue}〖{Term Timber}〗{Color White}.{Line} Meet {Color Blue}〖by the front gate〗{Color White}.”{Next}“Hurry!”" Original="Selphie{Line}“{Char Squall}, it’s our first SeeD mission!”{Next}“Looks like we’re going to {Color Blue}〖{Term Timber}〗{Color White}.{Line} Meet {Color Blue}〖by the front gate〗{Color White}.”{Next}“Hurry!”" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Squall}{Line}“Я просто пойду спать...”" Original="{Char Squall}{Line}“I’ll just go to sleep...”" />
+  <Monologue Order="1" IsIndent="True" Current="(...I’m bored...)" Original="(...I’m bored...)" />
+  <Monologue Order="2" IsIndent="False" Current="(What’s everybody doing?)" Original="(What’s everybody doing?)" />
+  <Monologue Order="3" IsIndent="False" Current="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." />
+  <Monologue Order="4" IsIndent="False" Current="Received [Weapons Monthly, April Issue]!" Original="Received [Weapons Monthly, April Issue]!" />
+  <Monologue Order="5" IsIndent="False" Current="“You defeated the 4-Suits.”" Original="“You defeated the 4-Suits.”" />
+  <Monologue Order="6" IsIndent="False" Current="“You’ve proven yourself worthy.”" Original="“You’ve proven yourself worthy.”" />
+  <Monologue Order="7" IsIndent="False" Current="Quistis{Line}“The CC group leader,{Line} the card master King...”" Original="Quistis{Line}“The CC group leader,{Line} the card master King...”" />
+  <Monologue Order="8" IsIndent="False" Current="Quistis{Line}“...Is I, Quistis Trepe.{Line} All decked out in my uniform!”" Original="Quistis{Line}“...Is I, Quistis Trepe.{Line} All decked out in my uniform!”" />
+  <Monologue Order="9" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you really are something.{Line} I can’t believe how much your{Line} game has improved.”" Original="Quistis{Line}“{Char Squall}, you really are something.{Line} I can’t believe how much your{Line} game has improved.”" />
+  <Monologue Order="10" IsIndent="False" Current="Quistis{Line}“I knew we were destined to play.{Line} Let’s begin!”" Original="Quistis{Line}“I knew we were destined to play.{Line} Let’s begin!”" />
+  <Monologue Order="11" IsIndent="False" Current="Quistis{Line}“I can’t believe I lost.”{Next}“Don’t get too cocky{Line} just yet.”{Next}“We can challenge each other{Line} as equals from now on.”" Original="Quistis{Line}“I can’t believe I lost.”{Next}“Don’t get too cocky{Line} just yet.”{Next}“We can challenge each other{Line} as equals from now on.”" />
+  <Monologue Order="12" IsIndent="False" Current="Quistis{Line}“Hey, you’re pretty good.{Line} Just as I expected.”{Next}“Looks like we’ll be playing{Line} many more games to come.”" Original="Quistis{Line}“Hey, you’re pretty good.{Line} Just as I expected.”{Next}“Looks like we’ll be playing{Line} many more games to come.”" />
+  <Monologue Order="13" IsIndent="False" Current="Quistis{Line}“You still have a long way to go.{Line} I thought you’d be a{Line} better player by now.”" Original="Quistis{Line}“You still have a long way to go.{Line} I thought you’d be a{Line} better player by now.”" />
+  <Monologue Order="14" IsIndent="False" Current="Quistis{Line}“Oh, my... You can’t back out now!{Line} We were destined to play.”" Original="Quistis{Line}“Oh, my... You can’t back out now!{Line} We were destined to play.”" />
+  <Monologue Order="15" IsIndent="False" Current="Quistis{Line}“I’m always up for a game,{Line} but only in the Garden cockpit.”" Original="Quistis{Line}“I’m always up for a game,{Line} but only in the Garden cockpit.”" />
+  <Monologue Order="16" IsIndent="False" Current="Quistis{Line}“See you later, {Char Squall}.”" Original="Quistis{Line}“See you later, {Char Squall}.”" />
+  <Monologue Order="17" IsIndent="False" Current="Quistis{Line}“What do you mean{Line} you don’t have enough cards?{Line} Oh well, that’s too bad.”" Original="Quistis{Line}“What do you mean{Line} you don’t have enough cards?{Line} Oh well, that’s too bad.”" />
+  <Monologue Order="18" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Balamb}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Balamb}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="19" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Galbadia}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Galbadia}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="20" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Trabia}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Trabia}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="21" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Centra}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Centra}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="22" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Dollet}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Dollet}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="23" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} FH’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} FH’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="24" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} Lunar’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} Lunar’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="25" IsIndent="False" Current="Quistis{Line}“{Char Squall}, you know{Line} {Term Esthar}’s rules, right?{Line} Why don’t we use that, too?”" Original="Quistis{Line}“{Char Squall}, you know{Line} {Term Esthar}’s rules, right?{Line} Why don’t we use that, too?”" />
+  <Monologue Order="26" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="27" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="28" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="29" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="30" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="31" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="32" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="33" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="34" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="35" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="36" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="37" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="38" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="42" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="39" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="40" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="45" IsIndent="False" Current="“{Term Balamb}”" Original="“{Term Balamb}”" />
+  <Monologue Order="46" IsIndent="False" Current="“{Term Galbadia}”" Original="“{Term Galbadia}”" />
+  <Monologue Order="47" IsIndent="False" Current="“{Term Trabia}”" Original="“{Term Trabia}”" />
+  <Monologue Order="48" IsIndent="False" Current="“{Term Centra}”" Original="“{Term Centra}”" />
+  <Monologue Order="49" IsIndent="False" Current="“{Term Dollet}”" Original="“{Term Dollet}”" />
+  <Monologue Order="50" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="51" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="52" IsIndent="False" Current="“{Term Esthar}”" Original="“{Term Esthar}”" />
+  <Monologue Order="53" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+</Monologues>

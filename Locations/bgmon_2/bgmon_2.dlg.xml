@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Кто-нибудь, помогите!!!”" Original="“Somebody help!!!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Быстрее, {Char Squall}!”" Original="Quistis{Line}“Come on, {Char Squall}!”" />
+  <Monologue Order="2" IsIndent="False" Current="Received [Weapons Monthly, July Issue]!" Original="Received [Weapons Monthly, July Issue]!" />
+</Monologues>

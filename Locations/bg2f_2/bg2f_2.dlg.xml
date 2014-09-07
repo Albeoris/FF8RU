@@ -26,14 +26,14 @@
   <Monologue Order="13" IsIndent="False" Current="“Yeah, right...”" Original="“Yeah, right...”" />
   <Monologue Order="14" IsIndent="False" Current="“Anyway, I’m gonna{Line} rock this exam!”" Original="“Anyway, I’m gonna{Line} rock this exam!”" />
   <Monologue Order="15" IsIndent="False" Current="“Don’t get hurt now.{Line} Good luck.”" Original="“Don’t get hurt now.{Line} Good luck.”" />
-  <Monologue Order="16" IsIndent="False" Current="“This is nothing!{Line} I ain’t{Line} discouraged yet.”" Original="“This is nothing!{Line} I ain’t{Line} discouraged yet.”" />
-  <Monologue Order="17" IsIndent="False" Current="“There’s always next time.{Line} Tomorrow’s another day...{Line} Maybe that’s not a good attitude.”" Original="“There’s always next time.{Line} Tomorrow’s another day...{Line} Maybe that’s not a good attitude.”" />
-  <Monologue Order="18" IsIndent="False" Current="“Oh, hey, brother.”" Original="“Oh, hey, brother.”" />
-  <Monologue Order="19" IsIndent="False" Current="“Yo!”" Original="“Yo!”" />
-  <Monologue Order="20" IsIndent="False" Current="“Will you go buy that{Line} spice we always use?{Line} We’re out.”" Original="“Will you go buy that{Line} spice we always use?{Line} We’re out.”" />
-  <Monologue Order="21" IsIndent="False" Current="“See you later.”" Original="“See you later.”" />
-  <Monologue Order="22" IsIndent="False" Current="“Love is blind, huh?{Line} Mr. Big Brother.”" Original="“Love is blind, huh?{Line} Mr. Big Brother.”" />
-  <Monologue Order="23" IsIndent="False" Current="“W-W-What are you saying?”" Original="“W-W-What are you saying?”" />
+  <Monologue Order="21" IsIndent="False" Current="“Ничего подобного!” // Парень" Original="“This is nothing!{Line} I ain’t{Line} discouraged yet.”" />
+  <Monologue Order="55" IsIndent="True" Current="// Девчонка №2 после сдачи экзамена{Line}“Всегда можно попробовать ещё раз.{Line} Будет новый день...{Line} Эх... гнилая отмазка...”" Original="“There’s always next time.{Line} Tomorrow’s another day...{Line} Maybe that’s not a good attitude.”" />
+  <Monologue Order="16" IsIndent="True" Current="// Заходит девушка и обращается{Line}// к парню и девчонке внизу{Line}“Привет, малыш.”" Original="“Oh, hey, brother.”" />
+  <Monologue Order="17" IsIndent="False" Current="“Йо!”" Original="“Yo!”" />
+  <Monologue Order="18" IsIndent="False" Current="“Сегодня нужно сходить в город.{Line} У нас закончилась преправа.”" Original="“Will you go buy that{Line} spice we always use?{Line} We’re out.”" />
+  <Monologue Order="19" IsIndent="False" Current="“Увидимся.”" Original="“See you later.”" />
+  <Monologue Order="20" IsIndent="False" Current="“Любовь слепа, // девчонка{Line} товарищ «малыш»?”" Original="“Love is blind, huh?{Line} Mr. Big Brother.”" />
+  <Monologue Order="22" IsIndent="False" Current="“О ч-чём ты?..” // Не встречал в игре" Original="“W-W-What are you saying?”" />
   <Monologue Order="34" IsIndent="False" Current="“I haven’t seen{Line} your sister today.”" Original="“I haven’t seen{Line} your sister today.”" />
   <Monologue Order="35" IsIndent="False" Current="“Oh, she came down{Line} with a cold.”" Original="“Oh, she came down{Line} with a cold.”" />
   <Monologue Order="36" IsIndent="False" Current="“Oh no.  Is she ok?”" Original="“Oh no.  Is she ok?”" />
@@ -45,51 +45,51 @@
   <Monologue Order="42" IsIndent="False" Current="“You’ll get sick again if{Line} you don’t take it easy.”" Original="“You’ll get sick again if{Line} you don’t take it easy.”" />
   <Monologue Order="43" IsIndent="False" Current="“Oh pooh.{Line} What are you, my brother?”" Original="“Oh pooh.{Line} What are you, my brother?”" />
   <Monologue Order="44" IsIndent="False" Current="“Well, see you later.”" Original="“Well, see you later.”" />
-  <Monologue Order="24" IsIndent="False" Current="“Hey, {Char Squall}.  I heard you still have{Line} one more unit to finish.”" Original="“Hey, {Char Squall}.  I heard you still have{Line} one more unit to finish.”" />
-  <Monologue Order="25" IsIndent="False" Current="“The {Color Blue}〖Fire Cavern〗{Color White}, right?{Line} Man, that place is HOT!”" Original="“The {Color Blue}〖Fire Cavern〗{Color White}, right?{Line} Man, that place is HOT!”" />
-  <Monologue Order="26" IsIndent="False" Current="“Well, good luck.{Line} Go get yourself a GF.”" Original="“Well, good luck.{Line} Go get yourself a GF.”" />
-  <Monologue Order="27" IsIndent="False" Current="“Well, good luck.{Line} Go get yourself a GF.”" Original="“Well, good luck.{Line} Go get yourself a GF.”" />
-  <Monologue Order="28" IsIndent="False" Current="“Yo, {Char Squall},{Line} Instructer Trepe already{Line} headed for the front gate.”" Original="“Yo, {Char Squall},{Line} Instructer Trepe already{Line} headed for the front gate.”" />
-  <Monologue Order="29" IsIndent="False" Current="“Instructor Trepe went{Line} to the front gate already.”" Original="“Instructor Trepe went{Line} to the front gate already.”" />
-  <Monologue Order="30" IsIndent="False" Current="“Good luck with{Line} the SeeD exam.”" Original="“Good luck with{Line} the SeeD exam.”" />
-  <Monologue Order="31" IsIndent="False" Current="“You’ve beaten me to it.{Line} Guess I’ll just have to{Line} work harder{Line} from now on.”" Original="“You’ve beaten me to it.{Line} Guess I’ll just have to{Line} work harder{Line} from now on.”" />
-  <Monologue Order="32" IsIndent="False" Current="“Must study hard to{Line} become a SeeD!”" Original="“Must study hard to{Line} become a SeeD!”" />
-  <Monologue Order="33" IsIndent="False" Current="“Oh, {Char Squall}, glad to run into you.{Line} Remember that last lecture?”" Original="“Oh, {Char Squall}, glad to run into you.{Line} Remember that last lecture?”" />
-  <Monologue Order="34" IsIndent="False" Current="“You know, on gunblades.”" Original="“You know, on gunblades.”" />
-  <Monologue Order="35" IsIndent="False" Current="“I heard you and Seifer{Line} are the only students to{Line} choose gunblade as your specialty.”" Original="“I heard you and Seifer{Line} are the only students to{Line} choose gunblade as your specialty.”" />
-  <Monologue Order="36" IsIndent="False" Current="“Would you mind{Line} showing it to me?”" Original="“Would you mind{Line} showing it to me?”" />
-  <Monologue Order="37" IsIndent="False" Current="Sure, I’ll let you see it{Line}Nah" Original="Sure, I’ll let you see it{Line}Nah" />
-  <Monologue Order="38" IsIndent="False" Current="{Char Squall} shoots magic." Original="{Char Squall} shoots magic." />
-  <Monologue Order="39" IsIndent="False" Current="Mr. Aki{Line}“HEY YOU, swinging{Line} that gunblade!”" Original="Mr. Aki{Line}“HEY YOU, swinging{Line} that gunblade!”" />
-  <Monologue Order="40" IsIndent="False" Current="Mr. Aki{Line}“{Char Squall}!!!{Line} Was that you!?”" Original="Mr. Aki{Line}“{Char Squall}!!!{Line} Was that you!?”" />
-  <Monologue Order="41" IsIndent="False" Current="Mr. Aki{Line}“This is against school regulations.{Line} You’re going to be penalized!”" Original="Mr. Aki{Line}“This is against school regulations.{Line} You’re going to be penalized!”" />
-  <Monologue Order="42" IsIndent="False" Current="Mr. Aki{Line}“How can I expect you to live by{Line} society’s rules when you can’t{Line} even obey school rules!?”" Original="Mr. Aki{Line}“How can I expect you to live by{Line} society’s rules when you can’t{Line} even obey school rules!?”" />
-  <Monologue Order="43" IsIndent="False" Current="“Hey, weren’t they conducting{Line} the final SeeD exam today?”" Original="“Hey, weren’t they conducting{Line} the final SeeD exam today?”" />
-  <Monologue Order="44" IsIndent="False" Current="“Yes.{Line} I heard only 12 people{Line} qualified for the field exam.”" Original="“Yes.{Line} I heard only 12 people{Line} qualified for the field exam.”" />
-  <Monologue Order="45" IsIndent="False" Current="“I wonder how many{Line} will pass?”" Original="“I wonder how many{Line} will pass?”" />
-  <Monologue Order="46" IsIndent="False" Current="“Oh, the failure rate is{Line} quite high.”" Original="“Oh, the failure rate is{Line} quite high.”" />
-  <Monologue Order="47" IsIndent="False" Current="“And I heard that{Line} {Char Squall} is taking it this time...”" Original="“And I heard that{Line} {Char Squall} is taking it this time...”" />
-  <Monologue Order="48" IsIndent="False" Current="“Oh!”" Original="“Oh!”" />
-  <Monologue Order="49" IsIndent="False" Current="“How long have you{Line} been listening?”" Original="“How long have you{Line} been listening?”" />
+  <Monologue Order="23" IsIndent="True" Current="“Эй, {Char Squall}. Говорят, тебе{Line} осталось последнее испытание.”" Original="“Hey, {Char Squall}.  I heard you still have{Line} one more unit to finish.”" />
+  <Monologue Order="24" IsIndent="False" Current="“{Color Blue}〖Огненная пещера〗{Color White}, да?{Line} Чувак, там РЕАЛЬНО ЖАРКО!”" Original="“The {Color Blue}〖Fire Cavern〗{Color White}, right?{Line} Man, that place is HOT!”" />
+  <Monologue Order="25" IsIndent="False" Current="“Ну, удачи в охоте на стража!”" Original="“Well, good luck.{Line} Go get yourself a GF.”" />
+  <Monologue Order="26" IsIndent="False" Current="“Ну, удачи в охоте на стража!”" Original="“Well, good luck.{Line} Go get yourself a GF.”" />
+  <Monologue Order="27" IsIndent="True" Current="“Йо, {Char Squall}!{Line} Инструктор Трип уже{Line} ушла к главным воротам.”" Original="“Yo, {Char Squall},{Line} Instructer Trepe already{Line} headed for the front gate.”" />
+  <Monologue Order="28" IsIndent="False" Current="“Инструктор Трип ждёт тебя{Line} у главных ворот.”" Original="“Instructor Trepe went{Line} to the front gate already.”" />
+  <Monologue Order="29" IsIndent="True" Current="“Удачи на экзамене!”" Original="“Good luck with{Line} the SeeD exam.”" />
+  <Monologue Order="30" IsIndent="True" Current="// Негр слева, после сдачи экзамена{Line}“Ты обошёл меня.{Line} Придётся заниматься получше.”" Original="“You’ve beaten me to it.{Line} Guess I’ll just have to{Line} work harder{Line} from now on.”" />
+  <Monologue Order="31" IsIndent="False" Current="// Мальчишка слева, после сдачи экзамена{Line}“Чтобы стать сидом,{Line} нужно хорошо учиться!”" Original="“Must study hard to{Line} become a SeeD!”" />
+  <Monologue Order="32" IsIndent="True" Current="// Мальчишка слева, после сдачи экзамена{Line}“О, {Char Squall}, ты вовремя!{Line} Помнишь последнюю лекцию?”" Original="“Oh, {Char Squall}, glad to run into you.{Line} Remember that last lecture?”" />
+  <Monologue Order="33" IsIndent="False" Current="“Ну ту, о ганблейдах?”" Original="“You know, on gunblades.”" />
+  <Monologue Order="34" IsIndent="False" Current="“Я слышал, что вы с {Char Seifer}ом{Line} единственные, кто владеет{Line} этими штуками...”" Original="“I heard you and Seifer{Line} are the only students to{Line} choose gunblade as your specialty.”" />
+  <Monologue Order="35" IsIndent="False" Current="“Ты бы не мог мне его показать?”" Original="“Would you mind{Line} showing it to me?”" />
+  <Monologue Order="36" IsIndent="False" Current="Смотри{Line}Нет" Original="Sure, I’ll let you see it{Line}Nah" />
+  <Monologue Order="37" IsIndent="True" Current="// Если согласился показать магию{Line}{Char Squall} использует магию." Original="{Char Squall} shoots magic." />
+  <Monologue Order="38" IsIndent="True" Current="// Если согласился показать ганблейд{Line}Господин Аки{Line}“ЭЙ ТЫ, размахивающий ганблейдом!”" Original="Mr. Aki{Line}“HEY YOU, swinging{Line} that gunblade!”" />
+  <Monologue Order="39" IsIndent="False" Current="Господин Аки{Line}“{Char Squall}!!!{Line} Это ты что ли был?!”" Original="Mr. Aki{Line}“{Char Squall}!!!{Line} Was that you!?”" />
+  <Monologue Order="40" IsIndent="False" Current="Господин Аки{Line}“Ты нарушил правила сада.{Line} Ты будешь наказн!”" Original="Mr. Aki{Line}“This is against school regulations.{Line} You’re going to be penalized!”" />
+  <Monologue Order="41" IsIndent="False" Current="Господин Аки{Line}“Сиды должны соблюдать правила{Line} общественного порядка, быть примером{Line} для остальных! А ты даже правилам{Line} академии следовать не можешь?!”" Original="Mr. Aki{Line}“How can I expect you to live by{Line} society’s rules when you can’t{Line} even obey school rules!?”" />
+  <Monologue Order="42" IsIndent="True" Current="// Перед отъездом в Доллет{Line}“Слушай, сегодня же полевой экзамен?”" Original="“Hey, weren’t they conducting{Line} the final SeeD exam today?”" />
+  <Monologue Order="43" IsIndent="False" Current="“Ага. Отобрали двенадцать человек.”" Original="“Yes.{Line} I heard only 12 people{Line} qualified for the field exam.”" />
+  <Monologue Order="44" IsIndent="False" Current="“Интересно, все сдадут?”" Original="“I wonder how many{Line} will pass?”" />
+  <Monologue Order="45" IsIndent="False" Current="“Сомневаюсь! Обычно, больше{Line} половины проваливаются.”" Original="“Oh, the failure rate is{Line} quite high.”" />
+  <Monologue Order="46" IsIndent="False" Current="“Я слышала, что в этот раз{Line} {Char Squall} будет сдавать...”" Original="“And I heard that{Line} {Char Squall} is taking it this time...”" />
+  <Monologue Order="47" IsIndent="True" Current="// После подслушивания разговора девчонок{Line}“Ой!”" Original="“Oh!”" />
+  <Monologue Order="48" IsIndent="False" Current="“И давно ты слушаешь?”" Original="“How long have you{Line} been listening?”" />
   <Monologue Order="71" IsIndent="False" Current="“I’m gonna try harder to make it to{Line} the field exam next time.”" Original="“I’m gonna try harder to make it to{Line} the field exam next time.”" />
-  <Monologue Order="50" IsIndent="False" Current="“Me, too!”" Original="“Me, too!”" />
-  <Monologue Order="51" IsIndent="False" Current="“I heard 4 people{Line} passed the last SeeD exam.”" Original="“I heard 4 people{Line} passed the last SeeD exam.”" />
-  <Monologue Order="52" IsIndent="False" Current="“Yes.{Line} Quite impressive.”" Original="“Yes.{Line} Quite impressive.”" />
-  <Monologue Order="53" IsIndent="False" Current="“I heard one of them{Line} was a girl.”" Original="“I heard one of them{Line} was a girl.”" />
-  <Monologue Order="54" IsIndent="False" Current="“Oh,{Line} that’s encouraging.”" Original="“Oh,{Line} that’s encouraging.”" />
+  <Monologue Order="49" IsIndent="True" Current="“Me, too!”" Original="“Me, too!”" />
+  <Monologue Order="50" IsIndent="True" Current="// Девчонки внизу после сдачи экзамена{Line}“Я слышала, что экзамен{Line} сдали всего четыре человека.”" Original="“I heard 4 people{Line} passed the last SeeD exam.”" />
+  <Monologue Order="51" IsIndent="False" Current="“Ага. Жуть.”" Original="“Yes.{Line} Quite impressive.”" />
+  <Monologue Order="52" IsIndent="False" Current="“Три парня и одна новенькая.”" Original="“I heard one of them{Line} was a girl.”" />
+  <Monologue Order="53" IsIndent="False" Current="“Ну, это немножко обнадёживает.”" Original="“Oh,{Line} that’s encouraging.”" />
   <Monologue Order="77" IsIndent="False" Current="“And also among them was{Line} {Char Squall}...”" Original="“And also among them was{Line} {Char Squall}...”" />
-  <Monologue Order="55" IsIndent="False" Current="“I’ll have to try and{Line} try even harder!”" Original="“I’ll have to try and{Line} try even harder!”" />
-  <Monologue Order="56" IsIndent="False" Current="“Hey...umm,{Line} when is the final SeeD exam?”" Original="“Hey...umm,{Line} when is the final SeeD exam?”" />
+  <Monologue Order="54" IsIndent="True" Current="// Девчонка №1 после сдачи экзамена{Line}“Нужно лучше готовиться!”" Original="“I’ll have to try and{Line} try even harder!”" />
+  <Monologue Order="56" IsIndent="True" Current="“Hey...umm,{Line} when is the final SeeD exam?”" Original="“Hey...umm,{Line} when is the final SeeD exam?”" />
   <Monologue Order="57" IsIndent="False" Current="“It’s today!{Line} You didn’t know!?”" Original="“It’s today!{Line} You didn’t know!?”" />
   <Monologue Order="58" IsIndent="False" Current="“Oh, really!?{Line} Gosh...”" Original="“Oh, really!?{Line} Gosh...”" />
   <Monologue Order="59" IsIndent="False" Current="“So how many girls{Line} are taking the exam?”" Original="“So how many girls{Line} are taking the exam?”" />
   <Monologue Order="60" IsIndent="False" Current="“I think only 1{Line} this time around.”" Original="“I think only 1{Line} this time around.”" />
   <Monologue Order="61" IsIndent="False" Current="“Oh, only 1?{Line} Geez.  I hope she does well.”" Original="“Oh, only 1?{Line} Geez.  I hope she does well.”" />
-  <Monologue Order="62" IsIndent="False" Current="“Hey,{Line} can I see your lipstick?”" Original="“Hey,{Line} can I see your lipstick?”" />
-  <Monologue Order="63" IsIndent="False" Current="“Sure thing.{Line} Is this the one?”" Original="“Sure thing.{Line} Is this the one?”" />
-  <Monologue Order="64" IsIndent="False" Current="“Yeah!  I can’t find{Line} this color anywhere.”" Original="“Yeah!  I can’t find{Line} this color anywhere.”" />
-  <Monologue Order="65" IsIndent="False" Current="“Oh really?{Line} I know where you can get it.{Line} I’ll pick one up for you.”" Original="“Oh really?{Line} I know where you can get it.{Line} I’ll pick one up for you.”" />
-  <Monologue Order="66" IsIndent="True" Current="“Опаздываю, опаздываю, ОПАЗДЫВАЮ!!!”" Original="“I’m late, I’m late, I’m LATE!!!”" />
+  <Monologue Order="62" IsIndent="True" Current="// Две девушки идут к классу{Line}“Где ты достала такую помаду?”" Original="“Hey,{Line} can I see your lipstick?”" />
+  <Monologue Order="63" IsIndent="False" Current="“Вот эту?”" Original="“Sure thing.{Line} Is this the one?”" />
+  <Monologue Order="64" IsIndent="False" Current="“Ага! Нигде не могу{Line} найти такой цвет!”" Original="“Yeah!  I can’t find{Line} this color anywhere.”" />
+  <Monologue Order="65" IsIndent="False" Current="“Правда? Без проблем,{Line} я знаю одно местечко.{Line} В следующий раз куплю и тебе.”" Original="“Oh really?{Line} I know where you can get it.{Line} I’ll pick one up for you.”" />
+  <Monologue Order="66" IsIndent="True" Current="// Вначале игры, Сельфи вылетает из коридора{Line}“Опаздываю, опаздываю, ОПАЗДЫВАЮ!!!”" Original="“I’m late, I’m late, I’m LATE!!!”" />
   <Monologue Order="67" IsIndent="False" Current="“Ааааай!”" Original="“Waaah!”" />
   <Monologue Order="68" IsIndent="False" Current="“Ауч...”" Original="“Ouch...”" />
   <Monologue Order="69" IsIndent="False" Current="Ты в порядке?{Line}......" Original="Are you ok?{Line}......" />
@@ -111,11 +111,11 @@
   <Monologue Order="85" IsIndent="False" Current="“Вот облом...”" Original="“Oh, bummer.{Line} That’s too bad.”" />
   <Monologue Order="86" IsIndent="False" Current="“Ну, покеда.”" Original="“Well, see ya.”" />
   <Monologue Order="87" IsIndent="False" Current="{Char Squall}{Line}“Спустимся на лифте в вестибюль первого этажа,{Line} и я покажу тебе {Color Blue}〖навигационную панель〗{Color White}.”" Original="{Char Squall}{Line}“We’ll take the elevator to{Line} the 1F lobby and I’ll show{Line} you the {Color Blue}〖directory〗{Color White}.”" />
-  <Monologue Order="88" IsIndent="True" Current="“Wanna play a card game?”{Line}Yes{Line}No" Original="“Wanna play a card game?”{Line}Yes{Line}No" />
-  <Monologue Order="89" IsIndent="False" Current="“Oh {Char Squall},{Line} do you want to play a card game?”{Line}Yes{Line}No" Original="“Oh {Char Squall},{Line} do you want to play a card game?”{Line}Yes{Line}No" />
-  <Monologue Order="90" IsIndent="False" Current="“What, you’re challenging me?”{Line}Yes{Line}No" Original="“What, you’re challenging me?”{Line}Yes{Line}No" />
-  <Monologue Order="91" IsIndent="False" Current="“A card game?{Line} Sure, I’m much better than my brother.”{Line}Yes{Line}No" Original="“A card game?{Line} Sure, I’m much better than my brother.”{Line}Yes{Line}No" />
-  <Monologue Order="92" IsIndent="False" Current="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Balamb}’s rules, too?”" Original="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Balamb}’s rules, too?”" />
+  <Monologue Order="88" IsIndent="True" Current="“Хочешь сыграть в карты?”{Line}Да{Line}Нет" Original="“Wanna play a card game?”{Line}Yes{Line}No" />
+  <Monologue Order="89" IsIndent="False" Current="// Мальчишка{Line}“О {Char Squall}, не хочешь сыграть?”{Line}Да{Line}Нет" Original="“Oh {Char Squall},{Line} do you want to play a card game?”{Line}Yes{Line}No" />
+  <Monologue Order="90" IsIndent="False" Current="“Бросаешь мне вызов?”{Line}Да{Line}Нет" Original="“What, you’re challenging me?”{Line}Yes{Line}No" />
+  <Monologue Order="91" IsIndent="False" Current="// Две девчонки внизу{Line}“Я играю лучше брата.{Line} Рискнёшь?”{Line}Да{Line}Нет" Original="“A card game?{Line} Sure, I’m much better than my brother.”{Line}Yes{Line}No" />
+  <Monologue Order="92" IsIndent="True" Current="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Balamb}’s rules, too?”" Original="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Balamb}’s rules, too?”" />
   <Monologue Order="93" IsIndent="False" Current="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Galbadia}’s rules, too?”" Original="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Galbadia}’s rules, too?”" />
   <Monologue Order="94" IsIndent="False" Current="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Trabia}’s rules, too?”" Original="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Trabia}’s rules, too?”" />
   <Monologue Order="95" IsIndent="False" Current="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Centra}’s rules, too?”" Original="“Hey, heard you know some rules{Line} unknown to this area.{Line} Why don’t we play a game with{Line} {Term Centra}’s rules, too?”" />

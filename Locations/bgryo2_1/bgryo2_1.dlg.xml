@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="3" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Selphie}{Line}“{Char Squall}, нас отправляют на задание!”{Next}“Мы едем в {Color Blue}〖{Term Timber}〗{Color White}!{Line} Встречаемся {Color Blue}〖у главных ворот〗{Color White}.”{Next}“Поторопись!”" Original="Selphie{Line}“{Char Squall}, it’s our first SeeD mission!”{Next}“Looks like we’re going to {Color Blue}〖{Term Timber}〗{Color White}.{Line} Meet {Color Blue}〖by the front gate〗{Color White}.”{Next}“Hurry!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Я просто пойду спать...”" Original="{Char Squall}{Line}“I’ll just go to sleep...”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Squall}{Line}“Face the bed...{Line}{Key Confirm} to rest{Line}{Key Cards} to change clothes”" Original="{Char Squall}{Line}“Face the bed...{Line}{Key Confirm} to rest{Line}{Key Cards} to change clothes”" />
+  <Monologue Order="2" IsIndent="True" Current="{Char Squall}{Line}“Прилечь?..”{Line}Отдохнуть{Line}Не сейчас" Original="{Char Squall}{Line}“I should get some rest.”{Line}Rest{Line}Don’t rest" />
+  <Monologue Order="3" IsIndent="True" Current="Leave me alone......{Line}Maybe I’ll take a break...{Line}Forget it" Original="Leave me alone......{Line}Maybe I’ll take a break...{Line}Forget it" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Squall}{Line}“Sorry.  Can you leave me alone?”" Original="{Char Squall}{Line}“Sorry.  Can you leave me alone?”" />
+  <Monologue Order="10" IsIndent="False" Current="(I’ll take a break...)" Original="(I’ll take a break...)" />
+  <Monologue Order="11" IsIndent="False" Current="(Forget it...)" Original="(Forget it...)" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“Maybe I’ll wear my uniform.”{Line}Get changed{Line}Don’t get changed" Original="{Char Squall}{Line}“Maybe I’ll wear my uniform.”{Line}Get changed{Line}Don’t get changed" />
+  <Monologue Order="5" IsIndent="False" Current="(How long has it been since{Line} we started moving?)" Original="(How long has it been since{Line} we started moving?)" />
+  <Monologue Order="6" IsIndent="False" Current="(There’s not much more to do now.{Line} We’ve taken care of all the{Line} monsters in the Garden.)" Original="(There’s not much more to do now.{Line} We’ve taken care of all the{Line} monsters in the Garden.)" />
+  <Monologue Order="7" IsIndent="False" Current="(Oh yeah... I still have to report to the{Line} headmaster.  There’s a lot of things{Line} I want to ask about, too.)" Original="(Oh yeah... I still have to report to the{Line} headmaster.  There’s a lot of things{Line} I want to ask about, too.)" />
+  <Monologue Order="8" IsIndent="False" Current="(He’s probably still busy,{Line} trying to reestablish order{Line} in the Garden.)" Original="(He’s probably still busy,{Line} trying to reestablish order{Line} in the Garden.)" />
+  <Monologue Order="9" IsIndent="False" Current="(...We’re in the middle of nowhere.)" Original="(...We’re in the middle of nowhere.)" />
+  <Monologue Order="10" IsIndent="False" Current="(Man, I’m bored...)" Original="(Man, I’m bored...)" />
+  <Monologue Order="11" IsIndent="False" Current="(I hate having nothing to do.{Line} It gets me thinking too much.)" Original="(I hate having nothing to do.{Line} It gets me thinking too much.)" />
+  <Monologue Order="12" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Zell felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Zell felt about it.)" />
+  <Monologue Order="13" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Quistis felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Quistis felt about it.)" />
+  <Monologue Order="14" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Irvine felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how {Char Rinoa} and Irvine felt about it.)" />
+  <Monologue Order="15" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Quistis and Zell felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Quistis and Zell felt about it.)" />
+  <Monologue Order="16" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Quistis and Irvine felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Quistis and Irvine felt about it.)" />
+  <Monologue Order="17" IsIndent="False" Current="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Zell and Irvine felt about it.)" Original="(I hope Selphie and the others are all right.{Line} Was it wrong for me to let them go?{Line} I wonder how Zell and Irvine felt about it.)" />
+  <Monologue Order="18" IsIndent="False" Current="(That sorceress... Who is she?{Line}  Why fire missiles at the Garden?{Line}   Is Seifer ever coming back?{Line}    I’ll get even with him next time.)" Original="(That sorceress... Who is she?{Line}  Why fire missiles at the Garden?{Line}   Is Seifer ever coming back?{Line}    I’ll get even with him next time.)" />
+  <Monologue Order="19" IsIndent="False" Current="(I fell asleep again...)" Original="(I fell asleep again...)" />
+  <Monologue Order="20" IsIndent="False" Current="(Garden Master NORG... who is he?{Line} I’ve never met this NORG.  Is there{Line} going to be another conflict in the Garden?)" Original="(Garden Master NORG... who is he?{Line} I’ve never met this NORG.  Is there{Line} going to be another conflict in the Garden?)" />
+  <Monologue Order="29" IsIndent="False" Current="(Who knows...{Line} Might as well see what’s going on outside.)" Original="(Who knows...{Line} Might as well see what’s going on outside.)" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Rinoa}{Line}“Hey.”" Original="{Char Rinoa}{Line}“Hey.”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Rinoa}{Line}“You looked so adorable,{Line} sleeping like a baby.”" Original="{Char Rinoa}{Line}“You looked so adorable,{Line} sleeping like a baby.”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Rinoa}{Line}“Come on, get up.  Let’s go.”" Original="{Char Rinoa}{Line}“Come on, get up.  Let’s go.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Squall}{Line}“Go where?”" Original="{Char Squall}{Line}“Go where?”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Rinoa}{Line}“Give me a tour of the Garden.”" Original="{Char Rinoa}{Line}“Give me a tour of the Garden.”" />
+  <Monologue Order="26" IsIndent="False" Current="{Char Squall}{Line}“...Is this another one of your orders?”" Original="{Char Squall}{Line}“...Is this another one of your orders?”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Rinoa}{Line}“No.  I just want you to show me around.{Line} You know, to get acquainted with the{Line} place.  Please?”" Original="{Char Rinoa}{Line}“No.  I just want you to show me around.{Line} You know, to get acquainted with the{Line} place.  Please?”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Squall}{Line}“...Fine.”" Original="{Char Squall}{Line}“...Fine.”" />
+  <Monologue Order="29" IsIndent="False" Current="(I’ll be the first one to admit that{Line} I’m here because of other people.)" Original="(I’ll be the first one to admit that{Line} I’m here because of other people.)" />
+  <Monologue Order="30" IsIndent="False" Current="(I’m fine by myself now.{Line} I have all the skills I need to survive.{Line} I’m not a child anymore.)" Original="(I’m fine by myself now.{Line} I have all the skills I need to survive.{Line} I’m not a child anymore.)" />
+  <Monologue Order="31" IsIndent="False" Current="(That’s a lie.{Line} I don’t know anything.  I’m confused.)" Original="(That’s a lie.{Line} I don’t know anything.  I’m confused.)" />
+  <Monologue Order="32" IsIndent="False" Current="(I don’t want to depend on anyone.{Line} How can I do that?)" Original="(I don’t want to depend on anyone.{Line} How can I do that?)" />
+  <Monologue Order="33" IsIndent="False" Current="(Someone tell me...)" Original="(Someone tell me...)" />
+  <Monologue Order="34" IsIndent="False" Current="(Someone?  So I’ll end up {Line} depending on others after all.)" Original="(Someone?  So I’ll end up {Line} depending on others after all.)" />
+  <Monologue Order="35" IsIndent="False" Current="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." />
+  <Monologue Order="36" IsIndent="False" Current="{Char Rinoa}{Line}“Hey, again.”" Original="{Char Rinoa}{Line}“Hey, again.”" />
+  <Monologue Order="37" IsIndent="False" Current="{Char Squall}{Line}“I wasn’t asleep.”" Original="{Char Squall}{Line}“I wasn’t asleep.”" />
+  <Monologue Order="38" IsIndent="False" Current="{Char Rinoa}{Line}“Oh really?{Line} I think I heard you talking in your sleep.”" Original="{Char Rinoa}{Line}“Oh really?{Line} I think I heard you talking in your sleep.”" />
+  <Monologue Order="39" IsIndent="False" Current="{Char Rinoa}{Line}“I’m not telling you what you said.”" Original="{Char Rinoa}{Line}“I’m not telling you what you said.”" />
+  <Monologue Order="40" IsIndent="False" Current="{Char Rinoa}{Line}“Hey, let’s go for a walk.”" Original="{Char Rinoa}{Line}“Hey, let’s go for a walk.”" />
+  <Monologue Order="41" IsIndent="False" Current="{Char Squall}{Line}“Again?”" Original="{Char Squall}{Line}“Again?”" />
+  <Monologue Order="42" IsIndent="False" Current="{Char Rinoa}{Line}“That was a guided tour!{Line} This time, it’s a walk.”" Original="{Char Rinoa}{Line}“That was a guided tour!{Line} This time, it’s a walk.”" />
+  <Monologue Order="43" IsIndent="False" Current="{Char Squall}{Line}“Just go by yourself.{Line} It’s safe here.”" Original="{Char Squall}{Line}“Just go by yourself.{Line} It’s safe here.”" />
+  <Monologue Order="44" IsIndent="False" Current="{Char Rinoa}{Line}“It’s not that I want a guard with me.”" Original="{Char Rinoa}{Line}“It’s not that I want a guard with me.”" />
+  <Monologue Order="45" IsIndent="False" Current="{Char Rinoa}{Line}“You know...”{Next}“You’re always too{Line} deep in thought.”" Original="{Char Rinoa}{Line}“You know...”{Next}“You’re always too{Line} deep in thought.”" />
+  <Monologue Order="46" IsIndent="False" Current="{Char Rinoa}{Line}“Why don’t you lighten up{Line} a little?”{Next}“It’s not good to{Line} think too much.”" Original="{Char Rinoa}{Line}“Why don’t you lighten up{Line} a little?”{Next}“It’s not good to{Line} think too much.”" />
+  <Monologue Order="47" IsIndent="False" Current="{Char Rinoa}{Line}“What I’m trying to say is...”" Original="{Char Rinoa}{Line}“What I’m trying to say is...”" />
+  <Monologue Order="48" IsIndent="False" Current="{Char Rinoa}{Line}“It would be my honor...”{Next}“to have your company,{Line} your highness, in hope that I may{Line} get your mind off things.”" Original="{Char Rinoa}{Line}“It would be my honor...”{Next}“to have your company,{Line} your highness, in hope that I may{Line} get your mind off things.”" />
+  <Monologue Order="49" IsIndent="False" Current="{Char Rinoa}{Line}“How about it, your highness?”{Line}(I’ll play along){Line}(This is stupid)" Original="{Char Rinoa}{Line}“How about it, your highness?”{Line}(I’ll play along){Line}(This is stupid)" />
+  <Monologue Order="50" IsIndent="False" Current="{Char Squall}{Line}“Fine.”" Original="{Char Squall}{Line}“Fine.”" />
+  <Monologue Order="51" IsIndent="False" Current="{Char Rinoa}{Line}“Thank you,{Line} your highness!”" Original="{Char Rinoa}{Line}“Thank you,{Line} your highness!”" />
+  <Monologue Order="52" IsIndent="False" Current="{Char Rinoa}{Line}“Alright, let’s get goin’!”" Original="{Char Rinoa}{Line}“Alright, let’s get goin’!”" />
+  <Monologue Order="53" IsIndent="False" Current="{Char Squall}{Line}“This is stupid.”" Original="{Char Squall}{Line}“This is stupid.”" />
+  <Monologue Order="54" IsIndent="False" Current="{Char Rinoa}{Line}“Oh... Your highness is{Line} in a foul mood.”" Original="{Char Rinoa}{Line}“Oh... Your highness is{Line} in a foul mood.”" />
+  <Monologue Order="55" IsIndent="False" Current="{Char Rinoa}{Line}“I’ll see you around.”" Original="{Char Rinoa}{Line}“I’ll see you around.”" />
+  <Monologue Order="56" IsIndent="False" Current="{Char Squall}{Line}“What?”" Original="{Char Squall}{Line}“What?”" />
+  <Monologue Order="57" IsIndent="False" Current="Zell{Line}“Well, I’ve been thinkin’... We’re a team, yet{Line} we haven’t really talked lately.”" Original="Zell{Line}“Well, I’ve been thinkin’... We’re a team, yet{Line} we haven’t really talked lately.”" />
+  <Monologue Order="58" IsIndent="False" Current="Zell{Line}“Don’t tell me there’s nothin’ to say.”" Original="Zell{Line}“Don’t tell me there’s nothin’ to say.”" />
+  <Monologue Order="59" IsIndent="False" Current="Zell{Line}“Not that I have anything to say, but...{Line} Well, y’know.”" Original="Zell{Line}“Not that I have anything to say, but...{Line} Well, y’know.”" />
+  <Monologue Order="60" IsIndent="False" Current="Zell{Line}“You wanna go kick some monster butt{Line} at the training center?”{Line}(Not in the mood){Line}(Sounds good)" Original="Zell{Line}“You wanna go kick some monster butt{Line} at the training center?”{Line}(Not in the mood){Line}(Sounds good)" />
+  <Monologue Order="70" IsIndent="False" Current="{Char Squall}{Line}“Sorry,{Line} I’m not in the mood.”" Original="{Char Squall}{Line}“Sorry,{Line} I’m not in the mood.”" />
+  <Monologue Order="61" IsIndent="False" Current="Zell{Line}“Oh, ok.”" Original="Zell{Line}“Oh, ok.”" />
+  <Monologue Order="62" IsIndent="False" Current="Zell{Line}“Y’know, thought it might feel{Line} good to move around a little.”" Original="Zell{Line}“Y’know, thought it might feel{Line} good to move around a little.”" />
+  <Monologue Order="63" IsIndent="False" Current="Zell{Line}“Let me know if you change your mind!”" Original="Zell{Line}“Let me know if you change your mind!”" />
+  <Monologue Order="64" IsIndent="False" Current="(Do I look that{Line} depressed to everyone?)" Original="(Do I look that{Line} depressed to everyone?)" />
+  <Monologue Order="65" IsIndent="False" Current="{Char Squall}{Line}“Sounds good.”" Original="{Char Squall}{Line}“Sounds good.”" />
+  <Monologue Order="66" IsIndent="False" Current="Zell{Line}“Right?”" Original="Zell{Line}“Right?”" />
+  <Monologue Order="67" IsIndent="False" Current="Zell{Line}“This kinda lifestyle gets you{Line} so out of shape.”{Next}“It gets you thinkin’{Line} too much, all that stuff.”" Original="Zell{Line}“This kinda lifestyle gets you{Line} so out of shape.”{Next}“It gets you thinkin’{Line} too much, all that stuff.”" />
+  <Monologue Order="68" IsIndent="False" Current="(Was he trying to cheer me up?)" Original="(Was he trying to cheer me up?)" />
+  <Monologue Order="69" IsIndent="False" Current="{Char Squall}{Line}“Sorry, Zell.”" Original="{Char Squall}{Line}“Sorry, Zell.”" />
+  <Monologue Order="70" IsIndent="False" Current="{Char Squall}{Line}“What?”" Original="{Char Squall}{Line}“What?”" />
+  <Monologue Order="71" IsIndent="False" Current="Quistis{Line}“You’re looking pensive.”" Original="Quistis{Line}“You’re looking pensive.”" />
+  <Monologue Order="72" IsIndent="False" Current="(A teacher knows, huh?)" Original="(A teacher knows, huh?)" />
+  <Monologue Order="73" IsIndent="False" Current="Quistis{Line}“You want to be left alone?”{Line}(Yeah, just leave me alone){Line}(It’s not like that)" Original="Quistis{Line}“You want to be left alone?”{Line}(Yeah, just leave me alone){Line}(It’s not like that)" />
+  <Monologue Order="74" IsIndent="False" Current="{Char Squall}{Line}“Yeah, just leave me alone.”" Original="{Char Squall}{Line}“Yeah, just leave me alone.”" />
+  <Monologue Order="75" IsIndent="False" Current="Quistis{Line}“You can’t get rid of me that easily.”" Original="Quistis{Line}“You can’t get rid of me that easily.”" />
+  <Monologue Order="76" IsIndent="False" Current="{Char Squall}{Line}“It’s not like that.”" Original="{Char Squall}{Line}“It’s not like that.”" />
+  <Monologue Order="77" IsIndent="False" Current="Quistis{Line}“Really?  Okay.”" Original="Quistis{Line}“Really?  Okay.”" />
+  <Monologue Order="78" IsIndent="False" Current="Quistis{Line}“Hey, do you remember?”{Next}“Going to the ‘secret place’{Line} together, the night you became a SeeD?”" Original="Quistis{Line}“Hey, do you remember?”{Next}“Going to the ‘secret place’{Line} together, the night you became a SeeD?”" />
+  <Monologue Order="79" IsIndent="False" Current="Quistis{Line}“You gave me the cold shoulder.”" Original="Quistis{Line}“You gave me the cold shoulder.”" />
+  <Monologue Order="80" IsIndent="False" Current="Quistis{Line}“But maybe now you understand how I felt.”{Next}“Sometimes people need someone{Line} to talk to.”" Original="Quistis{Line}“But maybe now you understand how I felt.”{Next}“Sometimes people need someone{Line} to talk to.”" />
+  <Monologue Order="81" IsIndent="False" Current="(I think I understand.{Line} But...)" Original="(I think I understand.{Line} But...)" />
+  <Monologue Order="82" IsIndent="False" Current="Quistis{Line}“Why don’t you talk to me?{Line} Might make you feel better.”" Original="Quistis{Line}“Why don’t you talk to me?{Line} Might make you feel better.”" />
+  <Monologue Order="83" IsIndent="False" Current="Quistis{Line}“Or do you want to go talk to a wall?”" Original="Quistis{Line}“Or do you want to go talk to a wall?”" />
+  <Monologue Order="84" IsIndent="False" Current="Quistis{Line}“What do you want to do?”{Line}(I do feel like talking...){Line}(I want to be alone)" Original="Quistis{Line}“What do you want to do?”{Line}(I do feel like talking...){Line}(I want to be alone)" />
+  <Monologue Order="85" IsIndent="False" Current="{Char Squall}{Line}“I do feel like talking...”" Original="{Char Squall}{Line}“I do feel like talking...”" />
+  <Monologue Order="86" IsIndent="False" Current="Quistis{Line}“Good!  Let’s go, then.{Line} Want to talk over some tea?”" Original="Quistis{Line}“Good!  Let’s go, then.{Line} Want to talk over some tea?”" />
+  <Monologue Order="87" IsIndent="False" Current="{Char Squall}{Line}“Just leave me alone for now.”" Original="{Char Squall}{Line}“Just leave me alone for now.”" />
+  <Monologue Order="88" IsIndent="False" Current="Quistis{Line}“Oh well...{Line} I knew you’d say that.”" Original="Quistis{Line}“Oh well...{Line} I knew you’d say that.”" />
+  <Monologue Order="89" IsIndent="False" Current="{Char Squall}{Line}“Sorry...”" Original="{Char Squall}{Line}“Sorry...”" />
+  <Monologue Order="90" IsIndent="False" Current="Quistis{Line}“That’s ok.{Line} Maybe some other time.”" Original="Quistis{Line}“That’s ok.{Line} Maybe some other time.”" />
+  <Monologue Order="91" IsIndent="False" Current="(I’ll just have to do as I was told...{Line} Command the Garden and kill the sorceress.)" Original="(I’ll just have to do as I was told...{Line} Command the Garden and kill the sorceress.)" />
+  <Monologue Order="92" IsIndent="False" Current="(How does Headmaster Cid expect me to{Line} take care of everyone?)" Original="(How does Headmaster Cid expect me to{Line} take care of everyone?)" />
+  <Monologue Order="93" IsIndent="False" Current="(It’d be best to go fight the sorceress{Line} soon, and end this nonsense.)" Original="(It’d be best to go fight the sorceress{Line} soon, and end this nonsense.)" />
+  <Monologue Order="94" IsIndent="False" Current="(......!?  But isn’t she the headmaster’s{Line} wife?  He wants us to kill his wife?)" Original="(......!?  But isn’t she the headmaster’s{Line} wife?  He wants us to kill his wife?)" />
+  <Monologue Order="95" IsIndent="False" Current="(What does it feel like{Line} to give an order like that?)" Original="(What does it feel like{Line} to give an order like that?)" />
+  <Monologue Order="96" IsIndent="False" Current="(...This is getting boring.)" Original="(...This is getting boring.)" />
+  <Monologue Order="97" IsIndent="False" Current="(What’s everyone doing?)" Original="(What’s everyone doing?)" />
+  <Monologue Order="98" IsIndent="False" Current="“{Char Squall}, {Char Squall}!{Line} Please report to the bridge immediately.”" Original="“{Char Squall}, {Char Squall}!{Line} Please report to the bridge immediately.”" />
+  <Monologue Order="99" IsIndent="False" Current="(...What is it now?)" Original="(...What is it now?)" />
+  <Monologue Order="100" IsIndent="False" Current="(Is it over...?)" Original="(Is it over...?)" />
+  <Monologue Order="101" IsIndent="False" Current="(What happened...?)" Original="(What happened...?)" />
+  <Monologue Order="102" IsIndent="False" Current="({Char Rinoa}......)" Original="({Char Rinoa}......)" />
+  <Monologue Order="103" IsIndent="False" Current="(What happened to {Char Rinoa}......?)" Original="(What happened to {Char Rinoa}......?)" />
+  <Monologue Order="104" IsIndent="False" Current="Received [Weapons Monthly, April Issue]!" Original="Received [Weapons Monthly, April Issue]!" />
+  <Monologue Order="105" IsIndent="False" Current="{Char Squall}{Line}“......”" Original="{Char Squall}{Line}“......”" />
+</Monologues>

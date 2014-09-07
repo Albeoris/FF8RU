@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“{Char Squall}!!!”" Original="“{Char Squall}!!!”" />
+  <Monologue Order="1" IsIndent="False" Current="“{Char Squall}! {Char Quistis}?”" Original="“{Char Squall}!  Quisty?”" />
+  <Monologue Order="2" IsIndent="False" Current="“Здесь небезопасно.{Line} Пожалуйста, пойдём.”" Original="“It is not safe here.{Line} Please, let’s go.”" />
+  <Monologue Order="3" IsIndent="False" Current="“Хорошо...”" Original="“...Alright.”" />
+  <Monologue Order="5" IsIndent="False" Current="“Thank you.”" Original="“Thank you.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Quistis}{Line}“Кто это был?..”" Original="Quistis{Line}“Who was that...?”" />
+  <Monologue Order="5" IsIndent="True" Current="“Oh shoot...!{Line} I’m sorry.”" Original="“Oh shoot...!{Line} I’m sorry.”" />
+  <Monologue Order="8" IsIndent="False" Current="“It’s my fault.”" Original="“It’s my fault.”" />
+  <Monologue Order="6" IsIndent="False" Current="“I’m gonna fight, too!”" Original="“I’m gonna fight, too!”" />
+  <Monologue Order="7" IsIndent="False" Current="“Heh heh heh.{Line} This should be interesting.”" Original="“Heh heh heh.{Line} This should be interesting.”" />
+  <Monologue Order="8" IsIndent="False" Current="“Aahhh!”" Original="“Aahhh!”" />
+  <Monologue Order="9" IsIndent="False" Current="“I’m not training everyday{Line} for nothing.  Come on!”" Original="“I’m not training everyday{Line} for nothing.  Come on!”" />
+  <Monologue Order="10" IsIndent="False" Current="“Why you little...!”" Original="“Why you little...!”" />
+  <Monologue Order="11" IsIndent="False" Current="Help them{Line}Ignore it" Original="Help them{Line}Ignore it" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Squall}{Line}“You’ll have to get{Line} past me first.”" Original="{Char Squall}{Line}“You’ll have to get{Line} past me first.”" />
+  <Monologue Order="13" IsIndent="False" Current="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" Original="Garden Faculty{Line}“Another one of Cid’s followers!?  DIE!”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Squall}{Line}“Are you guys all right?”" Original="{Char Squall}{Line}“Are you guys all right?”" />
+  <Monologue Order="14" IsIndent="False" Current="Garden Faculty{Line}“He’s not here, either.{Line} Slippery bastard.”" Original="Garden Faculty{Line}“He’s not here, either.{Line} Slippery bastard.”" />
+</Monologues>

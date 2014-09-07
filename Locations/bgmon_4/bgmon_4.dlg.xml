@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Кто-нибудь, помогите!!!”" Original="“Somebody help!!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Quistis}{Line}“Быстрее, {Char Squall}!”" Original="Quistis{Line}“Come on, {Char Squall}!”" />
+  <Monologue Order="2" IsIndent="True" Current="“We meet again.”" Original="“We meet again.”" />
+  <Monologue Order="3" IsIndent="False" Current="“You’re {Char Squall}, huh?{Line} I heard about you.”" Original="“You’re {Char Squall}, huh?{Line} I heard about you.”" />
+  <Monologue Order="4" IsIndent="False" Current="“Is there anything you want?{Line} It’s not free, of course.”" Original="“Is there anything you want?{Line} It’s not free, of course.”" />
+  <Monologue Order="5" IsIndent="False" Current="“Do you need anything?”{Line} You’ll have to pay, of course.”" Original="“Do you need anything?”{Line} You’ll have to pay, of course.”" />
+  <Monologue Order="6" IsIndent="False" Current="Joker{Line}“Do you need anything?”{Line} You’ll have to pay, of course.”" Original="Joker{Line}“Do you need anything?”{Line} You’ll have to pay, of course.”" />
+  <Monologue Order="7" IsIndent="False" Current="“Challenging me to a card game?{Line} ......”{Next}“Sorry, but I don’t play{Line} beginners.{Line} I’ll play you once you{Line} gain more experience.”" Original="“Challenging me to a card game?{Line} ......”{Next}“Sorry, but I don’t play{Line} beginners.{Line} I’ll play you once you{Line} gain more experience.”" />
+  <Monologue Order="8" IsIndent="False" Current="“Hey, heard you’ve been{Line} playing some good games.”{Next}“Sure, you wanna play?”{Next}“What?  The CC Group?{Line} Yeah, I’m a member.”{Next}“I’m Card Magician{Line} ‘Joker’.”{Next}“As my name says, I’m the{Line} black sheep of the group.”" Original="“Hey, heard you’ve been{Line} playing some good games.”{Next}“Sure, you wanna play?”{Next}“What?  The CC Group?{Line} Yeah, I’m a member.”{Next}“I’m Card Magician{Line} ‘Joker’.”{Next}“As my name says, I’m the{Line} black sheep of the group.”" />
+  <Monologue Order="9" IsIndent="False" Current="Joker{Line}“Wanna play?”{Line}Yes{Line}No" Original="Joker{Line}“Wanna play?”{Line}Yes{Line}No" />
+  <Monologue Order="10" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="11" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Balamb}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Balamb}’s rules and ours.”" />
+  <Monologue Order="12" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Galbadia}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Galbadia}’s rules and ours.”" />
+  <Monologue Order="13" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Trabia}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Trabia}’s rules and ours.”" />
+  <Monologue Order="14" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Centra}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Centra}’s rules and ours.”" />
+  <Monologue Order="15" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Dollet}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Dollet}’s rules and ours.”" />
+  <Monologue Order="16" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} FH’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} FH’s rules and ours.”" />
+  <Monologue Order="17" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} Lunar’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="18" IsIndent="False" Current="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Esthar}’s rules and ours.”" Original="Joker{Line}“Oh, you play other rules,{Line} too?”{Next}“Let’s play this game using those{Line} {Term Esthar}’s rules and ours.”" />
+  <Monologue Order="19" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="20" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="21" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="22" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="23" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="24" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="25" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="26" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="27" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="28" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="29" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="30" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="31" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="33" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="32" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="33" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="36" IsIndent="False" Current="“{Term Balamb}”" Original="“{Term Balamb}”" />
+  <Monologue Order="37" IsIndent="False" Current="“{Term Galbadia}”" Original="“{Term Galbadia}”" />
+  <Monologue Order="38" IsIndent="False" Current="“{Term Trabia}”" Original="“{Term Trabia}”" />
+  <Monologue Order="39" IsIndent="False" Current="“{Term Centra}”" Original="“{Term Centra}”" />
+  <Monologue Order="40" IsIndent="False" Current="“{Term Dollet}”" Original="“{Term Dollet}”" />
+  <Monologue Order="41" IsIndent="False" Current="“FH”" Original="“FH”" />
+  <Monologue Order="42" IsIndent="False" Current="“Lunar”" Original="“Lunar”" />
+  <Monologue Order="43" IsIndent="False" Current="“{Term Esthar}”" Original="“{Term Esthar}”" />
+  <Monologue Order="44" IsIndent="False" Current="“No optional rules”" Original="“No optional rules”" />
+  <Monologue Order="34" IsIndent="False" Current="Joker{Line}“Oh, you got a Battle Meter?{Line} I’ll add another function to it{Line} if you win.”" Original="Joker{Line}“Oh, you got a Battle Meter?{Line} I’ll add another function to it{Line} if you win.”" />
+  <Monologue Order="35" IsIndent="False" Current="Joker{Line}“You’re really good.{Line} Well, a promise’s a promise.{Line} Let me see that Battle Meter.”" Original="Joker{Line}“You’re really good.{Line} Well, a promise’s a promise.{Line} Let me see that Battle Meter.”" />
+  <Monologue Order="36" IsIndent="False" Current="Joker{Line}“......{Line} All done.”{Next}“Now you can view{Line} GF information with it.”" Original="Joker{Line}“......{Line} All done.”{Next}“Now you can view{Line} GF information with it.”" />
+</Monologues>

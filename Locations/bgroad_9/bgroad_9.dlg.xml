@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Наконец-то!”" Original="Zell{Line}“Finally!{Line} There you are!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“Где тебя черти носили?{Line} Я уже весь сад обыскал.”" Original="Zell{Line}“Where the hell were you?{Line} I was lookin’ all over the place.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Мы же теперь оба сиды! А это значит...{Line} У нас есть собственные комнаты, чувак!”" Original="Zell{Line}“We’re both now members of SeeD, right?{Line} Well, guess what!?{Line} We got our own rooms, baby!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Твоя находится как раз напротив{Line} старой, прямо по коридору.”" Original="Zell{Line}“Your new room’s right across{Line} the hall from your old one.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Zell}{Line}“Вот что меня попросили тебе передать.{Line} Блин, это заняло целую вечность!”" Original="Zell{Line}“That’s what I was asked to tell you.{Line} Man, it took me forever!”" />
+  <Monologue Order="5" IsIndent="True" Current="Quistis{Line}“(Shhh, here he comes.)”" Original="Quistis{Line}“(Shhh, here he comes.)”" />
+  <Monologue Order="6" IsIndent="False" Current="Zell{Line}“(Ok, he’s all yours.)”" Original="Zell{Line}“(Ok, he’s all yours.)”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Rinoa}{Line}“You’re not going anywhere.”" Original="{Char Rinoa}{Line}“You’re not going anywhere.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Rinoa}{Line}“So what’s up?”" Original="{Char Rinoa}{Line}“So what’s up?”" />
+  <Monologue Order="9" IsIndent="False" Current="(Tired.)" Original="(Tired.)" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Rinoa}{Line}“You look so down?”" Original="{Char Rinoa}{Line}“You look so down?”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Rinoa}{Line}“Come on, {Char Squall}, how old are you?”{Next}“You’re still a teenager.  Why don’t you{Line} act like one for a change?”" Original="{Char Rinoa}{Line}“Come on, {Char Squall}, how old are you?”{Next}“You’re still a teenager.  Why don’t you{Line} act like one for a change?”" />
+  <Monologue Order="12" IsIndent="False" Current="(...Just tired.)" Original="(...Just tired.)" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Rinoa}{Line}“Ok, come on.  Let’s go to the concert.”" Original="{Char Rinoa}{Line}“Ok, come on.  Let’s go to the concert.”" />
+  <Monologue Order="14" IsIndent="False" Current="(...What?){Line}(...I’m not in the mood){Line}(...I don’t know)" Original="(...What?){Line}(...I’m not in the mood){Line}(...I don’t know)" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Squall}{Line}“Sorry.  I’m not in the mood.”" Original="{Char Squall}{Line}“Sorry.  I’m not in the mood.”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Rinoa}{Line}“How come?”" Original="{Char Rinoa}{Line}“How come?”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Squall}{Line}“I’d rather not talk about it.”" Original="{Char Squall}{Line}“I’d rather not talk about it.”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Rinoa}{Line}“...Quistis was right on...{Line} Oh, you’re so predictable.”" Original="{Char Rinoa}{Line}“...Quistis was right on...{Line} Oh, you’re so predictable.”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Rinoa}{Line}“...Ok, I’m sorry.  I can understand{Line} why you wouldn’t be in the mood.”{Next}“You’re probably still thinking about what{Line} the headmaster said today.  He put a lot on{Line} your shoulders.  It all happened so fast.”" Original="{Char Rinoa}{Line}“...Ok, I’m sorry.  I can understand{Line} why you wouldn’t be in the mood.”{Next}“You’re probably still thinking about what{Line} the headmaster said today.  He put a lot on{Line} your shoulders.  It all happened so fast.”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Rinoa}{Line}“So we thought it’d be good for you to come{Line} and unwind a little.  Plus I have something{Line} important that I want to talk to you about.”" Original="{Char Rinoa}{Line}“So we thought it’d be good for you to come{Line} and unwind a little.  Plus I have something{Line} important that I want to talk to you about.”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Squall}{Line}“Who’s we?”" Original="{Char Squall}{Line}“Who’s we?”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Rinoa}{Line}“Who else?  Quistis, Selphie,{Line} Zell, Irvine, and, of course, me.”" Original="{Char Rinoa}{Line}“Who else?  Quistis, Selphie,{Line} Zell, Irvine, and, of course, me.”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Rinoa}{Line}“Come on... Please, for me?”" Original="{Char Rinoa}{Line}“Come on... Please, for me?”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Rinoa}{Line}“There’s no point if you don’t show up.”" Original="{Char Rinoa}{Line}“There’s no point if you don’t show up.”" />
+  <Monologue Order="25" IsIndent="False" Current="(I don’t know...){Line}(I guess I’ll go){Line}(I just can’t right now)" Original="(I don’t know...){Line}(I guess I’ll go){Line}(I just can’t right now)" />
+  <Monologue Order="26" IsIndent="False" Current="{Char Rinoa}{Line}“YES!  Okay, let’s go!”" Original="{Char Rinoa}{Line}“YES!  Okay, let’s go!”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Squall}{Line}“...Sorry.  I just don’t feel like it.”" Original="{Char Squall}{Line}“...Sorry.  I just don’t feel like it.”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Rinoa}{Line}“Fine... I guess I’ll have to bug{Line} you for the rest of the night.”" Original="{Char Rinoa}{Line}“Fine... I guess I’ll have to bug{Line} you for the rest of the night.”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Rinoa}{Line}“And I’m gonna keep chanting ‘concert,{Line} concert, concert’ and drive you nuts.”" Original="{Char Rinoa}{Line}“And I’m gonna keep chanting ‘concert,{Line} concert, concert’ and drive you nuts.”" />
+  <Monologue Order="31" IsIndent="False" Current="{Char Rinoa}{Line}“{Char Squall}, you don’t worry{Line} about anything.”" Original="{Char Rinoa}{Line}“{Char Squall}, you don’t worry{Line} about anything.”" />
+  <Monologue Order="30" IsIndent="False" Current="{Char Rinoa}{Line}“Is that what you want?”" Original="{Char Rinoa}{Line}“Is that what you want?”" />
+  <Monologue Order="31" IsIndent="False" Current="{Char Squall}{Line}“...Oh man...”" Original="{Char Squall}{Line}“...Oh man...”" />
+  <Monologue Order="32" IsIndent="False" Current="{Char Rinoa}{Line}“I’m getting to you already, huh?{Line} Looks like you have no choice!”" Original="{Char Rinoa}{Line}“I’m getting to you already, huh?{Line} Looks like you have no choice!”" />
+  <Monologue Order="33" IsIndent="False" Current="{Char Squall}{Line}“...Why not?”" Original="{Char Squall}{Line}“...Why not?”" />
+</Monologues>

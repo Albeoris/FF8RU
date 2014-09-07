@@ -77,16 +77,16 @@
   <Monologue Order="55" IsIndent="True" Current="Друга поклонника Трип  #1{Line}“А ты здорово играешь!{Line} Но в следующий раз я выиграю!”" Original="Friend of Trepe Groupie #1{Line}“Hey, you’re pretty good.{Line} I’ll beat you next time!”" />
   <Monologue Order="56" IsIndent="False" Current="Друга поклонника Трип  #1{Line}“Хехехе. Как тебе?{Line} Тренируйся, ты мне пока не ровня!”" Original="Friend of Trepe Groupie #1{Line}“Huh?  Hey, I WON!{Line} Come back when you’re up to my level!”" />
   <Monologue Order="57" IsIndent="False" Current="Друга поклонника Трип  #1{Line}“Ничья...{Line} Повторим?”" Original="Friend of Trepe Groupie #1{Line}“Hmm, a draw...{Line} Let’s settle this next time!”" />
-  <Monologue Order="58" IsIndent="True" Current="“Yo, d’ya hear about the{Line} field exam?”" Original="“Yo, d’ya hear about the{Line} field exam?”" />
-  <Monologue Order="59" IsIndent="False" Current="“Yeah.{Line} I heard Seifer basically{Line} did what he pleased, again.”" Original="“Yeah.{Line} I heard Seifer basically{Line} did what he pleased, again.”" />
-  <Monologue Order="60" IsIndent="False" Current="“Again?{Line} He never learns...”" Original="“Again?{Line} He never learns...”" />
-  <Monologue Order="61" IsIndent="False" Current="“I heard this time, he completely ignored{Line} all orders and went berserk.”" Original="“I heard this time, he completely ignored{Line} all orders and went berserk.”" />
-  <Monologue Order="62" IsIndent="False" Current="“I see why he never passes the field exam.{Line} He’s well qualified to be a SeeD, though!”" Original="“I see why he never passes the field exam.{Line} He’s well qualified to be a SeeD, though!”" />
-  <Monologue Order="63" IsIndent="False" Current="“You should talk!{Line} You never pass the written test!”" Original="“You should talk!{Line} You never pass the written test!”" />
-  <Monologue Order="64" IsIndent="False" Current="“And look who got cold feet during the{Line} field exam!  So why don’t you just shut up!”" Original="“And look who got cold feet during the{Line} field exam!  So why don’t you just shut up!”" />
-  <Monologue Order="65" IsIndent="False" Current="“Now, now...{Line} Calm down, easy...”" Original="“Now, now...{Line} Calm down, easy...”" />
-  <Monologue Order="66" IsIndent="False" Current="“I’m better off than Mr. Paper Test Boy{Line} here!  Try makin’ it to the field exam,{Line} why don’t ya!”" Original="“I’m better off than Mr. Paper Test Boy{Line} here!  Try makin’ it to the field exam,{Line} why don’t ya!”" />
-  <Monologue Order="67" IsIndent="False" Current="“...What was all that{Line} commotion a while back...?”" Original="“...What was all that{Line} commotion a while back...?”" />
+  <Monologue Order="58" IsIndent="True" Current="“Уже слышали про полевой экзамен?”" Original="“Yo, d’ya hear about the{Line} field exam?”" />
+  <Monologue Order="59" IsIndent="False" Current="“Ага. {Char Seifer} засыпался.”" Original="“Yeah.{Line} I heard Seifer basically{Line} did what he pleased, again.”" />
+  <Monologue Order="60" IsIndent="False" Current="“Снова? Он ничему не учится...”" Original="“Again?{Line} He never learns...”" />
+  <Monologue Order="61" IsIndent="False" Current="“В этот раз он вообще прогнорировал{Line} все приказы и взбесился!”" Original="“I heard this time, he completely ignored{Line} all orders and went berserk.”" />
+  <Monologue Order="62" IsIndent="False" Current="“Он так никогда не станет сидом.”" Original="“I see why he never passes the field exam.{Line} He’s well qualified to be a SeeD, though!”" />
+  <Monologue Order="63" IsIndent="False" Current="“Кто бы говорил. Ты вначале{Line} контрошу напиши.”" Original="“You should talk!{Line} You never pass the written test!”" />
+  <Monologue Order="64" IsIndent="False" Current="“Зато я не обделался от страха!{Line} Сиди и помалкивай!”" Original="“And look who got cold feet during the{Line} field exam!  So why don’t you just shut up!”" />
+  <Monologue Order="65" IsIndent="False" Current="“Воу-воу, пацаны!{Line} Спокуха!”" Original="“Now, now...{Line} Calm down, easy...”" />
+  <Monologue Order="66" IsIndent="False" Current="“В отличии от товарища «да как два пальца»,{Line} я, по крайней мере, дошёл до экзамена!”" Original="“I’m better off than Mr. Paper Test Boy{Line} here!  Try makin’ it to the field exam,{Line} why don’t ya!”" />
+  <Monologue Order="67" IsIndent="True" Current="“...What was all that{Line} commotion a while back...?”" Original="“...What was all that{Line} commotion a while back...?”" />
   <Monologue Order="68" IsIndent="False" Current="“Yeah, I know.{Line} Somethin’ about headmaster faction,{Line} Garden Master faction...”" Original="“Yeah, I know.{Line} Somethin’ about headmaster faction,{Line} Garden Master faction...”" />
   <Monologue Order="69" IsIndent="False" Current="“It was pretty weird.{Line} They were huntin’ down the headmaster{Line} for who knows what...”" Original="“It was pretty weird.{Line} They were huntin’ down the headmaster{Line} for who knows what...”" />
   <Monologue Order="70" IsIndent="False" Current="“What are you talkin’ about?{Line} You were the one runnin’ around screaming,{Line} ‘I support the Garden Master!’”" Original="“What are you talkin’ about?{Line} You were the one runnin’ around screaming,{Line} ‘I support the Garden Master!’”" />
