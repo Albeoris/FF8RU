@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." />
+  <Monologue Order="1" IsIndent="True" Current="// Из Баламба в Тимбер{Line}{Char Selphie}{Line}“Потрясный поезд!”" Original="Selphie{Line}“This train is awesome!”" />
+  <Monologue Order="2" IsIndent="False" Current="Selphie{Line}“I really love trains!”" Original="Selphie{Line}“I really love trains!”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Selphie}{Line}“Чур, я первая!”" Original="Selphie{Line}“I’m gonna go check out the front.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Selphie}{Line}“Хи-хи! Спасибо!”" Original="Selphie{Line}“Tee-hee!  Thanks!”" />
+  <Monologue Order="13" IsIndent="True" Current="Selphie{Line}“Hee!  You caught on!”" Original="Selphie{Line}“Hee!  You caught on!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“Это межконтинентальная{Line} железная дорога, детка!”" Original="Zell{Line}“A transcontinental railroad, baby!”" />
+  <Monologue Order="14" IsIndent="False" Current="Zell{Line}“Alright, it’s open!”" Original="Zell{Line}“Alright, it’s open!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“По-моему, тебе не интересно.”" Original="Zell{Line}“Guess you’re not interested.”" />
+  <Monologue Order="9" IsIndent="False" Current="Zell{Line}“This transcontinental train{Line} goes all over the world.”" Original="Zell{Line}“This transcontinental train{Line} goes all over the world.”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Zell}{Line}“Большую часть пути до Тимбера{Line} он преодолевает под водой,{Line} в специальном туннеле.”" Original="Zell{Line}“It even runs through an{Line} underwater tunnel to get to Timber.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Squall}{Line}“Is that so...?”" Original="{Char Squall}{Line}“Is that so...?”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Squall}{Line}“Да, конечно...”" Original="{Char Squall}{Line}“Sure is...”" />
+  <Monologue Order="13" IsIndent="False" Current="Zell{Line}“If we really wanted to, we could even take{Line} a trip around the world on this luxury train.”" Original="Zell{Line}“If we really wanted to, we could even take{Line} a trip around the world on this luxury train.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Zell}{Line}“Круто, да?”" Original="Zell{Line}“Pretty cool, huh?”" />
+  <Monologue Order="15" IsIndent="False" Current="Zell{Line}“I guess you don’t appreciate it.”" Original="Zell{Line}“I guess you don’t appreciate it.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Squall}{Line}“Ладно, пошли.”" Original="{Char Squall}{Line}“Ok, we can go inside now.”" />
+  <Monologue Order="9" IsIndent="False" Current="Проверка идентификационного номера{Line}“Подтверждаю... Доступ разрешён...”" Original="ID Check{Line}“Confirming... Access granted...”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Zell}{Line}“{Char Squall}, пошли, посмотрим.”" Original="Zell{Line}“Let’s go check it out, {Char Squall}.”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Zell}{Line}“Кстати, {Char Squall}...{Line} чтобы войти в купе,{Line} надо воспользоваться билетом.”" Original="Zell{Line}“By the way, {Char Squall}...{Line} You have to use the ticket to get inside.”" />
+  <Monologue Order="15" IsIndent="False" Current="Selphie{Line}“Open up!”" Original="Selphie{Line}“Open up!”" />
+  <Monologue Order="16" IsIndent="False" Current="Selphie{Line}“Open, Open, OPEN!”" Original="Selphie{Line}“Open, Open, OPEN!”" />
+  <Monologue Order="17" IsIndent="False" Current="Selphie{Line}“Please...”" Original="Selphie{Line}“Please...”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Squall}{Line}“We’ll...”" Original="{Char Squall}{Line}“We’ll...”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Squall}{Line}“...Make it.”" Original="{Char Squall}{Line}“...Make it.”" />
+  <Monologue Order="20" IsIndent="False" Current="Train Announcement{Line}“This train, bound for East Academy,{Line} will depart shortly.”" Original="Train Announcement{Line}“This train, bound for East Academy,{Line} will depart shortly.”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Rinoa}{Line}“Weren’t you just saying something?”{Line}It’s nothing important, but...{Line}Forget it... It’s not important" Original="{Char Rinoa}{Line}“Weren’t you just saying something?”{Line}It’s nothing important, but...{Line}Forget it... It’s not important" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Squall}{Line}“Well... We made it.”" Original="{Char Squall}{Line}“Well... We made it.”" />
+  <Monologue Order="23" IsIndent="False" Current="Quistis{Line}“I have to thank{Line} Zone for that.”" Original="Quistis{Line}“I have to thank{Line} Zone for that.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Rinoa}{Line}“He’s into naughty magazines.”" Original="{Char Rinoa}{Line}“He’s into naughty magazines.”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Rinoa}{Line}“What?  What’s the matter?”" Original="{Char Rinoa}{Line}“What?  What’s the matter?”" />
+  <Monologue Order="26" IsIndent="False" Current="Quistis{Line}“I’ll keep that in mind...”" Original="Quistis{Line}“I’ll keep that in mind...”" />
+  <Monologue Order="27" IsIndent="False" Current="Quistis{Line}“We should get there shortly,{Line} so we’ll be all right out here.”" Original="Quistis{Line}“We should get there shortly,{Line} so we’ll be all right out here.”" />
+  <Monologue Order="28" IsIndent="False" Current="Quistis{Line}“No time even to rest, really.”" Original="Quistis{Line}“No time even to rest, really.”" />
+  <Monologue Order="29" IsIndent="False" Current="Zell{Line}“...Oh man...”" Original="Zell{Line}“...Oh man...”" />
+  <Monologue Order="30" IsIndent="False" Current="Zell{Line}“.........”{Line}(Leave him alone){Line}(Stay put)" Original="Zell{Line}“.........”{Line}(Leave him alone){Line}(Stay put)" />
+  <Monologue Order="31" IsIndent="False" Current="(Let him be...)" Original="(Let him be...)" />
+  <Monologue Order="32" IsIndent="False" Current="(Selphie might throw a fit{Line} if I go in first...)" Original="(Selphie might throw a fit{Line} if I go in first...)" />
+  <Monologue Order="38" IsIndent="False" Current="“Let’s GO to the WM!”" Original="“Let’s GO to the WM!”" />
+  <Monologue Order="33" IsIndent="False" Current="{Char Rinoa}{Line}“This is the only train bound for{Line} Deling City anyway.”" Original="{Char Rinoa}{Line}“This is the only train bound for{Line} Deling City anyway.”" />
+  <Monologue Order="34" IsIndent="False" Current="{Char Rinoa}{Line}“Haven’t we left yet?”" Original="{Char Rinoa}{Line}“Haven’t we left yet?”" />
+  <Monologue Order="35" IsIndent="False" Current="Zell{Line}“When’s this train leavin’?  C’mon...”" Original="Zell{Line}“When’s this train leavin’?  C’mon...”" />
+  <Monologue Order="36" IsIndent="False" Current="Zell{Line}“So, what do we do about HIM?”" Original="Zell{Line}“So, what do we do about HIM?”" />
+  <Monologue Order="37" IsIndent="False" Current="Irvine{Line}“Selphie, {Char Rinoa}, Quistis...{Line} I don’t know which one to choose...”" Original="Irvine{Line}“Selphie, {Char Rinoa}, Quistis...{Line} I don’t know which one to choose...”" />
+  <Monologue Order="38" IsIndent="False" Current="Zell{Line}“I don’t want that Irvine guy using the{Line} guest room.  Don’t open it for him!”" Original="Zell{Line}“I don’t want that Irvine guy using the{Line} guest room.  Don’t open it for him!”" />
+  <Monologue Order="39" IsIndent="False" Current="{Char Rinoa}{Line}“Shouldn’t you go{Line} check on Selphie?”" Original="{Char Rinoa}{Line}“Shouldn’t you go{Line} check on Selphie?”" />
+  <Monologue Order="40" IsIndent="False" Current="Quistis{Line}“...Irvine just kind of{Line} went off... Shouldn’t you check?”" Original="Quistis{Line}“...Irvine just kind of{Line} went off... Shouldn’t you check?”" />
+  <Monologue Order="41" IsIndent="False" Current="Quistis{Line}“Aren’t we leaving yet?”" Original="Quistis{Line}“Aren’t we leaving yet?”" />
+  <Monologue Order="42" IsIndent="False" Current="Irvine{Line}“Hmm... Perhaps it’s fate?”" Original="Irvine{Line}“Hmm... Perhaps it’s fate?”" />
+  <Monologue Order="43" IsIndent="False" Current="{Char Squall}{Line}“.........”" Original="{Char Squall}{Line}“.........”" />
+  <Monologue Order="44" IsIndent="False" Current="(...Better let her have her way.)" Original="(...Better let her have her way.)" />
+  <Monologue Order="45" IsIndent="False" Current="Train Announcement{Line}“This train, bound for Deling City,{Line} will be departing shortly.”" Original="Train Announcement{Line}“This train, bound for Deling City,{Line} will be departing shortly.”" />
+</Monologues>

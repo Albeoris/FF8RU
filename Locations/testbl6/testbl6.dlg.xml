@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="“Thou art strong, mortals!{Line} I shall grant thee my powers.”{Next}“Call upon me{Line} in times of trouble...”" Original="“Thou art strong, mortals!{Line} I shall grant thee my powers.”{Next}“Call upon me{Line} in times of trouble...”" />
+  <Monologue Order="1" IsIndent="False" Current="“The heavens hath decreed thy fate.{Line} PERISH BY MY SWORD!”" Original="“The heavens hath decreed thy fate.{Line} PERISH BY MY SWORD!”" />
+  <Monologue Order="2" IsIndent="False" Current="Try again{Line}Game over" Original="Try again{Line}Game over" />
+  <Monologue Order="3" IsIndent="False" Current="(Хм?..)" Original="(Hmmm...?)" />
+  <Monologue Order="4" IsIndent="False" Current="(......{Char Rinoa}?{Line} What’s wrong with {Char Rinoa}?)" Original="(......{Char Rinoa}?{Line} What’s wrong with {Char Rinoa}?)" />
+  <Monologue Order="5" IsIndent="False" Current="(Try again){Line}(Try again with HP+200){Line}(Game over)" Original="(Try again){Line}(Try again with HP+200){Line}(Game over)" />
+  <Monologue Order="6" IsIndent="False" Current="Hint:{Line}You can execute a special move by blocking{Line}the enemy’s attacks numerous times." Original="Hint:{Line}You can execute a special move by blocking{Line}the enemy’s attacks numerous times." />
+  <Monologue Order="7" IsIndent="False" Current="Hint:{Line}Kicks do not inflict much damage.{Line}However, they can stop{Line}continuous attacks by the enemy." Original="Hint:{Line}Kicks do not inflict much damage.{Line}However, they can stop{Line}continuous attacks by the enemy." />
+  <Monologue Order="8" IsIndent="False" Current="Hint:{Line}When time is up, the one{Line}with the most HP is the winner." Original="Hint:{Line}When time is up, the one{Line}with the most HP is the winner." />
+  <Monologue Order="12" IsIndent="False" Current="“Release which seal?”{Line}{Color Grey}[Item]{Line}[Magic]{Line}[GF]{Line}[Draw]{Line}[Command Ability]{Line}[Limit Break]{Line}[Resurrection]{Line}[Save]" Original="“Release which seal?”{Line}{Color Grey}[Item]{Line}[Magic]{Line}[GF]{Line}[Draw]{Line}[Command Ability]{Line}[Limit Break]{Line}[Resurrection]{Line}[Save]" />
+</Monologues>

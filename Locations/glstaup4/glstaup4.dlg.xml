@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="{Char Ward}{Line}“Эй! Нельзя парковаться посреди улицы!”" Original="Ward{Line}“H-Hey!{Line} You can’t park in the middle of the street!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Laguna}{Line}“Расслабься, парень, всё путём.”" Original="Laguna{Line}“Chill man, it’s cool.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Laguna}{Line}“Отлично! Как насчёт выпивки?!”" Original="Laguna{Line}“Alright then!{Line} How’s about a drink!?”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Laguna}{Line}“Никак. Я знаю, как ты пьёшь...”{Next}“Харош притворяться.{Line} Ты здесь не ради этого.”" Original="Kiros{Line}“Whatever!  Like you drink...”{Next}“We already know you’re not in it{Line} for the drinking.  Just admit it already!”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Ward}{Line}“А чтобы выпить стакан сока...”{Next}“И поглазеть на пианистку.”" Original="Ward{Line}“Yeah, just drink some juice like a weenie.”{Next}“And then gawk at the piano lady.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Laguna}{Line}“НЕ НАЗЫВАЙ ЕЁ ПИАНИСТКОЙ!{Line} Всё! Я никуда не иду!”" Original="Laguna{Line}“DON’T CALL HER THE ‘PIANO LADY’!{Line} That’s it, forget it!{Line} I’m not going!”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Kiros}{Line}“Да-да, мы в этом не сомневаемся...”" Original="Kiros{Line}“We know you will...”" />
+  <Monologue Order="7" IsIndent="True" Current="{Char Kiros}{Line}“Мы же здесь не только для того,{Line} чтобы напиться? Мы должны сражаться.”" Original="Kiros{Line}“We’re not just here for the booze, are we?{Line} We’ve got a war to fight.”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Ward}{Line}“Тогда нажрёмся вдрызг,{Line} а потом пойдём в атаку!”" Original="Ward{Line}“So we’ll get smashed,{Line} and then we’ll CHAAARGE!”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Laguna}{Line}“{Char Kiros}, {Char Ward}...{Line} Парни, вы не понимаете...”{Next}“Я просто хочу отдохнуть{Line} вместе с вами.”" Original="Laguna{Line}“Kiros, Ward...{Line} You two seem to misunderstand.”{Next}“I just want to have a{Line} friendly drink with you two.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Ward}{Line}“Харош заливать!{Line} Пошли, герой-любовник!”" Original="Ward{Line}“Snap out of your weeniehood and do it!{Line} Come on, Loverboy Laguna!”" />
+  <Monologue Order="11" IsIndent="True" Current="Солдат{Line}“Сэр!”" Original="Soldier{Line}“Sir!”" />
+</Monologues>

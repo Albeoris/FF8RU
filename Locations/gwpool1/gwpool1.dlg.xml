@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Ward}{Line}“Разве мы здесь не для того,{Line} чтобы сражаться против{Line} всемогущей армии Тимбера?”" Original="Ward{Line}“Hey, aren’t we here to fight a war?{Line} You know, against the almighty {Term Timber} army?”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Kiros}{Line}“А мы какого-то лешего{Line} носимся по лесу, удирая{Line} от местных тварей.”" Original="Kiros{Line}“Yeah, so why are we wasting our time{Line} messin’ with these animals?”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Laguna}{Line}“Ну, видишь ли... дело в том...”" Original="Laguna{Line}“Well, you see...{Line} It’s just that, uhh...”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Kiros}{Line}“Не говори, что мы снова заблудились!”" Original="Kiros{Line}“Don’t tell me we’re lost again.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Laguna}{Line}“Короче, мы едем домой.{Line} Город Делинг, мы идём!”" Original="Laguna{Line}“Anyway... We’re goin’ home.{Line} Deling City, here we come!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Ward}{Line}“Погоди! {Char Laguna}!”" Original="Ward{Line}“W-Wait!  Laguna!”" />
+</Monologues>

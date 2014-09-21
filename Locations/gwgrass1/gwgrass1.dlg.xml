@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="3" IsIndent="False" Current="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." Original="〖Save Point〗{Line} Access the Menu and select{Line}[Save] to save your game." />
+  <Monologue Order="0" IsIndent="False" Current="{Color Grey}(Где я?)" Original="{Color Grey}(Where am I?)" />
+  <Monologue Order="1" IsIndent="False" Current="{Color Grey}(Это сон?)" Original="{Color Grey}(Dream?)" />
+  <Monologue Order="2" IsIndent="False" Current="{Color Grey}(?)" Original="{Color Grey}(?)" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Ward}{Line}“Только не снова...”" Original="Ward{Line}“Hoo-boy, not again...”" />
+</Monologues>

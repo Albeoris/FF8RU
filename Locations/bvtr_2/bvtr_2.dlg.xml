@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="22" IsIndent="False" Current="{Char Squall}{Line}“Отдохни, если устала.”" Original="{Char Squall}{Line}“You should get some rest if you’re tired.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Squall}{Line}“Ты в порядке?”" Original="{Char Squall}{Line}“You ok?”" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Selphie}{Line}“Что-то я себя...{Line} не очень хорошо чувствую...”" Original="Selphie{Line}“I’m not...feeling well...”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Selphie}{Line}“Так спать хочется...”" Original="Selphie{Line}“I’m really sleepy...”" />
+  <Monologue Order="0" IsIndent="False" Current="{Char Zell}{Line}“Хе-хе. Супер!”" Original="Zell{Line}“Heh-heh.  This is sooo cool!”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Zell}{Line}“{Char Squall}, ты что-нибудь знаешь о Тимбере?”{Line}Нет, и не хочу{Line}Не слишком много" Original="Zell{Line}“{Char Squall}, y’know anything about Timber?”{Line}I don’t care{Line}Not too much" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Zell}{Line}“Ну, чувак!”" Original="Zell{Line}“C’mon, {Char Squall}.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Zell}{Line}“Во! Что ж, позволь мне тебя просветить.”" Original="Zell{Line}“Thought so.  Well, let me fill you in.”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“У них тут даже журналы есть!”" Original="Zell{Line}“They even have magazines here.”" />
+  <Monologue Order="3" IsIndent="False" Current="Received [Pet Pals  Vol.1]!" Original="Received [Pet Pals  Vol.1]!" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Squall}{Line}“Рад, что тебе нравится.”" Original="{Char Squall}{Line}“...I’m glad you’re so excited.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Zell}{Line}“Отпад!{Line} Только ради этого стоило стать сидом!”" Original="Zell{Line}“This is pretty damn amazing.{Line} It pays to be a member of SeeD!”" />
+  <Monologue Order="12" IsIndent="False" Current="Zell{Line}“C’mon, let me tell you{Line} what I know about Timber!”" Original="Zell{Line}“C’mon, let me tell you{Line} what I know about Timber!”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Zell}{Line}“Вот не надо так... я ведь рассказать хочу!”{Line}Мне и без этого хорошо{Line}Валяй..." Original="Zell{Line}“Don’t be like that... I wanna tell you!”{Line}Nah, it’s ok{Line}All right..." />
+  <Monologue Order="8" IsIndent="False" Current="{Char Zell}{Line}“ДА БЛИН! Ну, дай расскажу!”{Line}Просто помолчи{Line}Ладно... рассказывай" Original="Zell{Line}“C’MON!  I wanna tell you what I know!”{Line}Just be quiet{Line}Fine... Talk" />
+  <Monologue Order="15" IsIndent="False" Current="Zell{Line}“.........”" Original="Zell{Line}“.........”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Zell}{Line}“Вот! Сразу бы так.”" Original="Zell{Line}“Yep, that’s what I wanted to hear.”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Zell}{Line}“Ща я объясню вкратце.”" Original="Zell{Line}“Allow me to explain briefly.”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Zell}{Line}“Когда-то Тимбер был обычной страной,{Line} окружённой густыми лесами.”" Original="Zell{Line}“Timber used to be a country{Line} surrounded by deep forests.”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Zell}{Line}“Но 18 лет тому назад,{Line} её захватила Гальбадия.”" Original="Zell{Line}“But 18 years ago,{Line} Galbadia invaded.”" />
+  <Monologue Order="14" IsIndent="False" Current="{Char Zell}{Line}“Тимбер сдался почти без боя.{Line} И теперь страна оккупирована Гальбадией.”" Original="Zell{Line}“Timber fell quite easily to{Line} Galbadia.  So now Timber is{Line} under Galbadian occupation.”" />
+  <Monologue Order="15" IsIndent="False" Current="{Char Zell}{Line}“Говорят, что сейчас там полно{Line} отрядов сопротивления.”" Original="Zell{Line}“It’s said there’s a whole{Line} bunch of resistance factions,{Line} big and small.”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Squall}{Line}“И?..”" Original="{Char Squall}{Line}“...And?”" />
+  <Monologue Order="17" IsIndent="False" Current="{Char Zell}{Line}“И всё.”" Original="Zell{Line}“Nope, that’s it.”" />
+  <Monologue Order="19" IsIndent="False" Current="{Char Squall}{Line}“Ну, спасибо, Всезнающий Зелл.”" Original="{Char Squall}{Line}“...Thank you, Mr. Know-It-All-Zell.”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Zell}{Line}“Эй!.. Арр...”" Original="Zell{Line}“Hey...?  Huh?”" />
+  <Monologue Order="26" IsIndent="False" Current="{Char Zell}{Line}“Что за?!”" Original="Zell{Line}“What the...!?”" />
+  <Monologue Order="27" IsIndent="False" Current="{Char Zell}{Line}“Что-то... не так...{Line} Я... засыпаю...”" Original="Zell{Line}“Somethin’s wrong with me, too...{Line} I...feel...sleepy...”" />
+  <Monologue Order="28" IsIndent="False" Current="{Char Squall}{Line}“Что происходит?”" Original="{Char Squall}{Line}“What’s going on?”" />
+  <Monologue Order="29" IsIndent="False" Current="{Char Squall}{Line}“Аргх!!!”" Original="{Char Squall}{Line}“Ugh!?”" />
+  <Monologue Order="30" IsIndent="False" Current="{Char Squall}{Line}“Что это?!..”" Original="{Char Squall}{Line}“...What is this?”" />
+  <Monologue Order="31" IsIndent="True" Current="Selphie{Line}“Whew... Still sleepy.”" Original="Selphie{Line}“Whew... Still sleepy.”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Zell}{Line}“Да не вопрос!”" Original="Zell{Line}“Hey, no prob!”" />
+  <Monologue Order="18" IsIndent="False" Current="{Char Squall}{Line}“.........”" Original="{Char Squall}{Line}“.........”" />
+  <Monologue Order="32" IsIndent="False" Current="Train Announcement{Line}“Next stop,{Line} Timber...{Line} Timber...”" Original="Train Announcement{Line}“Next stop,{Line} Timber...{Line} Timber...”" />
+  <Monologue Order="33" IsIndent="False" Current="Train Announcement{Line}“We will be arriving in Timber shortly.{Line} For those getting off, please be sure{Line} you have all your belongings.”" Original="Train Announcement{Line}“We will be arriving in Timber shortly.{Line} For those getting off, please be sure{Line} you have all your belongings.”" />
+  <Monologue Order="36" IsIndent="False" Current="{Char Squall}{Line}“Ugh...”" Original="{Char Squall}{Line}“Ugh...”" />
+  <Monologue Order="34" IsIndent="False" Current="Zell{Line}“We should be there soon, eh?”" Original="Zell{Line}“We should be there soon, eh?”" />
+  <Monologue Order="35" IsIndent="False" Current="Zell{Line}“Here we go...{Line} Psyche yourself up, baby!”" Original="Zell{Line}“Here we go...{Line} Psyche yourself up, baby!”" />
+  <Monologue Order="36" IsIndent="False" Current="Zell{Line}“Maybe someone released some sleeping gas?{Line} There’s lots of people who resent SeeD.”" Original="Zell{Line}“Maybe someone released some sleeping gas?{Line} There’s lots of people who resent SeeD.”" />
+  <Monologue Order="37" IsIndent="False" Current="{Char Squall}{Line}“Were we...all asleep?”" Original="{Char Squall}{Line}“Were we...all asleep?”" />
+  <Monologue Order="38" IsIndent="False" Current="(...Maybe.{Line} Better be careful.)" Original="(...Maybe.{Line} Better be careful.)" />
+  <Monologue Order="39" IsIndent="False" Current="Selphie{Line}“Am I missing anything?  Anyone hurt?”" Original="Selphie{Line}“Am I missing anything?  Anyone hurt?”" />
+  <Monologue Order="40" IsIndent="False" Current="{Char Squall}{Line}“...I don’t think so.”" Original="{Char Squall}{Line}“...I don’t think so.”" />
+  <Monologue Order="41" IsIndent="False" Current="Selphie{Line}“What a relief!”" Original="Selphie{Line}“What a relief!”" />
+  <Monologue Order="42" IsIndent="False" Current="Selphie{Line}“Everything’s cool with me!”" Original="Selphie{Line}“Everything’s cool with me!”" />
+  <Monologue Order="43" IsIndent="False" Current="Selphie{Line}“Hee!  I had such a nice dream!”" Original="Selphie{Line}“Hee!  I had such a nice dream!”" />
+  <Monologue Order="44" IsIndent="False" Current="(I had a dream, too.{Line} It wasn’t nice though...)" Original="(I had a dream, too.{Line} It wasn’t nice though...)" />
+  <Monologue Order="45" IsIndent="False" Current="(I dreamt I was a moron...)" Original="(I dreamt I was a moron...)" />
+  <Monologue Order="46" IsIndent="False" Current="Selphie{Line}“But seriously, Sir Laguna was sooo cool!”" Original="Selphie{Line}“But seriously, Sir Laguna was sooo cool!”" />
+  <Monologue Order="47" IsIndent="False" Current="Zell{Line}“Hey!  There was a Laguna in my dream, too!{Line} He’s a Galbadian soldier, right!?”" Original="Zell{Line}“Hey!  There was a Laguna in my dream, too!{Line} He’s a Galbadian soldier, right!?”" />
+  <Monologue Order="48" IsIndent="False" Current="{Char Squall}{Line}“Laguna, Kiros, and Ward...”" Original="{Char Squall}{Line}“Laguna, Kiros, and Ward...”" />
+  <Monologue Order="49" IsIndent="False" Current="Zell{Line}“Huh!?”" Original="Zell{Line}“Huh!?”" />
+  <Monologue Order="50" IsIndent="False" Current="Zell{Line}“That’s it!”" Original="Zell{Line}“That’s it!”" />
+  <Monologue Order="51" IsIndent="False" Current="{Char Squall}{Line}“That’s what...?”" Original="{Char Squall}{Line}“That’s what...?”" />
+  <Monologue Order="52" IsIndent="False" Current="Selphie{Line}“There’s no way we can understand this...{Line} Let’s just concentrate on our first mission!”" Original="Selphie{Line}“There’s no way we can understand this...{Line} Let’s just concentrate on our first mission!”" />
+  <Monologue Order="53" IsIndent="False" Current="(...I guess you’re right.)" Original="(...I guess you’re right.)" />
+  <Monologue Order="54" IsIndent="False" Current="{Char Squall}{Line}“We’ll put this incident on hold.{Line} I’ll report it to the headmaster{Line} once we get back to Garden.”" Original="{Char Squall}{Line}“We’ll put this incident on hold.{Line} I’ll report it to the headmaster{Line} once we get back to Garden.”" />
+</Monologues>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="" Original="" />
+  <Monologue Order="1" IsIndent="False" Current="" Original="" />
+  <Monologue Order="2" IsIndent="False" Current="" Original="" />
+  <Monologue Order="0" IsIndent="False" Current="{Color Grey}(Какого?!..)" Original="{Color Grey}(W-What the...!?)" />
+  <Monologue Order="1" IsIndent="False" Current="{Color Grey}(А?)" Original="{Color Grey}(Huh?)" />
+  <Monologue Order="2" IsIndent="False" Current="“Фух... Лагуна, а ты уверен,{Line} что мы идём туда?”" Original="“Uhh, Laguna, are you sure{Line} this is the right way?”" />
+</Monologues>

@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="“Test”" Original="“Test”" />
+  <Monologue Order="0" IsIndent="False" Current="“Добро пожаловать!{Line} Ваш любимый столик свободен.”" Original="“Welcome!{Line} Your usual table is ready.”" />
+  <Monologue Order="1" IsIndent="True" Current="(Я сперва немного прогуляюсь.){Line}(Отлично, мы на месте!){Line}{Color Grey}(А? Простите?){Color White}" Original="(I’ll walk around a bit first.){Line}(Alright, I’m there!){Line}{Color Grey}(Huh?  Excuse me?){Color White}" />
+  <Monologue Order="3" IsIndent="False" Current="{Color Grey}(What the...!){Color White}" Original="{Color Grey}(What the...!){Color White}" />
+  <Monologue Order="2" IsIndent="False" Current="(Я сперва немного прогуляюсь.){Line}(Давайте присядем.){Line}{Color Grey}(Да что такое?!){Color White}" Original="(I’ll walk around a bit first.){Line}(Let’s take a load off.){Line}{Color Grey}(What is this?){Color White}" />
+  <Monologue Order="5" IsIndent="False" Current="{Color Grey}(What is this?){Color White}" Original="{Color Grey}(What is this?){Color White}" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Laguna}{Line}“Я немного прогуляюсь.”" Original="Laguna{Line}“I’m gonna walk around.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Laguna}{Line}“Благодарю.”" Original="Laguna{Line}“Thanks.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Laguna}{Line}“А?”" Original="Laguna{Line}“Huh?”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Laguna}{Line}“Что?”" Original="Laguna{Line}“What?”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Kiros}{Line}“Что-то не так?”" Original="Kiros{Line}“What’s wrong?”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Laguna}{Line}“Я... не знаю.”" Original="Laguna{Line}“I... I dunno.”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Laguna}{Line}“Не знаю...”" Original="Laguna{Line}“Ahh... I’m not quite sure.”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Ward}{Line}“Минутку...{Line} У тебя тоже в башке шумит?”" Original="Ward{Line}“Wait a second...{Line} Is your head buzzing...?”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Laguna}{Line}“И у тебя?!”" Original="Laguna{Line}“W-What... You, too?”" />
+  <Monologue Order="12" IsIndent="False" Current="{Char Ward}{Line}“Ага. Ещё с Тимбера.”" Original="Ward{Line}“Yeah, ever since we were in Timber.”" />
+  <Monologue Order="13" IsIndent="False" Current="{Char Kiros}{Line}“И у меня...”" Original="Kiros{Line}“Me, too...”" />
+  <Monologue Order="14" IsIndent="False" Current="Ward{Line}“Да мы просто устали, вот и всё!{Line} Нам полегчает после рюмки,{Line} или двух, или, может, трёх...”" Original="Ward{Line}“Hey, we’re just tired, that’s all.  We’ll{Line} be fine after a drink or two, or three...”" />
+  <Monologue Order="15" IsIndent="False" Current="// После третьей реплики в мыслях{Line}{Char Laguna}{Line}“ЗАТКНИСЬ ПОЖАЛУЙСТА!!!”" Original="Laguna{Line}“Just shut up, PU-LEASE!!!”" />
+  <Monologue Order="16" IsIndent="True" Current="{Color Grey}(Это сон?..){Color White}" Original="{Color Grey}(Is this a dream...?){Color White}" />
+  <Monologue Order="17" IsIndent="False" Current="{Color Grey}(А Лагуна симпатяшка!){Color White}" Original="{Color Grey}(Laguna’s pretty cute!){Color White}" />
+  <Monologue Order="18" IsIndent="False" Current="{Color Grey}(Что происходит?!{Line} Что со мной творится?!){Color White}" Original="{Color Grey}(What’s goin’ on!?{Line} W-What’s happening to me!?){Color White}" />
+  <Monologue Order="19" IsIndent="True" Current="{Char Laguna}{Line}“Вольно, парни.”" Original="Laguna{Line}“At ease, men.”" />
+  <Monologue Order="20" IsIndent="False" Current="{Char Laguna}{Line}“Сегодня ночью мы выложимся по полной!”" Original="Laguna{Line}“We’re goin’ all out tonight, right boys!?”" />
+  <Monologue Order="21" IsIndent="False" Current="“Могу я принять ваш заказ?”" Original="“May I take your order?”" />
+  <Monologue Order="22" IsIndent="False" Current="{Char Laguna}{Line}“Как обычно!”" Original="Laguna{Line}“The usual!”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Kiros}{Line}“Мне тоже”" Original="Kiros{Line}“Me, too.”" />
+  <Monologue Order="24" IsIndent="False" Current="{Char Ward}{Line}“Несите уже!”" Original="Ward{Line}“Keep ’em coming!”" />
+  <Monologue Order="25" IsIndent="False" Current="{Char Ward}{Line}“Итак, {Char Laguna}...{Line} Julia should be making her appearance soon.”" Original="Ward{Line}“So, Laguna...{Line} Julia should be making her appearance soon.”" />
+  <Monologue Order="26" IsIndent="False" Current="Ward{Line}“You goin’ for it tonight?”" Original="Ward{Line}“You goin’ for it tonight?”" />
+  <Monologue Order="27" IsIndent="False" Current="Kiros{Line}“Yeah, go for it!”" Original="Kiros{Line}“Yeah, go for it!”" />
+  <Monologue Order="28" IsIndent="False" Current="Laguna{Line}“What-ever, man!{Line} Can’t you see she’s working?”" Original="Laguna{Line}“What-ever, man!{Line} Can’t you see she’s working?”" />
+  <Monologue Order="29" IsIndent="False" Current="Kiros{Line}“Don’t go back on your word.{Line} C’mon, go wave to her.”" Original="Kiros{Line}“Don’t go back on your word.{Line} C’mon, go wave to her.”" />
+  <Monologue Order="30" IsIndent="False" Current="Laguna{Line}“Give me a break...”" Original="Laguna{Line}“Give me a break...”" />
+  <Monologue Order="31" IsIndent="False" Current="Ward{Line}“So you say,{Line} but we know you’ll do it.”" Original="Ward{Line}“So you say,{Line} but we know you’ll do it.”" />
+  <Monologue Order="32" IsIndent="False" Current="Kiros{Line}“No seats here for a man{Line} who can’t even carry out{Line} a mission like this...”" Original="Kiros{Line}“No seats here for a man{Line} who can’t even carry out{Line} a mission like this...”" />
+  <Monologue Order="33" IsIndent="False" Current="Ward{Line}“Why are you being so quiet?{Line} It’s creepy.”" Original="Ward{Line}“Why are you being so quiet?{Line} It’s creepy.”" />
+  <Monologue Order="34" IsIndent="False" Current="Kiros{Line}“You’re freakin’ out, aren’t ya?”" Original="Kiros{Line}“You’re freakin’ out, aren’t ya?”" />
+  <Monologue Order="35" IsIndent="False" Current="Ward{Line}“You want the whole Galbadian Army{Line} to know what a weenie you are tomorrow?”" Original="Ward{Line}“You want the whole Galbadian Army{Line} to know what a weenie you are tomorrow?”" />
+  <Monologue Order="36" IsIndent="False" Current="Kiros{Line}“C’mon Laguna, go for it!”{Next}“Soldiers like us might never{Line} get another chance...”" Original="Kiros{Line}“C’mon Laguna, go for it!”{Next}“Soldiers like us might never{Line} get another chance...”" />
+  <Monologue Order="37" IsIndent="False" Current="Ward{Line}“Hey, hey.  We’re not sayin’ you{Line} should go hit on her or nuthin’.”{Next}“Just get her to notice you.{Line} That’s good enough, eh?”" Original="Ward{Line}“Hey, hey.  We’re not sayin’ you{Line} should go hit on her or nuthin’.”{Next}“Just get her to notice you.{Line} That’s good enough, eh?”" />
+  <Monologue Order="38" IsIndent="False" Current="Ward{Line}“Way t’go, Laguna!{Line} Here, here, sit down!”" Original="Ward{Line}“Way t’go, Laguna!{Line} Here, here, sit down!”" />
+  <Monologue Order="39" IsIndent="False" Current="Ward{Line}“Can you really carry on a conversation{Line} with Julia?  Make sure the{Line} conversation’s sophisticated.”" Original="Ward{Line}“Can you really carry on a conversation{Line} with Julia?  Make sure the{Line} conversation’s sophisticated.”" />
+  <Monologue Order="40" IsIndent="False" Current="Laguna{Line}“No worries, man!{Line} That’s like, my specialty.”" Original="Laguna{Line}“No worries, man!{Line} That’s like, my specialty.”" />
+  <Monologue Order="41" IsIndent="False" Current="Kiros{Line}“One wouldn’t say you converse, though...{Line} All you do is yap-yap-yap and never listen.”" Original="Kiros{Line}“One wouldn’t say you converse, though...{Line} All you do is yap-yap-yap and never listen.”" />
+  <Monologue Order="42" IsIndent="False" Current="Kiros{Line}“Don’t forget to massage your leg.”" Original="Kiros{Line}“Don’t forget to massage your leg.”" />
+  <Monologue Order="43" IsIndent="False" Current="Ward{Line}“It was pretty saaad, seeing you{Line} writhing in pain up there...”" Original="Ward{Line}“It was pretty saaad, seeing you{Line} writhing in pain up there...”" />
+  <Monologue Order="47" IsIndent="False" Current="Laguna{Line}“Don’t say things like that!{Line} What if it really happens!?”" Original="Laguna{Line}“Don’t say things like that!{Line} What if it really happens!?”" />
+  <Monologue Order="48" IsIndent="False" Current="(What the heck is up with this?{Line} {Color Grey}...What the...?  What’s going on?{Color White})" Original="(What the heck is up with this?{Line} {Color Grey}...What the...?  What’s going on?{Color White})" />
+  <Monologue Order="49" IsIndent="False" Current="(Am I dreaming?{Line} {Color Grey}...This is a dream...This is a dream...{Color White})" Original="(Am I dreaming?{Line} {Color Grey}...This is a dream...This is a dream...{Color White})" />
+  <Monologue Order="50" IsIndent="False" Current="(No, this can’t be a dream!{Line} {Color Grey}This is too weird to be a dream...{Color White})" Original="(No, this can’t be a dream!{Line} {Color Grey}This is too weird to be a dream...{Color White})" />
+  <Monologue Order="51" IsIndent="False" Current="(I always screw up by talking about myself{Line} too much.  It’s always been like that.{Line} But not tonight!  I’m all ears for Julia!)" Original="(I always screw up by talking about myself{Line} too much.  It’s always been like that.{Line} But not tonight!  I’m all ears for Julia!)" />
+  <Monologue Order="52" IsIndent="False" Current="(Ahh, time to use my manly charm,{Line} and help Julia with her problem.)" Original="(Ahh, time to use my manly charm,{Line} and help Julia with her problem.)" />
+  <Monologue Order="53" IsIndent="False" Current="({Color Grey}If this is a dream... Wake up...{Color White})" Original="({Color Grey}If this is a dream... Wake up...{Color White})" />
+  <Monologue Order="54" IsIndent="False" Current="" Original="" />
+  <Monologue Order="55" IsIndent="False" Current="" Original="" />
+  <Monologue Order="56" IsIndent="False" Current="" Original="" />
+  <Monologue Order="44" IsIndent="False" Current="Kiros{Line}“Good work, Laguna.”" Original="Kiros{Line}“Good work, Laguna.”" />
+  <Monologue Order="45" IsIndent="False" Current="Ward{Line}“Mission successful!”" Original="Ward{Line}“Mission successful!”" />
+  <Monologue Order="46" IsIndent="False" Current="Kiros{Line}“Here, have a seat.”" Original="Kiros{Line}“Here, have a seat.”" />
+  <Monologue Order="47" IsIndent="False" Current="Ward{Line}“I didn’t think you’d actually do it.{Line} Our popularity rating’s gone up a point.”" Original="Ward{Line}“I didn’t think you’d actually do it.{Line} Our popularity rating’s gone up a point.”" />
+  <Monologue Order="48" IsIndent="False" Current="Kiros{Line}“Yeah, but you cut a pretty pitiful{Line} figure up there.  I’d say you’re about{Line} a -3 on the manliness scale.”" Original="Kiros{Line}“Yeah, but you cut a pretty pitiful{Line} figure up there.  I’d say you’re about{Line} a -3 on the manliness scale.”" />
+  <Monologue Order="49" IsIndent="False" Current="Laguna{Line}“Say what you want!”" Original="Laguna{Line}“Say what you want!”" />
+  <Monologue Order="50" IsIndent="False" Current="Laguna{Line}“(sigh...)”" Original="Laguna{Line}“(sigh...)”" />
+  <Monologue Order="51" IsIndent="False" Current="Laguna{Line}“Julia sure is pretty...”" Original="Laguna{Line}“Julia sure is pretty...”" />
+  <Monologue Order="52" IsIndent="False" Current="Kiros{Line}“Aaa...”" Original="Kiros{Line}“Aaa...”" />
+  <Monologue Order="53" IsIndent="False" Current="Ward{Line}“Hunhhh...?”" Original="Ward{Line}“Hunhhh...?”" />
+  <Monologue Order="54" IsIndent="False" Current="Kiros{Line}“Laguna, we’re takin’ off.”" Original="Kiros{Line}“Laguna, we’re takin’ off.”" />
+  <Monologue Order="55" IsIndent="False" Current="Ward{Line}“It’s on us tonight.{Line} Relax and stay awhile, Laguna.”" Original="Ward{Line}“It’s on us tonight.{Line} Relax and stay awhile, Laguna.”" />
+  <Monologue Order="56" IsIndent="False" Current="Laguna{Line}“H-Hey!{Line} What’s the rush?”" Original="Laguna{Line}“H-Hey!{Line} What’s the rush?”" />
+  <Monologue Order="57" IsIndent="False" Current="Laguna{Line}“Aaaaa...”" Original="Laguna{Line}“Aaaaa...”" />
+  <Monologue Order="58" IsIndent="False" Current="Julia{Line}“May I?”" Original="Julia{Line}“May I?”" />
+  <Monologue Order="59" IsIndent="False" Current="Julia{Line}“Did I interrupt anything?”" Original="Julia{Line}“Did I interrupt anything?”" />
+  <Monologue Order="60" IsIndent="False" Current="Laguna{Line}“N-N-N-Not at all.”" Original="Laguna{Line}“N-N-N-Not at all.”" />
+  <Monologue Order="61" IsIndent="False" Current="Laguna{Line}“P-Please, s-sit down.”" Original="Laguna{Line}“P-Please, s-sit down.”" />
+  <Monologue Order="62" IsIndent="False" Current="(Oh man, oh man, it’s really HER!{Line} What do I do!?  Kiros?  Ward?  HELP!{Line} What do I say!?  But man, she is pretty...){Line}    {Color Grey}(What’s this guy thinking...?){Color White}" Original="(Oh man, oh man, it’s really HER!{Line} What do I do!?  Kiros?  Ward?  HELP!{Line} What do I say!?  But man, she is pretty...){Line}    {Color Grey}(What’s this guy thinking...?){Color White}" />
+  <Monologue Order="76" IsIndent="False" Current="{Color Grey}(...Pretty uncomfortable for me.){Color White}" Original="{Color Grey}(...Pretty uncomfortable for me.){Color White}" />
+  <Monologue Order="63" IsIndent="False" Current="Julia{Line}“You ok now?”" Original="Julia{Line}“You ok now?”" />
+  <Monologue Order="64" IsIndent="False" Current="Laguna{Line}“Kind of...”" Original="Laguna{Line}“Kind of...”" />
+  <Monologue Order="65" IsIndent="False" Current="Julia{Line}“How’s your leg?”" Original="Julia{Line}“How’s your leg?”" />
+  <Monologue Order="66" IsIndent="False" Current="Laguna{Line}“L-Leg?  Oh, this!?{Line} Y-Yeah, it’s fine.”{Next}“Happens all the time{Line} when I get nervous.(cough)”" Original="Laguna{Line}“L-Leg?  Oh, this!?{Line} Y-Yeah, it’s fine.”{Next}“Happens all the time{Line} when I get nervous.(cough)”" />
+  <Monologue Order="67" IsIndent="False" Current="Julia{Line}“Were you nervous?”" Original="Julia{Line}“Were you nervous?”" />
+  <Monologue Order="68" IsIndent="False" Current="Laguna{Line}“Oh, yeah.{Line} I’m still kinda...”" Original="Laguna{Line}“Oh, yeah.{Line} I’m still kinda...”" />
+  <Monologue Order="69" IsIndent="False" Current="Julia{Line}“You can relax.”{Next}“You don’t have to get{Line} nervous around me.”" Original="Julia{Line}“You can relax.”{Next}“You don’t have to get{Line} nervous around me.”" />
+  <Monologue Order="70" IsIndent="False" Current="Laguna{Line}“Oh, sorry.”" Original="Laguna{Line}“Oh, sorry.”" />
+  <Monologue Order="71" IsIndent="False" Current="Julia{Line}“Say...{Line} (Would you like to talk somewhere private?{Line}  I have a room here...)”" Original="Julia{Line}“Say...{Line} (Would you like to talk somewhere private?{Line}  I have a room here...)”" />
+  <Monologue Order="72" IsIndent="False" Current="Laguna{Line}“I-In your room!?”" Original="Laguna{Line}“I-In your room!?”" />
+  <Monologue Order="73" IsIndent="False" Current="Julia{Line}“Well...”{Next}“(It’s pretty hard to talk freely here.{Line}  Everyone’s listening in.)”" Original="Julia{Line}“Well...”{Next}“(It’s pretty hard to talk freely here.{Line}  Everyone’s listening in.)”" />
+  <Monologue Order="74" IsIndent="False" Current="Julia{Line}“If you’d like to, please come by.{Line} I’ve been wanting to talk to you.”" Original="Julia{Line}“If you’d like to, please come by.{Line} I’ve been wanting to talk to you.”" />
+  <Monologue Order="75" IsIndent="False" Current="Julia{Line}“You don’t want to?”" Original="Julia{Line}“You don’t want to?”" />
+  <Monologue Order="76" IsIndent="False" Current="Laguna{Line}“Of course I do!”" Original="Laguna{Line}“Of course I do!”" />
+  <Monologue Order="77" IsIndent="False" Current="Julia{Line}“Then I’ll go ahead and wait for you.{Line} Ask for my room at the front desk, ok?”" Original="Julia{Line}“Then I’ll go ahead and wait for you.{Line} Ask for my room at the front desk, ok?”" />
+  <Monologue Order="92" IsIndent="False" Current="(What the heck is up with this?{Line} {Color Grey}...What the...?  What’s going on?{Color White})" Original="(What the heck is up with this?{Line} {Color Grey}...What the...?  What’s going on?{Color White})" />
+  <Monologue Order="78" IsIndent="False" Current="(Am I dreaming?{Line} {Color Grey}...This is a dream...This is a dream...{Color White})" Original="(Am I dreaming?{Line} {Color Grey}...This is a dream...This is a dream...{Color White})" />
+  <Monologue Order="79" IsIndent="False" Current="(No, this can’t be a dream!{Line} {Color Grey}This is too weird to be a dream...{Color White})" Original="(No, this can’t be a dream!{Line} {Color Grey}This is too weird to be a dream...{Color White})" />
+  <Monologue Order="80" IsIndent="False" Current="(Julia...?  Wants to talk to me...?{Line}     {Color Grey}...He talks to himself too much...{Color White})" Original="(Julia...?  Wants to talk to me...?{Line}     {Color Grey}...He talks to himself too much...{Color White})" />
+  <Monologue Order="81" IsIndent="False" Current="(And just the two of us!{Line} Get it together Laguna... {Color Grey}Whatever{Color White})" Original="(And just the two of us!{Line} Get it together Laguna... {Color Grey}Whatever{Color White})" />
+  <Monologue Order="82" IsIndent="False" Current="(I always screw up by talking about myself{Line} too much.  It’s always been like that.{Line} But not tonight!  I’m all ears for Julia!)" Original="(I always screw up by talking about myself{Line} too much.  It’s always been like that.{Line} But not tonight!  I’m all ears for Julia!)" />
+  <Monologue Order="83" IsIndent="False" Current="(Ahh, time to use my manly charm,{Line} and help Julia with her problem.)" Original="(Ahh, time to use my manly charm,{Line} and help Julia with her problem.)" />
+  <Monologue Order="99" IsIndent="False" Current="({Color Grey}If this is a dream... Wake up...{Color White})" Original="({Color Grey}If this is a dream... Wake up...{Color White})" />
+  <Monologue Order="84" IsIndent="False" Current="“Just a moment please.”" Original="“Just a moment please.”" />
+  <Monologue Order="85" IsIndent="False" Current="“Excuse me, Laguna.{Line} Please don’t bother{Line} Julia.”" Original="“Excuse me, Laguna.{Line} Please don’t bother{Line} Julia.”" />
+  <Monologue Order="86" IsIndent="False" Current="“Wow, this is turning into{Line} something really special.”" Original="“Wow, this is turning into{Line} something really special.”" />
+  <Monologue Order="87" IsIndent="True" Current="“Солдаты!{Line} МНЕ поручено охранять мисс Джулию.{Line} И я переломаю пальцы первому,{Line} кто протянет к ней свои лапы. ВАМ ЯСНО?!”" Original="“Listen up, soldiers.{Line} I’m Julia’s private bodyguard.{Line} Better not make a pass at her.”" />
+  <Monologue Order="88" IsIndent="False" Current="“Soldiers...{Line} Don’t bother me in my time of bliss...”" Original="“Soldiers...{Line} Don’t bother me in my time of bliss...”" />
+  <Monologue Order="89" IsIndent="False" Current="“Hey soldier...{Line} You got a little too close to Julia...{Line} I’ll get you for that...”" Original="“Hey soldier...{Line} You got a little too close to Julia...{Line} I’ll get you for that...”" />
+  <Monologue Order="90" IsIndent="False" Current="“Pretty bold for just a grunt...{Line} Julia this... Julia that...{Line} Yeah, I’ll fix you...{Line} Send you off to war a million miles away...”" Original="“Pretty bold for just a grunt...{Line} Julia this... Julia that...{Line} Yeah, I’ll fix you...{Line} Send you off to war a million miles away...”" />
+  <Monologue Order="91" IsIndent="True" Current="“Я... ааа... сегодня... назначен{Line} в инженерные войска.{Line} П-приятно познакомиться со всеми вами.”{Next}“Какой радостный день... для меня!{Line} Пожалуйста, не пытайтесь меня остановить...{Line} Я бы хотел предложить тост - за себя!”" Original="“I...aah...as of today...{Line} am assigned to the Engineer Corps.{Line} N-Nice to meet you all.”{Next}“What a joyous day for me!{Line} Please everyone, don’t try to stop me...{Line} I would like to propose a toast...to myself!”" />
+  <Monologue Order="92" IsIndent="False" Current="“To be able to listen to Julia play{Line} on a day like this...”{Next}“Oh baby!{Line} This is turning out to be a lovely night!”" Original="“To be able to listen to Julia play{Line} on a day like this...”{Next}“Oh baby!{Line} This is turning out to be a lovely night!”" />
+  <Monologue Order="93" IsIndent="False" Current="“Today’s my special day.{Line} But...{Line} Julia chose YOU!”{Next}“Why!?{Line} Why must it always be like this!?(hic)”{Next}“And why...must it be{Line} on this day of all days...!?”" Original="“Today’s my special day.{Line} But...{Line} Julia chose YOU!”{Next}“Why!?{Line} Why must it always be like this!?(hic)”{Next}“And why...must it be{Line} on this day of all days...!?”" />
+  <Monologue Order="94" IsIndent="False" Current="(NO WAY...!{Line} I can’t bother Julia!)" Original="(NO WAY...!{Line} I can’t bother Julia!)" />
+  <Monologue Order="95" IsIndent="False" Current="(NO!NO!NO!)" Original="(NO!NO!NO!)" />
+  <Monologue Order="96" IsIndent="False" Current="(If I run from this, the guys{Line} will call me a weenie forever.)" Original="(If I run from this, the guys{Line} will call me a weenie forever.)" />
+  <Monologue Order="97" IsIndent="False" Current="(Well, I carried out my mission, so I’ll{Line} be able to report with my head held high.)" Original="(Well, I carried out my mission, so I’ll{Line} be able to report with my head held high.)" />
+  <Monologue Order="98" IsIndent="False" Current="“You saw it in my eyes, didn’t you!?{Line} You’re up for a challenge, right!?”" Original="“You saw it in my eyes, didn’t you!?{Line} You’re up for a challenge, right!?”" />
+  <Monologue Order="99" IsIndent="False" Current="“Bring on your cards!”{Line}Yes{Line}No" Original="“Bring on your cards!”{Line}Yes{Line}No" />
+  <Monologue Order="100" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Balamb’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Balamb’s rules and ours.”" />
+  <Monologue Order="101" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Galbadia’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Galbadia’s rules and ours.”" />
+  <Monologue Order="102" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Trabia’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Trabia’s rules and ours.”" />
+  <Monologue Order="103" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Centra’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Centra’s rules and ours.”" />
+  <Monologue Order="104" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Dollet’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Dollet’s rules and ours.”" />
+  <Monologue Order="105" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} FH’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} FH’s rules and ours.”" />
+  <Monologue Order="106" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Lunar’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Lunar’s rules and ours.”" />
+  <Monologue Order="107" IsIndent="False" Current="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Esthar’s rules and ours.”" Original="“You seem to know rules{Line} unfamiliar to this area.”{Next}“Let’s play a game with{Line} Esthar’s rules and ours.”" />
+  <Monologue Order="108" IsIndent="False" Current="You need 5 or more{Line}cards to play." Original="You need 5 or more{Line}cards to play." />
+  <Monologue Order="109" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Open”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="110" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="111" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Plus”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="112" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Random”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="113" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Sudden Death”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="114" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Retry”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="115" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Same Wall”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="116" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." Original="The {Color Blue}“Elemental”{Color White} rule has spread{Line}throughout this region." />
+  <Monologue Order="117" IsIndent="False" Current="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Open”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="118" IsIndent="False" Current="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="119" IsIndent="False" Current="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Plus”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="120" IsIndent="False" Current="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Random”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="121" IsIndent="False" Current="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Sudden Death”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="138" IsIndent="False" Current="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Retry”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="122" IsIndent="False" Current="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Same Wall”{Color White} rule was abolished{Line}from this region." />
+  <Monologue Order="123" IsIndent="False" Current="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." Original="The {Color Blue}“Elemental”{Color White} rule was abolished{Line}from this region." />
+</Monologues>

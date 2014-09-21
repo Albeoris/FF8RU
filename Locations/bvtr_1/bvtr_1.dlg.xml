@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monologues>
+  <Monologue Order="0" IsIndent="False" Current="// Из Баламба в Тимбер{Line}{Char Zell}{Line}“Эй, зацени!{Line} Это приватное купе для сидов!..”" Original="Zell{Line}“Yo, check it out!{Line} So this is SeeD’s private cabin...!”" />
+  <Monologue Order="1" IsIndent="False" Current="{Char Zell}{Line}“УХ ТЫ!”" Original="Zell{Line}“WHOA!”" />
+  <Monologue Order="2" IsIndent="False" Current="{Char Zell}{Line}“ООО, ДААА! ПОТРЯСНО!”" Original="Zell{Line}“OHHH YEAHHH!  AWESOME!”" />
+  <Monologue Order="3" IsIndent="False" Current="{Char Selphie}{Line}“Я люблю поезда.”" Original="Selphie{Line}“I love trains.”" />
+  <Monologue Order="6" IsIndent="False" Current="{Char Selphie}{Line}“Я побуду здесь ещё немного.”" Original="Selphie{Line}“I’m gonna hang out here for a bit.”" />
+  <Monologue Order="5" IsIndent="False" Current="{Char Selphie}{Line}“Ой... ты иди, а я ещё здесь постою.”" Original="Selphie{Line}“Oh... I’ll meet you inside.”" />
+  <Monologue Order="4" IsIndent="False" Current="{Char Selphie}{Line}“Такой хороший ветерок...”" Original="Selphie{Line}“Such a nice breeze...”" />
+  <Monologue Order="7" IsIndent="False" Current="{Char Selphie}{Line}“Поезд, поезд, увези нас вдаль...”" Original="Selphie{Line}“Train♬ Train♬ Take Us Away♬”" />
+  <Monologue Order="8" IsIndent="False" Current="{Char Selphie}{Line}“В далёкую, далёкую даль...”" Original="Selphie{Line}“Take Us Away♬ Far Away♬”" />
+  <Monologue Order="9" IsIndent="False" Current="{Char Selphie}{Line}“Отправиться в будущее нам суждено...”" Original="Selphie{Line}“To the Future♬ We Will Go♬”" />
+  <Monologue Order="10" IsIndent="False" Current="{Char Selphie}{Line}“И никому неведомо, каким будет оно.”" Original="Selphie{Line}“Where It Leads♬ No One Knows♬”" />
+  <Monologue Order="11" IsIndent="False" Current="{Char Squall}{Line}“Ok, Ok...”" Original="{Char Squall}{Line}“Ok, Ok...”" />
+  <Monologue Order="11" IsIndent="True" Current="Irvine{Line}“Selphie... We’re destined to be together!”" Original="Irvine{Line}“Selphie... We’re destined to be together!”" />
+  <Monologue Order="12" IsIndent="False" Current="Irvine{Line}“A sigh of love?”" Original="Irvine{Line}“A sigh of love?”" />
+  <Monologue Order="13" IsIndent="False" Current="Irvine{Line}“Pardon me...”" Original="Irvine{Line}“Pardon me...”" />
+  <Monologue Order="14" IsIndent="False" Current="Selphie{Line}“Y-Yeah right...!”" Original="Selphie{Line}“Y-Yeah right...!”" />
+  <Monologue Order="15" IsIndent="False" Current="Selphie{Line}“My heart’s pounding...{Line} What is this I’m feeling?”" Original="Selphie{Line}“My heart’s pounding...{Line} What is this I’m feeling?”" />
+  <Monologue Order="16" IsIndent="False" Current="{Char Squall}{Line}“It’s an important mission.{Line} Get used to handling pressure{Line} while you still can.”" Original="{Char Squall}{Line}“It’s an important mission.{Line} Get used to handling pressure{Line} while you still can.”" />
+  <Monologue Order="17" IsIndent="False" Current="Selphie{Line}“...(sigh)”" Original="Selphie{Line}“...(sigh)”" />
+  <Monologue Order="18" IsIndent="False" Current="Selphie{Line}“N-No...”" Original="Selphie{Line}“N-No...”" />
+  <Monologue Order="19" IsIndent="False" Current="Selphie{Line}“How much longer ’til Deling City?”" Original="Selphie{Line}“How much longer ’til Deling City?”" />
+  <Monologue Order="20" IsIndent="False" Current="Selphie{Line}“How much longer ’til Galbadia?”{Line}(We should be there soon){Line}(A little while longer)" Original="Selphie{Line}“How much longer ’til Galbadia?”{Line}(We should be there soon){Line}(A little while longer)" />
+  <Monologue Order="21" IsIndent="False" Current="{Char Squall}{Line}“We’re almost there.”" Original="{Char Squall}{Line}“We’re almost there.”" />
+  <Monologue Order="23" IsIndent="False" Current="{Char Squall}{Line}“A little while longer.”" Original="{Char Squall}{Line}“A little while longer.”" />
+</Monologues>
